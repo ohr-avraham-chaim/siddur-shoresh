@@ -63,6 +63,23 @@ for p in d["prayers"]:
     else:
         hollow.append((pid, len(ws)))
 
+# ── the 18 fetched from Sefaria: text is Sefaria's, roots only where matched ──
+HEB = Path(os.path.expanduser("~/.claude/jobs/2920a354/tmp/hebrew.json"))
+fetched = json.load(open(HEB, encoding="utf-8")) if HEB.exists() else {}
+for pid, v in fetched.items():
+    prayers[pid] = {
+        "id": pid, "en": v["en"], "he": v["he"], "source": v["ref"],
+        "version": v.get("version"), "license": v.get("license"),
+        "words": [{"hebrew": w["hebrew"], "translation": None, "verse": w["verse"],
+                   "shoresh": ({"root": w["root"]} if w["root"] else {})} for w in v["words"]],
+    }
+hollow = [h for h in hollow if h[0] not in fetched]
+
+ORDER = ORDER[:11] + ["ashrei"] + [
+  "baruch_sheamar","hodu","psalm_100","verse_compilation_1","psalm_146","psalm_147",
+  "psalm_148","psalm_149","psalm_150","verse_compilation_2","vayevarech_david",
+  "ata_hu_hashem","vayoshia","shirat_hayam","yishtabach","psalm_30",
+  "baruch_hashem_leolam","kaddish","shema","aleinu"]
 order = [p for p in ORDER if p in prayers] + [p for p in prayers if p not in ORDER]
 
 # ── the graph ────────────────────────────────────────────────────────────

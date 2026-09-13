@@ -1,0 +1,8522 @@
+{
+ "psalm_30": {
+  "ref": "Psalms 30",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 30",
+  "he": "מִזְמוֹר שִׁיר חֲנֻכַּת הַבַּיִת",
+  "segments": 13,
+  "words": [
+   {
+    "hebrew": "מִזְמ֡וֹר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁיר־חֲנֻכַּ֖ת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַבַּ֣יִת",
+    "verse": 1,
+    "root": "ב-י-ת",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְדָוִֽד׃",
+    "verse": 1,
+    "root": "ד-ו-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֲרוֹמִמְךָ֣",
+    "verse": 2,
+    "root": "ר-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְ֭הֹוָה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֣י",
+    "verse": 2,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "דִלִּיתָ֑נִי",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְלֹֽא־שִׂמַּ֖חְתָּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֹיְבַ֣י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִֽי׃",
+    "verse": 2,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֥ה",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהָ֑י",
+    "verse": 3,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שִׁוַּ֥עְתִּי",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵ֝לֶ֗יךָ",
+    "verse": 3,
+    "root": "א-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וַתִּרְפָּאֵֽנִי׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְֽהֹוָ֗ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֶעֱלִ֣יתָ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִן־שְׁא֣וֹל",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נַפְשִׁ֑י",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חִ֝יִּיתַ֗נִי",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "(מיורדי)",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "[מִיׇּֽרְדִי־]בֽוֹר׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זַמְּר֣וּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַיהֹוָ֣ה",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֲסִידָ֑יו",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְ֝הוֹד֗וּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְזֵ֣כֶר",
+    "verse": 5,
+    "root": "ז-כ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "קׇדְשֽׁוֹ׃",
+    "verse": 5,
+    "root": "ק-ד-ש",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כִּ֤י",
+    "verse": 6,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "רֶ֨גַע&thinsp;׀",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּאַפּוֹ֮",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חַיִּ֢ים",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּרְצ֫וֹנ֥וֹ",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּ֭עֶרֶב",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָלִ֥ין",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בֶּ֗כִי",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְלַבֹּ֥קֶר",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רִנָּֽה׃",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַ֭אֲנִי",
+    "verse": 7,
+    "root": "א-נ-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אָמַ֣רְתִּי",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְשַׁלְוִ֑י",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּל־אֶמּ֥וֹט",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָֽם׃",
+    "verse": 7,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְֽהֹוָ֗ה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּרְצוֹנְךָ֮",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֶעֱמַ֢דְתָּה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְֽהַרְרִ֫י־עֹ֥ז",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הִסְתַּ֥רְתָּ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פָנֶ֗יךָ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָיִ֥יתִי",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נִבְהָֽל׃",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵלֶ֣יךָ",
+    "verse": 9,
+    "root": "א-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֣ה",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶקְרָ֑א",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאֶל־אֲ֝דֹנָ֗י",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶתְחַנָּֽן׃",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַה־בֶּ֥צַע",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּדָמִי֮",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּרִדְתִּ֢י",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶ֫ל־שָׁ֥חַת",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֲיוֹדְךָ֥",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עָפָ֑ר",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֲיַגִּ֥יד",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲמִתֶּֽךָ׃",
+    "verse": 10,
+    "root": "א-מ-ת",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "שְׁמַע־יְהֹוָ֥ה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְחׇנֵּ֑נִי",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְ֝הֹוָ֗ה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֱֽיֵה־עֹזֵ֥ר",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִֽי׃",
+    "verse": 11,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָפַ֣כְתָּ",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִסְפְּדִי֮",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְמָח֢וֹל",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִ֥֫י",
+    "verse": 12,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "פִּתַּ֥חְתָּ",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שַׂקִּ֑י",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַֽתְּאַזְּרֵ֥נִי",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׂמְחָֽה׃",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְמַ֤עַן&thinsp;׀",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְזַמֶּרְךָ֣",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָ֭בוֹד",
+    "verse": 13,
+    "root": "כ-ב-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְלֹ֣א",
+    "verse": 13,
+    "root": "ל-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִדֹּ֑ם",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֥ה",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱ֝לֹהַ֗י",
+    "verse": 13,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְעוֹלָ֥ם",
+    "verse": 13,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אוֹדֶֽךָּ׃&nbsp;{פ}",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "psalm_100": {
+  "ref": "Psalms 100",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 100 — Mizmor LeTodah",
+  "he": "מִזְמוֹר לְתוֹדָה",
+  "segments": 5,
+  "words": [
+   {
+    "hebrew": "מִזְמ֥וֹר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְתוֹדָ֑ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָרִ֥יעוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַ֝יהֹוָ֗ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כׇּל־הָאָֽרֶץ׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עִבְד֣וּ",
+    "verse": 2,
+    "root": "ע-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֶת־יְהֹוָ֣ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּשִׂמְחָ֑ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בֹּ֥אוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְ֝פָנָ֗יו",
+    "verse": 2,
+    "root": "פ-נ-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בִּרְנָנָֽה׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְּע֗וּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּֽי־יְהֹוָה֮",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ה֤וּא",
+    "verse": 3,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֱלֹ֫הִ֥ים",
+    "verse": 3,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הֽוּא־עָ֭שָׂנוּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "(ולא)",
+    "verse": 3,
+    "root": "ל-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "[וְל֣וֹ]",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲנַ֑חְנוּ",
+    "verse": 3,
+    "root": "א-נ-ח",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עַ֝מּ֗וֹ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְצֹ֣אן",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַרְעִיתֽוֹ׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בֹּ֤אוּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁעָרָ֨יו&thinsp;׀",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּתוֹדָ֗ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֲצֵרֹתָ֥יו",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּתְהִלָּ֑ה",
+    "verse": 4,
+    "root": "ה-ל-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הוֹדוּ־ל֝֗וֹ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרְכ֥וּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֽוֹ׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי־ט֣וֹב",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְ֭הֹוָה",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָ֣ם",
+    "verse": 5,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "חַסְדּ֑וֹ",
+    "verse": 5,
+    "root": "ח-ס-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְעַד־דֹּ֥ר",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וָ֝דֹ֗ר",
+    "verse": 5,
+    "root": "ד-ו-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֱמוּנָתֽוֹ׃&nbsp;{פ}",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "psalm_146": {
+  "ref": "Psalms 146",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 146",
+  "he": "הַלְלוּיָהּ",
+  "segments": 10,
+  "words": [
+   {
+    "hebrew": "הַֽלְלוּ־יָ֡הּ",
+    "verse": 1,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַֽלְלִ֥י",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נַ֝פְשִׁ֗י",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־יְהֹוָֽה׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲהַלְלָ֣ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֣ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּחַיָּ֑י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲזַמְּרָ֖ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֵאלֹהַ֣י",
+    "verse": 2,
+    "root": "א-ל-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְּעוֹדִֽי׃",
+    "verse": 2,
+    "root": "ע-ו-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אַל־תִּבְטְח֥וּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִנְדִיבִ֑ים",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּבֶן־אָדָ֓ם&thinsp;׀",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֶׁ֤אֵ֖ין",
+    "verse": 3,
+    "root": "א-י-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "ל֥וֹ",
+    "verse": 3,
+    "root": "ל-ו",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "תְשׁוּעָֽה׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תֵּצֵ֣א",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ר֭וּחוֹ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָשֻׁ֣ב",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְאַדְמָת֑וֹ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּיּ֥וֹם",
+    "verse": 4,
+    "root": "י-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַ֝ה֗וּא",
+    "verse": 4,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָבְד֥וּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֶשְׁתֹּנֹתָֽיו׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַשְׁרֵ֗י",
+    "verse": 5,
+    "root": "א-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שֶׁ֤אֵ֣ל",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַעֲקֹ֣ב",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּעֶזְר֑וֹ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׂ֝בְר֗וֹ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל־יְהֹוָ֥ה",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהָֽיו׃",
+    "verse": 5,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עֹשֶׂ֤ה&thinsp;׀",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁ֘מַ֤יִם",
+    "verse": 6,
+    "root": "ש-מ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וָאָ֗רֶץ",
+    "verse": 6,
+    "root": "א-ר-ץ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֶת־הַיָּ֥ם",
+    "verse": 6,
+    "root": "א-ת-ת",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְאֶת־כׇּל־אֲשֶׁר־בָּ֑ם",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשֹּׁמֵ֖ר",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱמֶ֣ת",
+    "verse": 6,
+    "root": "א-מ-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְעוֹלָֽם׃",
+    "verse": 6,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עֹשֶׂ֤ה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִשְׁפָּ֨ט&thinsp;׀",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לָעֲשׁוּקִ֗ים",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֹתֵ֣ן",
+    "verse": 7,
+    "root": "נ-ת-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לֶ֭חֶם",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לָרְעֵבִ֑ים",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְ֝הֹוָ֗ה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַתִּ֥יר",
+    "verse": 7,
+    "root": "נ-ת-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֲסוּרִֽים׃",
+    "verse": 7,
+    "root": "א-ס-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֤ה&thinsp;׀",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פֹּ֘קֵ֤חַ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עִוְרִ֗ים",
+    "verse": 8,
+    "root": "ע-ו-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְ֭הֹוָה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זֹקֵ֣ף",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְּפוּפִ֑ים",
+    "verse": 8,
+    "root": "כ-פ-פ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְ֝הֹוָ֗ה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֹהֵ֥ב",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "צַדִּיקִֽים׃",
+    "verse": 8,
+    "root": "צ-ד-ק",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְהֹוָ֤ה&thinsp;׀",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֹׁ֘מֵ֤ר",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־גֵּרִ֗ים",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָת֣וֹם",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאַלְמָנָ֣ה",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְעוֹדֵ֑ד",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְדֶ֖רֶךְ",
+    "verse": 9,
+    "root": "ד-ו-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "רְשָׁעִ֣ים",
+    "verse": 9,
+    "root": "ר-ש-ע",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְעַוֵּֽת׃",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִמְלֹ֤ךְ",
+    "verse": 10,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֨ה&thinsp;׀",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָ֗ם",
+    "verse": 10,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֱלֹהַ֣יִךְ",
+    "verse": 10,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "צִ֭יּוֹן",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְדֹ֥ר",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וָדֹ֗ר",
+    "verse": 10,
+    "root": "ד-ו-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַֽלְלוּ־יָֽהּ׃&nbsp;{פ}",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "psalm_147": {
+  "ref": "Psalms 147",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 147",
+  "he": "הַלְלוּיָהּ",
+  "segments": 20,
+  "words": [
+   {
+    "hebrew": "הַ֥לְלוּ־יָ֨הּ&thinsp;׀",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי־ט֭וֹב",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זַמְּרָ֣ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵ֑ינוּ",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כִּי־נָ֝עִ֗ים",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נָאוָ֥ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְהִלָּֽה׃",
+    "verse": 1,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בּוֹנֵ֣ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְרוּשָׁלַ֣͏ִם",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֑ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נִדְחֵ֖י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֣ל",
+    "verse": 2,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְכַנֵּֽס׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָ֭רֹפֵא",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִשְׁב֣וּרֵי",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֵ֑ב",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּ֝מְחַבֵּ֗שׁ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעַצְּבוֹתָֽם׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מוֹנֶ֣ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִ֭סְפָּר",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַכּוֹכָבִ֑ים",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְ֝כֻלָּ֗ם",
+    "verse": 4,
+    "root": "כ-ל-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "שֵׁמ֥וֹת",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִקְרָֽא׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גָּד֣וֹל",
+    "verse": 5,
+    "root": "ג-ד-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֲדוֹנֵ֣ינוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְרַב־כֹּ֑חַ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִ֝תְבוּנָת֗וֹ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵ֣ין",
+    "verse": 5,
+    "root": "א-י-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מִסְפָּֽר׃",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְעוֹדֵ֣ד",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲנָוִ֣ים",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֑ה",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַשְׁפִּ֖יל",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רְשָׁעִ֣ים",
+    "verse": 6,
+    "root": "ר-ש-ע",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "עֲדֵי־אָֽרֶץ׃",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֱנ֣וּ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָ֣ה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּתוֹדָ֑ה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זַמְּר֖וּ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֵאלֹהֵ֣ינוּ",
+    "verse": 7,
+    "root": "א-ל-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְכִנּֽוֹר׃",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽמְכַסֶּ֬ה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁמַ֨יִם&thinsp;׀",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּעָבִ֗ים",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַמֵּכִ֣ין",
+    "verse": 8,
+    "root": "כ-ו-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לָאָ֣רֶץ",
+    "verse": 8,
+    "root": "א-ר-ץ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "מָטָ֑ר",
+    "verse": 8,
+    "root": "מ-ט-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַמַּצְמִ֖יחַ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָרִ֣ים",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חָצִֽיר׃",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נוֹתֵ֣ן",
+    "verse": 9,
+    "root": "נ-ת-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לִבְהֵמָ֣ה",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַחְמָ֑הּ",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִבְנֵ֥י",
+    "verse": 9,
+    "root": "ב-נ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עֹ֝רֵ֗ב",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲשֶׁ֣ר",
+    "verse": 9,
+    "root": "א-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִקְרָֽאוּ׃",
+    "verse": 9,
+    "root": "ק-ר-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לֹ֤א",
+    "verse": 10,
+    "root": "ל-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בִגְבוּרַ֣ת",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַסּ֣וּס",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יֶחְפָּ֑ץ",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֹא־בְשׁוֹקֵ֖י",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאִ֣ישׁ",
+    "verse": 10,
+    "root": "א-י-ש",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יִרְצֶֽה׃",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רוֹצֶ֣ה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְ֭הֹוָה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־יְרֵאָ֑יו",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־הַֽמְיַחֲלִ֥ים",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְחַסְדּֽוֹ׃",
+    "verse": 11,
+    "root": "ח-ס-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "שַׁבְּחִ֣י",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְ֭רוּשָׁלַ͏ִם",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־יְהֹוָ֑ה",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְלִ֖י",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהַ֣יִךְ",
+    "verse": 12,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "צִיּֽוֹן׃",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּֽי־חִ֭זַּק",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּרִיחֵ֣י",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁעָרָ֑יִךְ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בֵּרַ֖ךְ",
+    "verse": 13,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּנַ֣יִךְ",
+    "verse": 13,
+    "root": "ב-נ-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְּקִרְבֵּֽךְ׃",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׂם־גְּבוּלֵ֥ךְ",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁל֑וֹם",
+    "verse": 14,
+    "root": "ש-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "חֵ֥לֶב",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חִ֝טִּ֗ים",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַשְׂבִּיעֵֽךְ׃",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשֹּׁלֵ֣חַ",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אִמְרָת֣וֹ",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָ֑רֶץ",
+    "verse": 15,
+    "root": "א-ר-ץ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עַד־מְ֝הֵרָ֗ה",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָר֥וּץ",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְּבָרֽוֹ׃",
+    "verse": 15,
+    "root": "ד-ב-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הַנֹּתֵ֣ן",
+    "verse": 16,
+    "root": "נ-ת-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "שֶׁ֣לֶג",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כַּצָּ֑מֶר",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְּ֝פ֗וֹר",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּאֵ֥פֶר",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְפַזֵּֽר׃",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַשְׁלִ֣יךְ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קַֽרְח֣וֹ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְפִתִּ֑ים",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִפְנֵ֥י",
+    "verse": 17,
+    "root": "פ-נ-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "קָ֝רָת֗וֹ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִ֣י",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַעֲמֹֽד׃",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׁלַ֣ח",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְּבָר֣וֹ",
+    "verse": 18,
+    "root": "ד-ב-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְיַמְסֵ֑ם",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַשֵּׁ֥ב",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ר֝וּח֗וֹ",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִזְּלוּ־מָֽיִם׃",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַגִּ֣יד",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְּבָרָ֣ו",
+    "verse": 19,
+    "root": "ד-ב-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְיַעֲקֹ֑ב",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֻקָּ֥יו",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּ֝מִשְׁפָּטָ֗יו",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְיִשְׂרָאֵֽל׃",
+    "verse": 19,
+    "root": "י-ש-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לֹ֘א־עָ֤שָׂה",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כֵ֨ן&thinsp;׀",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְכׇל־גּ֗וֹי",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמִשְׁפָּטִ֥ים",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּל־יְדָע֗וּם",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְלוּ־יָֽהּ׃&nbsp;{פ}",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "psalm_148": {
+  "ref": "Psalms 148",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 148",
+  "he": "הַלְלוּיָהּ",
+  "segments": 14,
+  "words": [
+   {
+    "hebrew": "הַ֥לְלוּ־יָ֨הּ&thinsp;׀",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְל֣וּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־יְ֭הֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִן־הַשָּׁמַ֑יִם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽ֝לְל֗וּהוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּמְּרוֹמִֽים׃",
+    "verse": 1,
+    "root": "ר-ו-מ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הַֽלְל֥וּהוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כׇל־מַלְאָכָ֑יו",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַ֝לְל֗וּהוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כׇּל־צְבָאָֽו׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽ֭לְלוּהוּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֶׁ֣מֶשׁ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיָרֵ֑חַ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽ֝לְל֗וּהוּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כׇּל־כּ֥וֹכְבֵי",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֽוֹר׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽ֭לְלוּהוּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֵ֣י",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׁמָ֑יִם",
+    "verse": 4,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְ֝הַמַּ֗יִם",
+    "verse": 4,
+    "root": "מ-י-ם",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֲשֶׁ֤ר&thinsp;׀",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֵעַ֬ל",
+    "verse": 4,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַשָּׁמָֽיִם׃",
+    "verse": 4,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְֽ֭הַלְלוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־שֵׁ֣ם",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֑ה",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֤י",
+    "verse": 5,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "ה֖וּא",
+    "verse": 5,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "צִוָּ֣ה",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְנִבְרָֽאוּ׃",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיַּעֲמִידֵ֣ם",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לָעַ֣ד",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָ֑ם",
+    "verse": 6,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "חׇק־נָ֝תַ֗ן",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְלֹ֣א",
+    "verse": 6,
+    "root": "ל-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יַעֲבֽוֹר׃",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְל֣וּ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־יְ֭הֹוָה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִן־הָאָ֑רֶץ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תַּ֝נִּינִ֗ים",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־תְּהֹמֽוֹת׃",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵ֣שׁ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּ֭בָרָד",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֶׁ֣לֶג",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְקִיט֑וֹר",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ר֥וּחַ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "סְ֝עָרָ֗ה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֹשָׂ֥ה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְבָרֽוֹ׃",
+    "verse": 8,
+    "root": "ד-ב-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הֶהָרִ֥ים",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־גְּבָע֑וֹת",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֵ֥ץ",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פְּ֝רִ֗י",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־אֲרָזִֽים׃",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַחַיָּ֥ה",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־בְּהֵמָ֑ה",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רֶ֝֗מֶשׂ",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְצִפּ֥וֹר",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּנָֽף׃",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַלְכֵי־אֶ֭רֶץ",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־לְאֻמִּ֑ים",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׂ֝רִ֗ים",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־שֹׁ֥פְטֵי",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָֽרֶץ׃",
+    "verse": 11,
+    "root": "א-ר-ץ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בַּחוּרִ֥ים",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְגַם־בְּתוּל֑וֹת",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זְ֝קֵנִ֗ים",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עִם־נְעָרִֽים׃",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהַלְל֤וּ&thinsp;׀",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־שֵׁ֬ם",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֗ה",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּֽי־נִשְׂגָּ֣ב",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמ֣וֹ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְבַדּ֑וֹ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ה֝וֹד֗וֹ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל־אֶ֥רֶץ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְשָׁמָֽיִם׃",
+    "verse": 13,
+    "root": "ש-מ-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וַיָּ֤רֶם",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קֶ֨רֶן&thinsp;׀",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעַמּ֡וֹ",
+    "verse": 14,
+    "root": "ע-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "תְּהִלָּ֤ה",
+    "verse": 14,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְֽכׇל־חֲסִידָ֗יו",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִבְנֵ֣י",
+    "verse": 14,
+    "root": "ב-נ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִ֭שְׂרָאֵל",
+    "verse": 14,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עַ֥ם",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קְרֹב֗וֹ",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְלוּ־יָֽהּ׃&nbsp;{פ}",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "psalm_149": {
+  "ref": "Psalms 149",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 149",
+  "he": "הַלְלוּיָהּ",
+  "segments": 9,
+  "words": [
+   {
+    "hebrew": "הַ֥לְלוּ־יָ֨הּ&thinsp;׀",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁ֣ירוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽ֭יהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁ֣יר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חָדָ֑שׁ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְּ֝הִלָּת֗וֹ",
+    "verse": 1,
+    "root": "ה-ל-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בִּקְהַ֥ל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֲסִידִֽים׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂמַ֣ח",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֣ל",
+    "verse": 2,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בְּעֹשָׂ֑יו",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּנֵֽי־צִ֝יּ֗וֹן",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָגִ֥ילוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְמַלְכָּֽם׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהַלְל֣וּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמ֣וֹ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְמָח֑וֹל",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּתֹ֥ף",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְ֝כִנּ֗וֹר",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְזַמְּרוּ־לֽוֹ׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּֽי־רוֹצֶ֣ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֣ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּעַמּ֑וֹ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְפָאֵ֥ר",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲ֝נָוִ֗ים",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּישׁוּעָֽה׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַעְלְז֣וּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֲסִידִ֣ים",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּכָב֑וֹד",
+    "verse": 5,
+    "root": "כ-ב-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְ֝רַנְּנ֗וּ",
+    "verse": 5,
+    "root": "ר-נ-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עַל־מִשְׁכְּבוֹתָֽם׃",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רוֹמְמ֣וֹת",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵ֭ל",
+    "verse": 6,
+    "root": "א-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בִּגְרוֹנָ֑ם",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְחֶ֖רֶב",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פִּיפִיּ֣וֹת",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּיָדָֽם׃",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַעֲשׂ֣וֹת",
+    "verse": 7,
+    "root": "ע-ש-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "נְ֭קָמָה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּגּוֹיִ֑ם",
+    "verse": 7,
+    "root": "ג-ו-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "תּ֝וֹכֵח֗וֹת",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּלְאֻמִּֽים׃",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֶאְסֹ֣ר",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַלְכֵיהֶ֣ם",
+    "verse": 8,
+    "root": "מ-ל-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְּזִקִּ֑ים",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְ֝נִכְבְּדֵיהֶ֗ם",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּכַבְלֵ֥י",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַרְזֶֽל׃",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַעֲשׂ֤וֹת",
+    "verse": 9,
+    "root": "ע-ש-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּהֶ֨ם&thinsp;׀",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִשְׁפָּ֬ט",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּת֗וּב",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָדָ֣ר",
+    "verse": 9,
+    "root": "ה-ד-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "ה֭וּא",
+    "verse": 9,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְכׇל־חֲסִידָ֗יו",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְלוּ־יָֽהּ׃&nbsp;{פ}",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "psalm_150": {
+  "ref": "Psalms 150",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Psalm 150",
+  "he": "הַלְלוּיָהּ",
+  "segments": 6,
+  "words": [
+   {
+    "hebrew": "הַ֥לְלוּ־יָ֨הּ&thinsp;׀",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽלְלוּ־אֵ֥ל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּקׇדְשׁ֑וֹ",
+    "verse": 1,
+    "root": "ק-ד-ש",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הַֽ֝לְל֗וּהוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּרְקִ֥יעַ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֻזּֽוֹ׃",
+    "verse": 1,
+    "root": "ע-ז-ז",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַלְל֥וּהוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִגְבוּרֹתָ֑יו",
+    "verse": 2,
+    "root": "ג-ב-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הַ֝לְל֗וּהוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְּרֹ֣ב",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גֻּדְלֽוֹ׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַ֭לְלוּהוּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּתֵ֣קַע",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שׁוֹפָ֑ר",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַ֝לְל֗וּהוּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּנֵ֣בֶל",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכִנּֽוֹר׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַ֭לְלוּהוּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּתֹ֣ף",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמָח֑וֹל",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽ֝לְל֗וּהוּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּמִנִּ֥ים",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְעֻגָֽב׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַלְל֥וּהוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְצִלְצְלֵי־שָׁ֑מַע",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַֽ֝לְל֗וּהוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּֽצִלְצְלֵ֥י",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְרוּעָֽה׃",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כֹּ֣ל",
+    "verse": 6,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַ֭נְּשָׁמָה",
+    "verse": 6,
+    "root": "נ-ש-מ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "תְּהַלֵּ֥ל",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָ֗הּ",
+    "verse": 6,
+    "root": "י-ה-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַֽלְלוּ־יָֽהּ׃",
+    "verse": 6,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   }
+  ]
+ },
+ "shirat_hayam": {
+  "ref": "Exodus 15:1-19",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Shirat HaYam — Az Yashir",
+  "he": "אָז יָשִׁיר",
+  "segments": 19,
+  "words": [
+   {
+    "hebrew": "אָ֣ז",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָשִֽׁיר־מֹשֶׁה֩",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְנֵ֨י",
+    "verse": 1,
+    "root": "ב-נ-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֜ל",
+    "verse": 1,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶת־הַשִּׁירָ֤ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַזֹּאת֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָ֔ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיֹּאמְר֖וּ",
+    "verse": 1,
+    "root": "א-מ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לֵאמֹ֑ר&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אָשִׁ֤ירָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָה֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּֽי־גָאֹ֣ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גָּאָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ס֥וּס",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְרֹכְב֖וֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רָמָ֥ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַיָּֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עׇזִּ֤י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְזִמְרָת֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָ֔הּ",
+    "verse": 2,
+    "root": "י-ה-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וַֽיְהִי־לִ֖י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִֽישׁוּעָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;זֶ֤ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵלִי֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאַנְוֵ֔הוּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֱלֹהֵ֥י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָבִ֖י",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַאֲרֹמְמֶֽנְהוּ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֖ה",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אִ֣ישׁ",
+    "verse": 3,
+    "root": "א-י-ש",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מִלְחָמָ֑ה",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֖ה",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַרְכְּבֹ֥ת",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פַּרְעֹ֛ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְחֵיל֖וֹ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָרָ֣ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַיָּ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּמִבְחַ֥ר",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָֽׁלִשָׁ֖יו",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "טֻבְּע֥וּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְיַם־סֽוּף׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְּהֹמֹ֖ת",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְכַסְיֻ֑מוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָרְד֥וּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִמְצוֹלֹ֖ת",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְּמוֹ־אָֽבֶן׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְמִֽינְךָ֣",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֔ה",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֶאְדָּרִ֖י",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּכֹּ֑חַ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יְמִֽינְךָ֥",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֖ה",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תִּרְעַ֥ץ",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אוֹיֵֽב׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְרֹ֥ב",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גְּאוֹנְךָ֖",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תַּהֲרֹ֣ס",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קָמֶ֑יךָ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;תְּשַׁלַּח֙",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֲרֹ֣נְךָ֔",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יֹאכְלֵ֖מוֹ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כַּקַּֽשׁ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְר֤וּחַ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַפֶּ֙יךָ֙",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֶ֣עֶרְמוּ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַ֔יִם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נִצְּב֥וּ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְמוֹ־נֵ֖ד",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֹזְלִ֑ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;קָֽפְא֥וּ",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְהֹמֹ֖ת",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּלֶב־יָֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמַ֥ר",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אוֹיֵ֛ב",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶרְדֹּ֥ף",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַשִּׂ֖יג&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֲחַלֵּ֣ק",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁלָ֑ל",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תִּמְלָאֵ֣מוֹ",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נַפְשִׁ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אָרִ֣יק",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חַרְבִּ֔י",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תּוֹרִישֵׁ֖מוֹ",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָדִֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נָשַׁ֥פְתָּ",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְרוּחֲךָ֖",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּסָּ֣מוֹ",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;צָֽלְלוּ֙",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כַּֽעוֹפֶ֔רֶת",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּמַ֖יִם",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַדִּירִֽים׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִֽי־כָמֹ֤כָה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּֽאֵלִם֙",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מִ֥י",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּמֹ֖כָה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֶאְדָּ֣ר",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּקֹּ֑דֶשׁ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נוֹרָ֥א",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְהִלֹּ֖ת",
+    "verse": 11,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עֹ֥שֵׂה",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פֶֽלֶא׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נָטִ֙יתָ֙",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְמִ֣ינְךָ֔",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תִּבְלָעֵ֖מוֹ",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָֽרֶץ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נָחִ֥יתָ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְחַסְדְּךָ֖",
+    "verse": 13,
+    "root": "ח-ס-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "עַם־ז֣וּ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גָּאָ֑לְתָּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נֵהַ֥לְתָּ",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְעׇזְּךָ֖",
+    "verse": 13,
+    "root": "ע-ז-ז",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֶל־נְוֵ֥ה",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קׇדְשֶֽׁךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָֽׁמְע֥וּ",
+    "verse": 14,
+    "root": "ש-מ-ע",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "עַמִּ֖ים",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִרְגָּז֑וּן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;חִ֣יל",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָחַ֔ז",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יֹשְׁבֵ֖י",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פְּלָֽשֶׁת׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָ֤ז",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נִבְהֲלוּ֙",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַלּוּפֵ֣י",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱד֔וֹם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֵילֵ֣י",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מוֹאָ֔ב",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יֹֽאחֲזֵ֖מוֹ",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רָ֑עַד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;נָמֹ֕גוּ",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כֹּ֖ל",
+    "verse": 15,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יֹשְׁבֵ֥י",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְנָֽעַן׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תִּפֹּ֨ל",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲלֵיהֶ֤ם",
+    "verse": 16,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֵימָ֙תָה֙",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וָפַ֔חַד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בִּגְדֹ֥ל",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זְרוֹעֲךָ֖",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִדְּמ֣וּ",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּאָ֑בֶן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עַד־יַעֲבֹ֤ר",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַמְּךָ֙",
+    "verse": 16,
+    "root": "ע-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עַֽד־יַעֲבֹ֖ר",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַם־ז֥וּ",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קָנִֽיתָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְּבִאֵ֗מוֹ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְתִטָּעֵ֙מוֹ֙",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּהַ֣ר",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נַחֲלָֽתְךָ֔&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מָכ֧וֹן",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְשִׁבְתְּךָ֛",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פָּעַ֖לְתָּ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מִקְּדָ֕שׁ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲדֹנָ֖י",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כּוֹנְנ֥וּ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יָדֶֽיךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֥ה&thinsp;׀&thinsp;יִמְלֹ֖ךְ",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעֹלָ֥ם",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וָעֶֽד׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֣י",
+    "verse": 19,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָא֩",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ס֨וּס",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פַּרְעֹ֜ה",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּרִכְבּ֤וֹ",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְפָרָשָׁיו֙",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּיָּ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיָּ֧שֶׁב",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֛ה",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲלֵהֶ֖ם",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־מֵ֣י",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַיָּ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּבְנֵ֧י",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֛ל",
+    "verse": 19,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָלְכ֥וּ",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַיַּבָּשָׁ֖ה",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּת֥וֹךְ",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַיָּֽם׃&nbsp;{פ}",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "vayoshia": {
+  "ref": "Exodus 14:30-31",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "VaYosha",
+  "he": "וַיּוֹשַׁע",
+  "segments": 2,
+  "words": [
+   {
+    "hebrew": "וַיּ֨וֹשַׁע",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֜ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּיּ֥וֹם",
+    "verse": 1,
+    "root": "י-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַה֛וּא",
+    "verse": 1,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶת־יִשְׂרָאֵ֖ל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִיַּ֣ד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִצְרָ֑יִם",
+    "verse": 1,
+    "root": "מ-צ-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וַיַּ֤רְא",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂרָאֵל֙",
+    "verse": 1,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶת־מִצְרַ֔יִם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֵ֖ת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל־שְׂפַ֥ת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַיָּֽם׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיַּ֨רְא",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֜ל",
+    "verse": 2,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶת־הַיָּ֣ד",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַגְּדֹלָ֗ה",
+    "verse": 2,
+    "root": "ג-ד-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֲשֶׁ֨ר",
+    "verse": 2,
+    "root": "א-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עָשָׂ֤ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּמִצְרַ֔יִם",
+    "verse": 2,
+    "root": "מ-צ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וַיִּֽירְא֥וּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָעָ֖ם",
+    "verse": 2,
+    "root": "ע-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶת־יְהֹוָ֑ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַֽיַּאֲמִ֙ינוּ֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּֽיהֹוָ֔ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְמֹשֶׁ֖ה",
+    "verse": 2,
+    "root": "מ-ש-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "עַבְדּֽוֹ׃&nbsp;{פ}",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "vayevarech_david": {
+  "ref": "I Chronicles 29:10-13",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "VaYevarech David",
+  "he": "וַיְבָרֶךְ דָּוִיד",
+  "segments": 4,
+  "words": [
+   {
+    "hebrew": "וַיְבָ֤רֶךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "דָּוִיד֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־יְהֹוָ֔ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעֵינֵ֖י",
+    "verse": 1,
+    "root": "ע-י-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "כׇּל־הַקָּהָ֑ל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיֹּ֣אמֶר",
+    "verse": 1,
+    "root": "א-מ-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "דָּוִ֗יד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּר֨וּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אַתָּ֤ה",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵי֙",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֣ל",
+    "verse": 1,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָבִ֔ינוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֵעוֹלָ֖ם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְעַד־עוֹלָֽם׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְךָ֣",
+    "verse": 2,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְ֠הֹוָ֠ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַגְּדֻלָּ֨ה",
+    "verse": 2,
+    "root": "ג-ד-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְהַגְּבוּרָ֤ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַתִּפְאֶ֙רֶת֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַנֵּ֣צַח",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַה֔וֹד",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי־כֹ֖ל",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּשָּׁמַ֣יִם",
+    "verse": 2,
+    "root": "ש-מ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וּבָאָ֑רֶץ",
+    "verse": 2,
+    "root": "א-ר-ץ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְךָ֤",
+    "verse": 2,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַמַּמְלָכָ֔ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַמִּתְנַשֵּׂ֖א",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְכֹ֥ל&thinsp;׀&thinsp;לְרֹֽאשׁ׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהָעֹ֤שֶׁר",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַכָּבוֹד֙",
+    "verse": 3,
+    "root": "כ-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "מִלְּפָנֶ֔יךָ",
+    "verse": 3,
+    "root": "פ-נ-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְאַתָּה֙",
+    "verse": 3,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מוֹשֵׁ֣ל",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּכֹּ֔ל",
+    "verse": 3,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וּבְיָדְךָ֖",
+    "verse": 3,
+    "root": "י-ד-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "כֹּ֣חַ",
+    "verse": 3,
+    "root": "כ-ח-ח",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וּגְבוּרָ֑ה",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְיָ֣דְךָ֔",
+    "verse": 3,
+    "root": "י-ד-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְגַדֵּ֥ל",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּלְחַזֵּ֖ק",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַכֹּֽל׃",
+    "verse": 3,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְעַתָּ֣ה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵ֔ינוּ",
+    "verse": 4,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מוֹדִ֥ים",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲנַ֖חְנוּ",
+    "verse": 4,
+    "root": "א-נ-ח",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לָ֑ךְ",
+    "verse": 4,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וּֽמְהַלְלִ֖ים",
+    "verse": 4,
+    "root": "ה-ל-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְשֵׁ֥ם",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תִּפְאַרְתֶּֽךָ׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "hodu": {
+  "ref": "I Chronicles 16:8-36",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Hodu LaHashem",
+  "he": "הוֹדוּ לַיהוה",
+  "segments": 29,
+  "words": [
+   {
+    "hebrew": "הוֹד֤וּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָה֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קִרְא֣וּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִשְׁמ֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הוֹדִ֥יעוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָעַמִּ֖ים",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲלִילֹתָֽיו׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁ֤ירוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לוֹ֙",
+    "verse": 2,
+    "root": "ל-ו",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "זַמְּרוּ־ל֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שִׂ֖יחוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּכׇל־נִפְלְאֹתָֽיו׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הִֽתְהַלְלוּ֙",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּשֵׁ֣ם",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קׇדְשׁ֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יִשְׂמַ֕ח",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֵ֖ב",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְבַקְשֵׁ֥י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָֽה׃",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דִּרְשׁ֤וּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה֙",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְעֻזּ֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בַּקְּשׁ֥וּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "פָנָ֖יו",
+    "verse": 4,
+    "root": "פ-נ-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "תָּמִֽיד׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זִכְר֗וּ",
+    "verse": 5,
+    "root": "ז-כ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "נִפְלְאֹתָיו֙",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲשֶׁ֣ר",
+    "verse": 5,
+    "root": "א-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עָשָׂ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מֹפְתָ֖יו",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמִשְׁפְּטֵי־פִֽיהוּ׃",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זֶ֚רַע",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֣ל",
+    "verse": 6,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עַבְדּ֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בְּנֵ֥י",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַעֲקֹ֖ב",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּחִירָֽיו׃",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ה֚וּא",
+    "verse": 7,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֣ה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵ֔ינוּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בְּכׇל־הָאָ֖רֶץ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִשְׁפָּטָֽיו׃",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זִכְר֤וּ",
+    "verse": 8,
+    "root": "ז-כ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְעוֹלָם֙",
+    "verse": 8,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בְּרִית֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;דָּבָ֥ר",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "צִוָּ֖ה",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְאֶ֥לֶף",
+    "verse": 8,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דּֽוֹר׃",
+    "verse": 8,
+    "root": "ד-ו-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֲשֶׁ֤ר",
+    "verse": 9,
+    "root": "א-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כָּרַת֙",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־אַבְרָהָ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּשְׁבוּעָת֖וֹ",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְיִצְחָֽק׃",
+    "verse": 9,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיַּעֲמִידֶ֤הָ",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְיַֽעֲקֹב֙",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְחֹ֔ק&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;לְיִשְׂרָאֵ֖ל",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּרִ֥ית",
+    "verse": 10,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עוֹלָֽם׃",
+    "verse": 10,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לֵאמֹ֗ר",
+    "verse": 11,
+    "root": "א-מ-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְךָ֙",
+    "verse": 11,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶתֵּ֣ן",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶֽרֶץ־כְּנָ֔עַן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;חֶ֖בֶל",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נַחֲלַתְכֶֽם׃",
+    "verse": 11,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּהְיֽוֹתְכֶם֙",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְתֵ֣י",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִסְפָּ֔ר&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;כִּמְעַ֖ט",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְגָרִ֥ים",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּֽהּ׃",
+    "verse": 12,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיִּֽתְהַלְּכוּ֙",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִגּ֣וֹי",
+    "verse": 13,
+    "root": "ג-ו-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֶל־גּ֔וֹי&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּמִמַּמְלָכָ֖ה",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶל־עַ֥ם",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַחֵֽר׃",
+    "verse": 13,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֹֽא־הִנִּ֤יחַ",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְאִישׁ֙",
+    "verse": 14,
+    "root": "א-י-ש",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְעׇשְׁקָ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיּ֥וֹכַח",
+    "verse": 14,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲלֵיהֶ֖ם",
+    "verse": 14,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְלָכִֽים׃",
+    "verse": 14,
+    "root": "מ-ל-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אַֽל־תִּגְּעוּ֙",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּמְשִׁיחָ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּבִנְבִיאַ֖י",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַל־תָּרֵֽעוּ׃&nbsp;{פ}",
+    "verse": 15,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁ֤ירוּ",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָה֙",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כׇּל־הָאָ֔רֶץ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בַּשְּׂר֥וּ",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִיּֽוֹם־אֶל־י֖וֹם",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְשׁוּעָתֽוֹ׃",
+    "verse": 16,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "סַפְּר֤וּ",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַגּוֹיִם֙",
+    "verse": 17,
+    "root": "ג-ו-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֶת־כְּבוֹד֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בְּכׇל־הָעַמִּ֖ים",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נִפְלְאֹתָֽיו׃",
+    "verse": 17,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי֩",
+    "verse": 18,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "גָד֨וֹל",
+    "verse": 18,
+    "root": "ג-ד-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֤ה",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמְהֻלָּל֙",
+    "verse": 18,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְאֹ֔ד&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְנוֹרָ֥א",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ה֖וּא",
+    "verse": 18,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עַל־כׇּל־אֱלֹהִֽים׃",
+    "verse": 18,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֠י",
+    "verse": 19,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כׇּל־אֱלֹהֵ֤י",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָֽעַמִּים֙",
+    "verse": 19,
+    "root": "ע-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֱלִילִ֔ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיהֹוָ֖ה",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁמַ֥יִם",
+    "verse": 19,
+    "root": "ש-מ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עָשָֽׂה׃",
+    "verse": 19,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ה֤וֹד",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהָדָר֙",
+    "verse": 20,
+    "root": "ה-ד-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְפָנָ֔יו&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עֹ֥ז",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְחֶדְוָ֖ה",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּמְקֹמֽוֹ׃",
+    "verse": 20,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָב֤וּ",
+    "verse": 21,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָה֙",
+    "verse": 21,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִשְׁפְּח֣וֹת",
+    "verse": 21,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַמִּ֔ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הָב֥וּ",
+    "verse": 21,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַיהֹוָ֖ה",
+    "verse": 21,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּב֥וֹד",
+    "verse": 21,
+    "root": "כ-ב-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וָעֹֽז׃",
+    "verse": 21,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָב֥וּ",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָ֖ה",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְּב֣וֹד",
+    "verse": 22,
+    "root": "כ-ב-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שְׁמ֑וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שְׂא֤וּ",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִנְחָה֙",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבֹ֣אוּ",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְפָנָ֔יו",
+    "verse": 22,
+    "root": "פ-נ-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הִשְׁתַּחֲו֥וּ",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָ֖ה",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּהַדְרַת־קֹֽדֶשׁ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 22,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חִ֤ילוּ",
+    "verse": 23,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִלְּפָנָיו֙",
+    "verse": 23,
+    "root": "פ-נ-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "כׇּל־הָאָ֔רֶץ",
+    "verse": 23,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַף־תִּכּ֥וֹן",
+    "verse": 23,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תֵּבֵ֖ל",
+    "verse": 23,
+    "root": "ת-ב-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בַּל־תִּמּֽוֹט׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 23,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂמְח֤וּ",
+    "verse": 24,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׁמַ֙יִם֙",
+    "verse": 24,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְתָגֵ֣ל",
+    "verse": 24,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאָ֔רֶץ",
+    "verse": 24,
+    "root": "א-ר-ץ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְיֹאמְר֥וּ",
+    "verse": 24,
+    "root": "א-מ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בַגּוֹיִ֖ם",
+    "verse": 24,
+    "root": "ג-ו-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְהֹוָ֥ה",
+    "verse": 24,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מָלָֽךְ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 24,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִרְעַ֤ם",
+    "verse": 25,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַיָּם֙",
+    "verse": 25,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמְלוֹא֔וֹ",
+    "verse": 25,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יַעֲלֹ֥ץ",
+    "verse": 25,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׂדֶ֖ה",
+    "verse": 25,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־אֲשֶׁר־בּֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 25,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָ֥ז",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְרַנְּנ֖וּ",
+    "verse": 26,
+    "root": "ר-נ-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עֲצֵ֣י",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַיָּ֑עַר",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִלִּפְנֵ֣י",
+    "verse": 26,
+    "root": "פ-נ-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְהֹוָ֔ה",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי־בָ֖א",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִשְׁפּ֥וֹט",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־הָאָֽרֶץ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 26,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הוֹד֤וּ",
+    "verse": 27,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַֽיהֹוָה֙",
+    "verse": 27,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֣י",
+    "verse": 27,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "ט֔וֹב",
+    "verse": 27,
+    "root": "ט-ו-ב",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כִּ֥י",
+    "verse": 27,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְעוֹלָ֖ם",
+    "verse": 27,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "חַסְדּֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 27,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאִמְר֕וּ",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הוֹשִׁיעֵ֙נוּ֙",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵ֣י",
+    "verse": 28,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשְׁעֵ֔נוּ",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְקַבְּצֵ֥נוּ",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַצִּילֵ֖נוּ",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִן־הַגּוֹיִ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;לְהֹדוֹת֙",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְשֵׁ֣ם",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קׇדְשֶׁ֔ךָ",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְהִשְׁתַּבֵּ֖חַ",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּתְהִלָּתֶֽךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+    "verse": 28,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּר֤וּךְ",
+    "verse": 29,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה֙",
+    "verse": 29,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵ֣י",
+    "verse": 29,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשְׂרָאֵ֔ל",
+    "verse": 29,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מִן־הָעוֹלָ֖ם",
+    "verse": 29,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְעַ֣ד",
+    "verse": 29,
+    "root": "ע-ד-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָעֹלָ֑ם",
+    "verse": 29,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיֹּאמְר֤וּ",
+    "verse": 29,
+    "root": "א-מ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "כׇל־הָעָם֙",
+    "verse": 29,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמֵ֔ן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְהַלֵּ֖ל",
+    "verse": 29,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לַיהֹוָֽה׃&nbsp;{פ}",
+    "verse": 29,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "ata_hu_hashem": {
+  "ref": "Nehemiah 9:6-11",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Atah Hu Hashem",
+  "he": "אַתָּה הוּא יהוה",
+  "segments": 6,
+  "words": [
+   {
+    "hebrew": "אַתָּה־ה֣וּא",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה֮",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְבַדֶּ֒ךָ֒",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "(את)",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "[אַתָּ֣ה]",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עָשִׂ֡יתָ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶֽת־הַשָּׁמַ֩יִם֩",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֵ֨י",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׁמַ֜יִם",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְכׇל־צְבָאָ֗ם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאָ֜רֶץ",
+    "verse": 1,
+    "root": "א-ר-ץ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְכׇל־אֲשֶׁ֤ר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עָלֶ֙יהָ֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַיַּמִּים֙",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְכׇל־אֲשֶׁ֣ר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּהֶ֔ם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאַתָּ֖ה",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְחַיֶּ֣ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־כֻּלָּ֑ם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּצְבָ֥א",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׁמַ֖יִם",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְךָ֥",
+    "verse": 1,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מִשְׁתַּחֲוִֽים׃",
+    "verse": 1,
+    "root": "ש-ח-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אַתָּה־הוּא֙",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָ֣ה",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאֱלֹהִ֔ים",
+    "verse": 2,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֲשֶׁ֤ר",
+    "verse": 2,
+    "root": "א-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּחַ֙רְתָּ֙",
+    "verse": 2,
+    "root": "ב-ח-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְּאַבְרָ֔ם",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהוֹצֵאת֖וֹ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֵא֣וּר",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כַּשְׂדִּ֑ים",
+    "verse": 2,
+    "root": "ש-ד-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְשַׂ֥מְתָּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְּׁמ֖וֹ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַבְרָהָֽם׃",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמָצָ֣אתָ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־לְבָבוֹ֮",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֶאֱמָ֣ן",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְפָנֶ֒יךָ֒",
+    "verse": 3,
+    "root": "פ-נ-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְכָר֨וֹת",
+    "verse": 3,
+    "root": "כ-ר-ת",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "עִמּ֜וֹ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַבְּרִ֗ית",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לָתֵ֡ת",
+    "verse": 3,
+    "root": "נ-ת-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֶת־אֶ֩רֶץ֩",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַכְּנַעֲנִ֨י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַחִתִּ֜י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאֱמֹרִ֧י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַפְּרִזִּ֛י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַיְבוּסִ֥י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהַגִּרְגָּשִׁ֖י",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לָתֵ֣ת",
+    "verse": 3,
+    "root": "נ-ת-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְזַרְע֑וֹ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַתָּ֙קֶם֙",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־דְּבָרֶ֔יךָ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֥י",
+    "verse": 3,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "צַדִּ֖יק",
+    "verse": 3,
+    "root": "צ-ד-ק",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָֽתָּה׃",
+    "verse": 3,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וַתֵּ֛רֶא",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֶת־עֳנִ֥י",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲבֹתֵ֖ינוּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּמִצְרָ֑יִם",
+    "verse": 4,
+    "root": "מ-צ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְאֶת־זַעֲקָתָ֥ם",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁמַ֖עְתָּ",
+    "verse": 4,
+    "root": "ש-מ-ע",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "עַל־יַם־סֽוּף׃",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַ֠תִּתֵּ֠ן",
+    "verse": 5,
+    "root": "נ-ת-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֹתֹ֨ת",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמֹֽפְתִ֜ים",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּפַרְעֹ֤ה",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְכׇל־עֲבָדָיו֙",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְכׇל־עַ֣ם",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַרְצ֔וֹ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֣י",
+    "verse": 5,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יָדַ֔עְתָּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּ֥י",
+    "verse": 5,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הֵזִ֖ידוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲלֵיהֶ֑ם",
+    "verse": 5,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וַתַּֽעַשׂ־לְךָ֥",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֵׁ֖ם",
+    "verse": 5,
+    "root": "ש-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כְּהַיּ֥וֹם",
+    "verse": 5,
+    "root": "י-ו-מ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "הַזֶּֽה׃",
+    "verse": 5,
+    "root": "ז-ה-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְהַיָּם֙",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּקַ֣עְתָּ",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִפְנֵיהֶ֔ם",
+    "verse": 6,
+    "root": "פ-נ-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וַיַּֽעַבְר֥וּ",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְתוֹךְ־הַיָּ֖ם",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּיַּבָּשָׁ֑ה",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְֽאֶת־רֹ֨דְפֵיהֶ֜ם",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הִשְׁלַ֧כְתָּ",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִמְצוֹלֹ֛ת",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְּמוֹ־אֶ֖בֶן",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּמַ֥יִם",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַזִּֽים׃",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "baruch_hashem_leolam": {
+  "ref": "Psalms 89:53",
+  "version": "Miqra according to the Masorah",
+  "license": "CC-BY-NC",
+  "en": "Baruch Hashem L'Olam",
+  "he": "בָּרוּךְ יהוה לְעוֹלָם",
+  "segments": 1,
+  "words": [
+   {
+    "hebrew": "בָּר֖וּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָ֥ה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָ֗ם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָ֘מֵ֥ן&thinsp;׀&thinsp;וְאָמֵֽן׃",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "baruch_sheamar": {
+  "ref": "Siddur Ashkenaz, Weekday, Shacharit, Pesukei Dezimra, Barukh She'amar",
+  "version": "The Metsudah siddur, 1981",
+  "license": "CC-BY",
+  "en": "Baruch She'amar",
+  "he": "בָּרוּךְ שֶׁאָמַר",
+  "segments": 1,
+  "words": [
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שֶׁאָמַר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהָיָה",
+    "verse": 1,
+    "root": "ה-י-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָעוֹלָם.",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הוּא.",
+    "verse": 1,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עוֹשֶׂה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְרֵאשִׁית.",
+    "verse": 1,
+    "root": "ר-א-ש",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אוֹמֵר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְעוֹשֶׂה.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "גּוֹזֵר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמְקַיֵּם.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְרַחֵם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל־הָאָֽרֶץ.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְרַחֵם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל־הַבְּ֒רִיּוֹת.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְשַׁלֵּם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׂכָר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "טוֹב",
+    "verse": 1,
+    "root": "ט-ו-ב",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לִירֵאָיו.",
+    "verse": 1,
+    "root": "י-ר-א",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "חַי",
+    "verse": 1,
+    "root": "ח-י-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לָעַד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְקַיָּם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לָנֶֽצַח.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "פּוֹדֶה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמַצִּיל.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שְׁמוֹ.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אַתָּה",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵֽינוּ",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָעוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָאֵל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאָב",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָרַחֲמָן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַמְ֒הֻלָּל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּפִי",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַמּוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְשֻׁבָּח",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמְפֹאָר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בִּלְשׁוֹן",
+    "verse": 1,
+    "root": "ל-ש-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "חֲסִידָיו",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַעֲבָדָיו",
+    "verse": 1,
+    "root": "ע-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וּבְשִׁירֵי",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דָוִד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַבְדֶּֽךָ.",
+    "verse": 1,
+    "root": "ע-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "נְהַלֶּלְךָ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵֽינוּ",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בִּשְׁבָחוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבִזְמִירוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נְגַדֶּלְךָ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּנְשַׁבֵּחֲךָ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּנְפָאֶרְךָ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְנַזְכִּיר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁמְךָ",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְנַמְלִיכְ֒ךָ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַלְכֵּֽנוּ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֱלֹהֵֽינוּ.",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יָחִיד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "חֵי",
+    "verse": 1,
+    "root": "ח-י-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָעוֹלָמִים.",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְשֻׁבָּח",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמְפֹאָר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲדֵי־עַד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַגָּדוֹל.",
+    "verse": 1,
+    "root": "ג-ד-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אַתָּה",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מְהֻלָּל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּתִּשְׁבָּחוֹת:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "yishtabach": {
+  "ref": "Siddur Ashkenaz, Weekday, Shacharit, Pesukei Dezimra, Yishtabach",
+  "version": "The Metsudah siddur, 1981",
+  "license": "CC-BY",
+  "en": "Yishtabach",
+  "he": "יִשְׁתַּבַּח",
+  "segments": 1,
+  "words": [
+   {
+    "hebrew": "יִשְׁתַּבַּח",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁמְךָ",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לָעַד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַלְכֵּנוּ.",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָאֵל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַמֶּֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַגָּדוֹל",
+    "verse": 1,
+    "root": "ג-ד-ל",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וְהַקָּדוֹשׁ",
+    "verse": 1,
+    "root": "ק-ד-ש",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בַּשָּׁמַֽיִם",
+    "verse": 1,
+    "root": "ש-מ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וּבָאָֽרֶץ.",
+    "verse": 1,
+    "root": "א-ר-ץ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "כִּי",
+    "verse": 1,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְךָ",
+    "verse": 1,
+    "root": "ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "נָאֶה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהֵֽינוּ",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וֵאלֹהֵי",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֲבוֹתֵֽינוּ.",
+    "verse": 1,
+    "root": "א-ב-ב",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שִׁיר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּשְׁבָחָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַלֵּל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְזִמְרָה.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֹז",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמֶמְשָׁלָה.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נֶֽצַח",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גְּדֻלָּה",
+    "verse": 1,
+    "root": "ג-ד-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וּגְבוּרָה.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תְּהִלָּה",
+    "verse": 1,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְתִפְאֶֽרֶת.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קְדֻשָּׁה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּמַלְכוּת.",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְּרָכוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהוֹדָאוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֵעַתָּה",
+    "verse": 1,
+    "root": "ע-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְעַד־עוֹלָם.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אַתָּה",
+    "verse": 1,
+    "root": "א-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵל",
+    "verse": 1,
+    "root": "א-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "גָּדוֹל",
+    "verse": 1,
+    "root": "ג-ד-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בַּתִּשְׁבָּחוֹת.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֵל",
+    "verse": 1,
+    "root": "א-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַהוֹדָאוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֲדוֹן",
+    "verse": 1,
+    "root": "א-ד-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַנִּפְלָאוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַבּוֹחֵר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּשִׁירֵי",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זִמְרָה.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֵל",
+    "verse": 1,
+    "root": "א-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "חֵי",
+    "verse": 1,
+    "root": "ח-י-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הָעוֹלָמִים.",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "affix"
+   }
+  ]
+ },
+ "verse_compilation_1": {
+  "ref": "Siddur Ashkenaz, Weekday, Shacharit, Pesukei Dezimra, Yehi Chevod",
+  "version": "The Metsudah siddur, 1981",
+  "license": "CC-BY",
+  "en": "Yehi Chevod",
+  "he": "יְהִי כְבוֹד",
+  "segments": 1,
+  "words": [
+   {
+    "hebrew": "יְהִי",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְבוֹד",
+    "verse": 1,
+    "root": "כ-ב-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשְׂמַח",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּמַעֲשָׂיו:",
+    "verse": 1,
+    "root": "ע-ש-ה",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְהִי",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֵׁם",
+    "verse": 1,
+    "root": "ש-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְבֹרָךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "מֵעַתָּה",
+    "verse": 1,
+    "root": "ע-ת-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְעַד־עוֹלָם:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִמִּזְרַח־שֶֽׁמֶשׁ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַד־מְבוֹאוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְהֻלָּל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֵׁם",
+    "verse": 1,
+    "root": "ש-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רָם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל־כָּל־גּוֹיִם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַל",
+    "verse": 1,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הַשָּׁמַֽיִם",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כְּבוֹדוֹ:",
+    "verse": 1,
+    "root": "כ-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שִׁמְךָ",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְעוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "זִכְרְ֒ךָ",
+    "verse": 1,
+    "root": "ז-כ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְדֹר־וָדֹר:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בַּשָּׁמַֽיִם",
+    "verse": 1,
+    "root": "ש-מ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הֵכִין",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּסְאוֹ",
+    "verse": 1,
+    "root": "כ-ס-א",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "וּמַלְכוּתוֹ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בַּכֹּל",
+    "verse": 1,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "מָשָֽׁלָה:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִשְׂמְחוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׁמַֽיִם",
+    "verse": 1,
+    "root": "ש-מ-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְתָגֵל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הָאָֽרֶץ",
+    "verse": 1,
+    "root": "א-ר-ץ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְיֹאמְ֒רוּ",
+    "verse": 1,
+    "root": "א-מ-ר",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בַגּוֹיִם",
+    "verse": 1,
+    "root": "ג-ו-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מָלָךְ:",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מָלָךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִמְלֹךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְעֹלָם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וָעֶד:",
+    "verse": 1,
+    "root": "ע-ד-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מֶֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וָעֶד",
+    "verse": 1,
+    "root": "ע-ד-ד",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָבְ֒דוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "גוֹיִם",
+    "verse": 1,
+    "root": "ג-ו-י",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "מֵאַרְצוֹ:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֵפִיר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲצַת־גּוֹיִם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הֵנִיא",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַחְשְׁבוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַמִּים:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רַבּוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַחֲשָׁבוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּלֶב־אִישׁ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַעֲצַת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הִיא",
+    "verse": 1,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "תָקוּם:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עֲצַת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "תַּעֲמֹד",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַחְשְׁבוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לִבּוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְדֹר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וָדֹר:",
+    "verse": 1,
+    "root": "ד-ו-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כִּי",
+    "verse": 1,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הוּא",
+    "verse": 1,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָמַר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיֶּֽהִי",
+    "verse": 1,
+    "root": "ה-י-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "הוּא־צִוָּה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וַיַּעֲמֹד:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי",
+    "verse": 1,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָחַר",
+    "verse": 1,
+    "root": "ב-ח-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּצִיּוֹן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אִוָּהּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְמוֹשָׁב",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לוֹ:",
+    "verse": 1,
+    "root": "ל-ו",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כִּי־יַעֲקֹב",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּחַר",
+    "verse": 1,
+    "root": "ב-ח-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לוֹ",
+    "verse": 1,
+    "root": "ל-ו",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יָהּ",
+    "verse": 1,
+    "root": "י-ה-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשְׂרָאֵל",
+    "verse": 1,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לִסְגֻלָּתוֹ:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִּי",
+    "verse": 1,
+    "root": "כ-י",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לֹא",
+    "verse": 1,
+    "root": "ל-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִטּשׁ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עַמּוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְנַחֲלָתוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לֹא",
+    "verse": 1,
+    "root": "ל-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יַעֲזֹב:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהוּא",
+    "verse": 1,
+    "root": "ה-ו-א",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "רַחוּם",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְכַפֵּר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עָוֹן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְלֹא־יַשְׁחִית",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְהִרְבָּה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְהָשִׁיב",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אַפּוֹ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְלֹא־יָעִיר",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כָּל־חֲמָתוֹ:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הוֹשִׁיעָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַמֶּֽלֶךְ",
+    "verse": 1,
+    "root": "מ-ל-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יַעֲנֵֽנוּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְיוֹם־קָרְאֵֽנוּ:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "verse_compilation_2": {
+  "ref": "Siddur Ashkenaz, Weekday, Shacharit, Pesukei Dezimra, Closing Verses",
+  "version": "The Metsudah siddur, 1981",
+  "license": "CC-BY",
+  "en": "Closing Verses",
+  "he": "פְּסוּקֵי סִיּוּם",
+  "segments": 1,
+  "words": [
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אָמֵן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאָמֵן:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִצִּיּוֹן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שֹׁכֵן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְרוּשָׁלָֽםִ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַלְ֒לוּיָהּ:",
+    "verse": 1,
+    "root": "ה-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בָּרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יְהֹוָה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אֱלֹהִים",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "אֱלֹהֵי",
+    "verse": 1,
+    "root": "א-ל-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשְׂרָאֵל",
+    "verse": 1,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עֹשֵׂה",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "נִפְלָאוֹת",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְבַדּוֹ:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבָרוּךְ",
+    "verse": 1,
+    "root": "ב-ר-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "שֵׁם",
+    "verse": 1,
+    "root": "ש-ו-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כְּבוֹדוֹ",
+    "verse": 1,
+    "root": "כ-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְעוֹלָם",
+    "verse": 1,
+    "root": "ע-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְיִמָּלֵא",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כְבוֹדוֹ",
+    "verse": 1,
+    "root": "כ-ב-ד",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "אֶת־כָּל־הָאָֽרֶץ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמֵן",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאָמֵן:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ },
+ "kaddish": {
+  "ref": "Siddur Ashkenaz, Kaddish, Orphan's Kaddish",
+  "version": "Daat Siddur Ashkenaz",
+  "license": "unknown",
+  "en": "Kaddish Yatom",
+  "he": "קַדִּישׁ יָתוֹם",
+  "segments": 7,
+  "words": [
+   {
+    "hebrew": "אבל:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִתְגַּדַּל",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְקַדַּשׁ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֵהּ",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רַבָּא.",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "[קהל:",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אמן]",
+    "verse": 1,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּעָלְמָא",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דִּי",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְרָא",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "כִרְעוּתֵהּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיַמְלִיךְ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מַלְכוּתֵהּ",
+    "verse": 2,
+    "root": "מ-ל-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בְּחַיֵּיכון",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְיומֵיכון",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבְחַיֵּי",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְכָל",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בֵּית",
+    "verse": 2,
+    "root": "ב-י-ת",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשרָאֵל",
+    "verse": 2,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בַּעֲגָלָא",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּבִזְמַן",
+    "verse": 2,
+    "root": "ז-מ-נ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "קָרִיב,",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאִמְרוּ",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמֵן:",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "[קהל:",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אמן]",
+    "verse": 2,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "קהל",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "ואבל:",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֵא",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֵהּ",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רַבָּא",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מְבָרַךְ",
+    "verse": 3,
+    "root": "ב-ר-כ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "לְעָלַם",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וּלְעָלְמֵי",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עָלְמַיָּא:",
+    "verse": 3,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אבל:",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יִתְבָּרַךְ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִשְׁתַּבַּח",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְפָּאַר",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְרומַם",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְנַשּא",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְהַדָּר",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְעַלֶּה",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְיִתְהַלָּל",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁמֵהּ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דְּקֻדְשָׁא.",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּרִיךְ",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הוּא.",
+    "verse": 4,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "[קהל:",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בריך",
+    "verse": 4,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הוא:]",
+    "verse": 4,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "לְעֵלָּא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִן",
+    "verse": 5,
+    "root": "מ-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כָּל",
+    "verse": 5,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בִּרְכָתָא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בעשי”ת:",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעֵלָּא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "לְעֵלָּא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִכָּל",
+    "verse": 5,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְשִׁירָתָא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "תֻּשְׁבְּחָתָא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְנֶחֱמָתָא",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "דַּאֲמִירָן",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "בְּעָלְמָא.",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְאִמְרוּ",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמֵן:",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "[קהל:",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אמן]",
+    "verse": 5,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "יְהֵא",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שְׁלָמָא",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "רַבָּא",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "מִן",
+    "verse": 6,
+    "root": "מ-נ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שְׁמַיָּא",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "וְחַיִּים",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עָלֵינוּ",
+    "verse": 6,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְעַל",
+    "verse": 6,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כָּל",
+    "verse": 6,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשרָאֵל.",
+    "verse": 6,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְאִמְרוּ",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמֵן:",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "[קהל:",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אמן]",
+    "verse": 6,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "עוֹשה",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "שָׁלוֹם",
+    "verse": 7,
+    "root": "ש-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "בעשי”ת:",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הַשָּׁלום",
+    "verse": 7,
+    "root": "ש-ל-מ",
+    "root_basis": "affix"
+   },
+   {
+    "hebrew": "בִּמְרומָיו",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "הוּא",
+    "verse": 7,
+    "root": "ה-ו-א",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יַעֲשה",
+    "verse": 7,
+    "root": "ע-ש-ה",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "שָׁלום",
+    "verse": 7,
+    "root": "ש-ל-מ",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "עָלֵינוּ",
+    "verse": 7,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְעַל",
+    "verse": 7,
+    "root": "ע-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "כָּל",
+    "verse": 7,
+    "root": "כ-ל-ל",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "יִשרָאֵל",
+    "verse": 7,
+    "root": "י-ש-ר",
+    "root_basis": "form"
+   },
+   {
+    "hebrew": "וְאִמְרוּ",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אָמֵן:",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "[קהל:",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   },
+   {
+    "hebrew": "אמן]",
+    "verse": 7,
+    "root": null,
+    "root_basis": null
+   }
+  ]
+ }
+}
