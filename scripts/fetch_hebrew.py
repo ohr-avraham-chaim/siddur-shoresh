@@ -126,7 +126,7 @@ for pid, ref in REFS.items():
         report.append((pid, ref, "ERR", str(e)[:50])); continue
     words, matched = [], 0
     for si, seg in enumerate(segs, 1):
-        for tok in seg.split():
+        for tok in re.sub("\u05be"," ",seg).split():
             r, how = match_root(tok)
             if r: matched += 1
             words.append({"hebrew": tok, "verse": si, "root": r, "root_basis": how})

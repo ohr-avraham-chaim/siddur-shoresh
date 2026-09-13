@@ -1,0 +1,3497 @@
+{
+ "מזמור": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "שיר": {
+  "root": "ש-י-ר",
+  "basis": "verified",
+  "raw": "ש-י-ר"
+ },
+ "חנכת": {
+  "root": "ח-נ-כ",
+  "basis": "verified",
+  "raw": "ח-נ-כ"
+ },
+ "יהוה": {
+  "root": "ה-י-ה",
+  "basis": "weak",
+  "raw": "ה-י-ה"
+ },
+ "דליתני": {
+  "root": "ד-ל-ת",
+  "basis": "verified",
+  "raw": "ד-ל-ת"
+ },
+ "שמחת": {
+  "root": "ש-מ-ח",
+  "basis": "verified",
+  "raw": "ש-מ-ח"
+ },
+ "איבי": {
+  "root": "א-ב-ב",
+  "basis": "weak",
+  "raw": "א-ב-ב"
+ },
+ "שועתי": {
+  "root": "ש-ו-ע",
+  "basis": "verified",
+  "raw": "ש-ו-ע"
+ },
+ "ותרפאני": {
+  "root": "ו-ת-ר-פ",
+  "basis": "verified",
+  "raw": "ו-ת-ר-פ"
+ },
+ "העלית": {
+  "root": "ע-ל-ה",
+  "basis": "weak",
+  "raw": "ע-ל-ה"
+ },
+ "שאול": {
+  "root": "ש-א-ל",
+  "basis": "verified",
+  "raw": "ש-א-ל"
+ },
+ "נפשי": {
+  "root": "נ-פ-ש",
+  "basis": "verified",
+  "raw": "נ-פ-ש"
+ },
+ "חייתני": {
+  "root": "ח-י-ה",
+  "basis": "weak",
+  "raw": "ח-י-ה"
+ },
+ "מיורדי": {
+  "root": "י-ר-ד",
+  "basis": "verified",
+  "raw": "י-ר-ד"
+ },
+ "מירדי": {
+  "root": "ר-ד-ה",
+  "basis": "weak",
+  "raw": "ר-ד-ה"
+ },
+ "בור": {
+  "root": "ב-ו-ר",
+  "basis": "verified",
+  "raw": "ב-ו-ר"
+ },
+ "זמרו": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "ליהוה": {
+  "root": "ה-י-ה",
+  "basis": "weak",
+  "raw": "ה-י-ה"
+ },
+ "חסידיו": {
+  "root": "ח-ס-ד",
+  "basis": "verified",
+  "raw": "ח-ס-ד"
+ },
+ "והודו": {
+  "root": "ה-ו-ד",
+  "basis": "verified",
+  "raw": "ה-ו-ד"
+ },
+ "רגע": {
+  "root": "ר-ג-ע",
+  "basis": "verified",
+  "raw": "ר-ג-ע"
+ },
+ "באפו": {
+  "root": "ב-א-פ",
+  "basis": "verified",
+  "raw": "ב-א-פ"
+ },
+ "חיים": {
+  "root": "ח-י-ה",
+  "basis": "weak",
+  "raw": "ח-י-ה"
+ },
+ "ברצונו": {
+  "root": "ר-צ-ה",
+  "basis": "weak",
+  "raw": "ר-צ-ה"
+ },
+ "בערב": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ב-ו-א"
+ },
+ "ילין": {
+  "root": "י-ל-נ",
+  "basis": "verified",
+  "raw": "י-ל-נ"
+ },
+ "בכי": {
+  "root": "ב-כ-ה",
+  "basis": "weak",
+  "raw": "ב-כ-ה"
+ },
+ "ולבקר": {
+  "root": "ו-ל-ב-ק-ר",
+  "basis": "verified",
+  "raw": "ו-ל-ב-ק-ר"
+ },
+ "רנה": {
+  "root": "ר-נ-נ",
+  "basis": "weak",
+  "raw": "ר-נ-נ"
+ },
+ "אמרתי": {
+  "root": "א-מ-ר",
+  "basis": "verified",
+  "raw": "א-מ-ר"
+ },
+ "בשלוי": {
+  "root": "ש-ל-ו",
+  "basis": "verified",
+  "raw": "ש-ל-ו"
+ },
+ "בל": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ב-ל-ע"
+ },
+ "אמוט": {
+  "root": null,
+  "basis": "reject",
+  "raw": "א-מ-ת"
+ },
+ "ברצונך": {
+  "root": "ר-צ-נ",
+  "basis": "verified",
+  "raw": "ר-צ-נ"
+ },
+ "העמדתה": {
+  "root": "ע-מ-ד",
+  "basis": "verified",
+  "raw": "ע-מ-ד"
+ },
+ "להררי": {
+  "root": "ה-ר-ר",
+  "basis": "verified",
+  "raw": "ה-ר-ר"
+ },
+ "עז": {
+  "root": "ע-ז-ז",
+  "basis": "weak",
+  "raw": "ע-ז-ז"
+ },
+ "הסתרת": {
+  "root": "ס-ת-ר",
+  "basis": "verified",
+  "raw": "ס-ת-ר"
+ },
+ "פניך": {
+  "root": "פ-נ-ה",
+  "basis": "weak",
+  "raw": "פ-נ-ה"
+ },
+ "הייתי": {
+  "root": "ה-י-ה",
+  "basis": "weak",
+  "raw": "ה-י-ה"
+ },
+ "נבהל": {
+  "root": "נ-ב-ה-ל",
+  "basis": "verified",
+  "raw": "נ-ב-ה-ל"
+ },
+ "אקרא": {
+  "root": "ק-ר-א",
+  "basis": "verified",
+  "raw": "ק-ר-א"
+ },
+ "אדני": {
+  "root": "א-ד-נ",
+  "basis": "verified",
+  "raw": "א-ד-נ"
+ },
+ "אתחנן": {
+  "root": "א-ת-ח-נ",
+  "basis": "verified",
+  "raw": "א-ת-ח-נ"
+ },
+ "מה": {
+  "root": "מ-ה",
+  "basis": "verified",
+  "raw": "מ-ה"
+ },
+ "בצע": {
+  "root": "ב-צ-ע",
+  "basis": "verified",
+  "raw": "ב-צ-ע"
+ },
+ "בדמי": {
+  "root": "ב-ד-מ",
+  "basis": "verified",
+  "raw": "ב-ד-מ"
+ },
+ "ברדתי": {
+  "root": "ר-ד-ה",
+  "basis": "weak",
+  "raw": "ר-ד-ה"
+ },
+ "שחת": {
+  "root": "ש-ח-ת",
+  "basis": "verified",
+  "raw": "ש-ח-ת"
+ },
+ "היודך": {
+  "root": "י-ד-כ",
+  "basis": "verified",
+  "raw": "י-ד-כ"
+ },
+ "עפר": {
+  "root": "ע-פ-ר",
+  "basis": "verified",
+  "raw": "ע-פ-ר"
+ },
+ "היגיד": {
+  "root": "ה-ג-ד",
+  "basis": "verified",
+  "raw": "ה-ג-ד"
+ },
+ "וחנני": {
+  "root": "ו-ח-נ-נ",
+  "basis": "verified",
+  "raw": "ו-ח-נ-נ"
+ },
+ "היה": {
+  "root": "ה-י-ה",
+  "basis": "verified",
+  "raw": "ה-י-ה"
+ },
+ "עזר": {
+  "root": "ע-ז-ר",
+  "basis": "verified",
+  "raw": "ע-ז-ר"
+ },
+ "הפכת": {
+  "root": "ה-פ-כ",
+  "basis": "verified",
+  "raw": "ה-פ-כ"
+ },
+ "מספדי": {
+  "root": "ס-פ-ד",
+  "basis": "verified",
+  "raw": "ס-פ-ד"
+ },
+ "למחול": {
+  "root": "מ-ח-ל",
+  "basis": "verified",
+  "raw": "מ-ח-ל"
+ },
+ "פתחת": {
+  "root": "פ-ת-ח",
+  "basis": "verified",
+  "raw": "פ-ת-ח"
+ },
+ "שקי": {
+  "root": "ש-ק-ה",
+  "basis": "weak",
+  "raw": "ש-ק-ה"
+ },
+ "ותאזרני": {
+  "root": "א-ז-ר",
+  "basis": "verified",
+  "raw": "א-ז-ר"
+ },
+ "שמחה": {
+  "root": "ש-מ-ח",
+  "basis": "verified",
+  "raw": "ש-מ-ח"
+ },
+ "יזמרך": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "ידם": {
+  "root": "י-ד-מ",
+  "basis": "verified",
+  "raw": "י-ד-מ"
+ },
+ "אודך": {
+  "root": "א-ד-ה",
+  "basis": "weak",
+  "raw": "א-ד-ה"
+ },
+ "{פ}": {
+  "root": null,
+  "basis": "reject",
+  "raw": "פ-ת-ח"
+ },
+ "לתודה": {
+  "root": "י-ד-ה",
+  "basis": "weak",
+  "raw": "י-ד-ה"
+ },
+ "הריעו": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ר-ו-ע"
+ },
+ "בשמחה": {
+  "root": "ש-מ-ח",
+  "basis": "verified",
+  "raw": "ש-מ-ח"
+ },
+ "באו": {
+  "root": "ב-א-ו",
+  "basis": "verified",
+  "raw": "ב-א-ו"
+ },
+ "ברננה": {
+  "root": "ב-ר-נ",
+  "basis": "verified",
+  "raw": "ב-ר-נ"
+ },
+ "דעו": {
+  "root": "י-ד-ע",
+  "basis": "weak",
+  "raw": "י-ד-ע"
+ },
+ "ולו": {
+  "root": "ו-ל-ו",
+  "basis": "verified",
+  "raw": "ו-ל-ו"
+ },
+ "עמו": {
+  "root": "ע-מ-מ",
+  "basis": "weak",
+  "raw": "ע-מ-מ"
+ },
+ "וצאן": {
+  "root": "צ-א-ה",
+  "basis": "weak",
+  "raw": "צ-א-ה"
+ },
+ "מרעיתו": {
+  "root": "ר-ע-ה",
+  "basis": "weak",
+  "raw": "ר-ע-ה"
+ },
+ "שעריו": {
+  "root": "ש-ע-ר",
+  "basis": "verified",
+  "raw": "ש-ע-ר"
+ },
+ "בתודה": {
+  "root": "י-ד-ה",
+  "basis": "weak",
+  "raw": "י-ד-ה"
+ },
+ "חצרתיו": {
+  "root": "ח-צ-ר",
+  "basis": "verified",
+  "raw": "ח-צ-ר"
+ },
+ "הודו": {
+  "root": "ה-ו-ד",
+  "basis": "verified",
+  "raw": "ה-ו-ד"
+ },
+ "ברכו": {
+  "root": "ב-ר-כ",
+  "basis": "verified",
+  "raw": "ב-ר-כ"
+ },
+ "שמו": {
+  "root": "ש-ו-מ",
+  "basis": "weak",
+  "raw": "ש-ו-מ"
+ },
+ "דר": {
+  "root": "ד-ר-ר",
+  "basis": "weak",
+  "raw": "ד-ר-ר"
+ },
+ "אמונתו": {
+  "root": "א-מ-נ",
+  "basis": "verified",
+  "raw": "א-מ-נ"
+ },
+ "הללו": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "הללי": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "אהללה": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "בחיי": {
+  "root": "ב-ח-י",
+  "basis": "verified",
+  "raw": "ב-ח-י"
+ },
+ "אזמרה": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "תבטחו": {
+  "root": "ב-ט-ח",
+  "basis": "verified",
+  "raw": "ב-ט-ח"
+ },
+ "בנדיבים": {
+  "root": "ב-נ-ד",
+  "basis": "verified",
+  "raw": "ב-נ-ד"
+ },
+ "בבן": {
+  "root": "ב-נ-י",
+  "basis": "weak",
+  "raw": "ב-נ-י"
+ },
+ "תשועה": {
+  "root": "י-ש-ע",
+  "basis": "weak",
+  "raw": "י-ש-ע"
+ },
+ "תצא": {
+  "root": "י-צ-א",
+  "basis": "weak",
+  "raw": "י-צ-א"
+ },
+ "רוחו": {
+  "root": "ר-ו-ח",
+  "basis": "verified",
+  "raw": "ר-ו-ח"
+ },
+ "ישב": {
+  "root": "י-ש-ב",
+  "basis": "verified",
+  "raw": "י-ש-ב"
+ },
+ "לאדמתו": {
+  "root": "א-ד-מ",
+  "basis": "verified",
+  "raw": "א-ד-מ"
+ },
+ "אבדו": {
+  "root": "א-ב-ד",
+  "basis": "verified",
+  "raw": "א-ב-ד"
+ },
+ "עשתנתיו": {
+  "root": "ע-ש-ת",
+  "basis": "verified",
+  "raw": "ע-ש-ת"
+ },
+ "שאל": {
+  "root": "ש-א-ל",
+  "basis": "verified",
+  "raw": "ש-א-ל"
+ },
+ "יעקב": {
+  "root": "י-ע-ק",
+  "basis": "verified",
+  "raw": "י-ע-ק"
+ },
+ "בעזרו": {
+  "root": "ע-ז-ר",
+  "basis": "verified",
+  "raw": "ע-ז-ר"
+ },
+ "שברו": {
+  "root": "ש-ב-ר",
+  "basis": "verified",
+  "raw": "ש-ב-ר"
+ },
+ "עשה": {
+  "root": "ע-ש-ה",
+  "basis": "verified",
+  "raw": "ע-ש-ה"
+ },
+ "הים": {
+  "root": "י-מ-ה",
+  "basis": "weak",
+  "raw": "י-מ-ה"
+ },
+ "השמר": {
+  "root": "ש-מ-ר",
+  "basis": "verified",
+  "raw": "ש-מ-ר"
+ },
+ "משפט": {
+  "root": "ש-פ-ט",
+  "basis": "verified",
+  "raw": "ש-פ-ט"
+ },
+ "לעשוקים": {
+  "root": "ע-ש-ק",
+  "basis": "verified",
+  "raw": "ע-ש-ק"
+ },
+ "לחם": {
+  "root": "ל-ח-מ",
+  "basis": "verified",
+  "raw": "ל-ח-מ"
+ },
+ "לרעבים": {
+  "root": "ר-ע-ב",
+  "basis": "verified",
+  "raw": "ר-ע-ב"
+ },
+ "פקח": {
+  "root": "פ-ק-ח",
+  "basis": "verified",
+  "raw": "פ-ק-ח"
+ },
+ "זקף": {
+  "root": "ז-ק-פ",
+  "basis": "verified",
+  "raw": "ז-ק-פ"
+ },
+ "אהב": {
+  "root": "א-ה-ב",
+  "basis": "verified",
+  "raw": "א-ה-ב"
+ },
+ "שמר": {
+  "root": "ש-מ-ר",
+  "basis": "verified",
+  "raw": "ש-מ-ר"
+ },
+ "גרים": {
+  "root": "ג-ו-ר",
+  "basis": "weak",
+  "raw": "ג-ו-ר"
+ },
+ "יתום": {
+  "root": "י-ת-מ",
+  "basis": "verified",
+  "raw": "י-ת-מ"
+ },
+ "ואלמנה": {
+  "root": "א-ל-מ",
+  "basis": "verified",
+  "raw": "א-ל-מ"
+ },
+ "יעודד": {
+  "root": "ע-ו-ד",
+  "basis": "verified",
+  "raw": "ע-ו-ד"
+ },
+ "יעות": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ע-צ"
+ },
+ "ציון": {
+  "root": "צ-י-ו",
+  "basis": "verified",
+  "raw": "צ-י-ו"
+ },
+ "לדר": {
+  "root": "ד-ר-ר",
+  "basis": "weak",
+  "raw": "ד-ר-ר"
+ },
+ "זמרה": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "נעים": {
+  "root": "נ-ע-מ",
+  "basis": "verified",
+  "raw": "נ-ע-מ"
+ },
+ "נאוה": {
+  "root": null,
+  "basis": "reject",
+  "raw": "נ-ו-א"
+ },
+ "בונה": {
+  "root": "ב-נ-ה",
+  "basis": "verified",
+  "raw": "ב-נ-ה"
+ },
+ "ירושל͏ם": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ר-ב"
+ },
+ "נדחי": {
+  "root": "נ-ד-ח",
+  "basis": "verified",
+  "raw": "נ-ד-ח"
+ },
+ "יכנס": {
+  "root": "כ-נ-ס",
+  "basis": "verified",
+  "raw": "כ-נ-ס"
+ },
+ "הרפא": {
+  "root": "ר-פ-א",
+  "basis": "verified",
+  "raw": "ר-פ-א"
+ },
+ "לשבורי": {
+  "root": "ש-ב-ר",
+  "basis": "verified",
+  "raw": "ש-ב-ר"
+ },
+ "לב": {
+  "root": "ל-ב-ב",
+  "basis": "weak",
+  "raw": "ל-ב-ב"
+ },
+ "ומחבש": {
+  "root": "ח-ב-ש",
+  "basis": "verified",
+  "raw": "ח-ב-ש"
+ },
+ "לעצבותם": {
+  "root": "ע-צ-ב",
+  "basis": "verified",
+  "raw": "ע-צ-ב"
+ },
+ "מונה": {
+  "root": null,
+  "basis": "reject",
+  "raw": "נ-ס-ה"
+ },
+ "מספר": {
+  "root": "מ-ס-פ-ר",
+  "basis": "verified",
+  "raw": "מ-ס-פ-ר"
+ },
+ "לכוכבים": {
+  "root": "כ-כ-ב",
+  "basis": "verified",
+  "raw": "כ-כ-ב"
+ },
+ "שמות": {
+  "root": "ש-מ-ה",
+  "basis": "weak",
+  "raw": "ש-מ-ה"
+ },
+ "יקרא": {
+  "root": "י-ק-ר",
+  "basis": "verified",
+  "raw": "י-ק-ר"
+ },
+ "אדונינו": {
+  "root": "א-ד-נ",
+  "basis": "verified",
+  "raw": "א-ד-נ"
+ },
+ "ורב": {
+  "root": "ר-ב-ב",
+  "basis": "weak",
+  "raw": "ר-ב-ב"
+ },
+ "לתבונתו": {
+  "root": "ב-נ-ה",
+  "basis": "weak",
+  "raw": "ב-נ-ה"
+ },
+ "מעודד": {
+  "root": "ע-ו-ד",
+  "basis": "verified",
+  "raw": "ע-ו-ד"
+ },
+ "ענוים": {
+  "root": "ע-נ-ו",
+  "basis": "verified",
+  "raw": "ע-נ-ו"
+ },
+ "משפיל": {
+  "root": "ש-פ-ל",
+  "basis": "verified",
+  "raw": "ש-פ-ל"
+ },
+ "עדי": {
+  "root": "ע-ד-ה",
+  "basis": "weak",
+  "raw": "ע-ד-ה"
+ },
+ "ענו": {
+  "root": "ע-נ-ה",
+  "basis": "weak",
+  "raw": "ע-נ-ה"
+ },
+ "בכנור": {
+  "root": "כ-נ-ר",
+  "basis": "verified",
+  "raw": "כ-נ-ר"
+ },
+ "המכסה": {
+  "root": "כ-ס-ה",
+  "basis": "verified",
+  "raw": "כ-ס-ה"
+ },
+ "בעבים": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ע-ב-ר"
+ },
+ "המצמיח": {
+  "root": "צ-מ-ח",
+  "basis": "verified",
+  "raw": "צ-מ-ח"
+ },
+ "הרים": {
+  "root": "ר-ו-מ",
+  "basis": "weak",
+  "raw": "ר-ו-מ"
+ },
+ "חציר": {
+  "root": "ח-צ-צ",
+  "basis": "weak",
+  "raw": "ח-צ-צ"
+ },
+ "לבהמה": {
+  "root": "ב-ה-מ",
+  "basis": "verified",
+  "raw": "ב-ה-מ"
+ },
+ "לחמה": {
+  "root": "ל-ח-מ",
+  "basis": "verified",
+  "raw": "ל-ח-מ"
+ },
+ "ערב": {
+  "root": "ע-ר-ב",
+  "basis": "verified",
+  "raw": "ע-ר-ב"
+ },
+ "בגבורת": {
+  "root": "ג-ב-ר",
+  "basis": "verified",
+  "raw": "ג-ב-ר"
+ },
+ "הסוס": {
+  "root": "ס-ו-ס",
+  "basis": "verified",
+  "raw": "ס-ו-ס"
+ },
+ "יחפץ": {
+  "root": "ח-פ-צ",
+  "basis": "verified",
+  "raw": "ח-פ-צ"
+ },
+ "בשוקי": {
+  "root": "ש-ו-ק",
+  "basis": "verified",
+  "raw": "ש-ו-ק"
+ },
+ "ירצה": {
+  "root": "ר-צ-ה",
+  "basis": "verified",
+  "raw": "ר-צ-ה"
+ },
+ "רוצה": {
+  "root": "ר-צ-ה",
+  "basis": "verified",
+  "raw": "ר-צ-ה"
+ },
+ "המיחלים": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ח-י-ל"
+ },
+ "שבחי": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "חזק": {
+  "root": "ח-ז-ק",
+  "basis": "verified",
+  "raw": "ח-ז-ק"
+ },
+ "בריחי": {
+  "root": "ב-ר-ח",
+  "basis": "verified",
+  "raw": "ב-ר-ח"
+ },
+ "שעריך": {
+  "root": "ש-ע-ר",
+  "basis": "verified",
+  "raw": "ש-ע-ר"
+ },
+ "בקרבך": {
+  "root": "ב-ק-ר",
+  "basis": "verified",
+  "raw": "ב-ק-ר"
+ },
+ "השם": {
+  "root": "ש-מ-ה",
+  "basis": "weak",
+  "raw": "ש-מ-ה"
+ },
+ "גבולך": {
+  "root": "ג-ב-ל",
+  "basis": "verified",
+  "raw": "ג-ב-ל"
+ },
+ "חלב": {
+  "root": "ח-ל-ב",
+  "basis": "verified",
+  "raw": "ח-ל-ב"
+ },
+ "חטים": {
+  "root": "ח-ט-ט",
+  "basis": "weak",
+  "raw": "ח-ט-ט"
+ },
+ "ישביעך": {
+  "root": "ש-ב-ע",
+  "basis": "verified",
+  "raw": "ש-ב-ע"
+ },
+ "השלח": {
+  "root": "ש-ל-ח",
+  "basis": "verified",
+  "raw": "ש-ל-ח"
+ },
+ "אמרתו": {
+  "root": "א-מ-ר",
+  "basis": "verified",
+  "raw": "א-מ-ר"
+ },
+ "ירוץ": {
+  "root": "ר-ו-צ",
+  "basis": "verified",
+  "raw": "ר-ו-צ"
+ },
+ "שלג": {
+  "root": "ש-ל-ג",
+  "basis": "verified",
+  "raw": "ש-ל-ג"
+ },
+ "כצמר": {
+  "root": "צ-מ-ר",
+  "basis": "verified",
+  "raw": "צ-מ-ר"
+ },
+ "כפור": {
+  "root": "כ-פ-ר",
+  "basis": "verified",
+  "raw": "כ-פ-ר"
+ },
+ "כאפר": {
+  "root": "פ-ר-ר",
+  "basis": "weak",
+  "raw": "פ-ר-ר"
+ },
+ "יפזר": {
+  "root": "פ-ז-ר",
+  "basis": "verified",
+  "raw": "פ-ז-ר"
+ },
+ "משליך": {
+  "root": "ש-ל-כ",
+  "basis": "verified",
+  "raw": "ש-ל-כ"
+ },
+ "קרחו": {
+  "root": "ק-ר-ח",
+  "basis": "verified",
+  "raw": "ק-ר-ח"
+ },
+ "כפתים": {
+  "root": "כ-פ-ת",
+  "basis": "verified",
+  "raw": "כ-פ-ת"
+ },
+ "קרתו": {
+  "root": "ק-ר-ת",
+  "basis": "verified",
+  "raw": "ק-ר-ת"
+ },
+ "מי": {
+  "root": "מ-י",
+  "basis": "verified",
+  "raw": "מ-י"
+ },
+ "יעמד": {
+  "root": "ע-מ-ד",
+  "basis": "verified",
+  "raw": "ע-מ-ד"
+ },
+ "ישלח": {
+  "root": "ש-ל-ח",
+  "basis": "verified",
+  "raw": "ש-ל-ח"
+ },
+ "וימסם": {
+  "root": "ו-מ-ס",
+  "basis": "verified",
+  "raw": "ו-מ-ס"
+ },
+ "יזלו": {
+  "root": "ז-ל-ל",
+  "basis": "weak",
+  "raw": "ז-ל-ל"
+ },
+ "מים": {
+  "root": "מ-י-מ",
+  "basis": "verified",
+  "raw": "מ-י-מ"
+ },
+ "מגיד": {
+  "root": "נ-ג-ד",
+  "basis": "weak",
+  "raw": "נ-ג-ד"
+ },
+ "ליעקב": {
+  "root": "י-ע-ק",
+  "basis": "verified",
+  "raw": "י-ע-ק"
+ },
+ "חקיו": {
+  "root": "ח-ק-ק",
+  "basis": "weak",
+  "raw": "ח-ק-ק"
+ },
+ "ומשפטיו": {
+  "root": "ש-פ-ט",
+  "basis": "verified",
+  "raw": "ש-פ-ט"
+ },
+ "ומשפטים": {
+  "root": "ש-פ-ט",
+  "basis": "verified",
+  "raw": "ש-פ-ט"
+ },
+ "ידעום": {
+  "root": "י-ד-ע",
+  "basis": "verified",
+  "raw": "י-ד-ע"
+ },
+ "הללוהו": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "מלאכיו": {
+  "root": "מ-ל-כ",
+  "basis": "verified",
+  "raw": "מ-ל-כ"
+ },
+ "צבאו": {
+  "root": "צ-ב-א",
+  "basis": "verified",
+  "raw": "צ-ב-א"
+ },
+ "שמש": {
+  "root": "ש-מ-ש",
+  "basis": "verified",
+  "raw": "ש-מ-ש"
+ },
+ "וירח": {
+  "root": "ו-ר-ח",
+  "basis": "verified",
+  "raw": "ו-ר-ח"
+ },
+ "כוכבי": {
+  "root": "כ-כ-ב",
+  "basis": "verified",
+  "raw": "כ-כ-ב"
+ },
+ "אור": {
+  "root": "א-ו-ר",
+  "basis": "verified",
+  "raw": "א-ו-ר"
+ },
+ "שמי": {
+  "root": "ש-מ-ה",
+  "basis": "weak",
+  "raw": "ש-מ-ה"
+ },
+ "יהללו": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "צוה": {
+  "root": "צ-ו-ה",
+  "basis": "verified",
+  "raw": "צ-ו-ה"
+ },
+ "ונבראו": {
+  "root": "ב-ר-א",
+  "basis": "verified",
+  "raw": "ב-ר-א"
+ },
+ "ויעמידם": {
+  "root": "ע-מ-ד",
+  "basis": "verified",
+  "raw": "ע-מ-ד"
+ },
+ "לעד": {
+  "root": "ע-ו-ד",
+  "basis": "weak",
+  "raw": "ע-ו-ד"
+ },
+ "חק": {
+  "root": "ח-ק-ק",
+  "basis": "weak",
+  "raw": "ח-ק-ק"
+ },
+ "יעבור": {
+  "root": "ע-ב-ר",
+  "basis": "verified",
+  "raw": "ע-ב-ר"
+ },
+ "תנינים": {
+  "root": "ת-נ-נ",
+  "basis": "verified",
+  "raw": "ת-נ-נ"
+ },
+ "תהמות": {
+  "root": "ת-ה-מ",
+  "basis": "verified",
+  "raw": "ת-ה-מ"
+ },
+ "אש": {
+  "root": "א-ש-ש",
+  "basis": "weak",
+  "raw": "א-ש-ש"
+ },
+ "וברד": {
+  "root": "ב-ר-ד",
+  "basis": "verified",
+  "raw": "ב-ר-ד"
+ },
+ "וקיטור": {
+  "root": "ק-ט-ר",
+  "basis": "verified",
+  "raw": "ק-ט-ר"
+ },
+ "רוח": {
+  "root": "ר-ו-ח",
+  "basis": "verified",
+  "raw": "ר-ו-ח"
+ },
+ "סערה": {
+  "root": "ס-ע-ר",
+  "basis": "verified",
+  "raw": "ס-ע-ר"
+ },
+ "ההרים": {
+  "root": "ה-ר-ר",
+  "basis": "weak",
+  "raw": "ה-ר-ר"
+ },
+ "גבעות": {
+  "root": "ג-ב-ה",
+  "basis": "weak",
+  "raw": "ג-ב-ה"
+ },
+ "עץ": {
+  "root": "ע-צ-צ",
+  "basis": "weak",
+  "raw": "ע-צ-צ"
+ },
+ "פרי": {
+  "root": "פ-ר-ה",
+  "basis": "weak",
+  "raw": "פ-ר-ה"
+ },
+ "ארזים": {
+  "root": "א-ר-ז",
+  "basis": "verified",
+  "raw": "א-ר-ז"
+ },
+ "החיה": {
+  "root": "ח-י-ה",
+  "basis": "verified",
+  "raw": "ח-י-ה"
+ },
+ "בהמה": {
+  "root": "ב-ה-מ",
+  "basis": "verified",
+  "raw": "ב-ה-מ"
+ },
+ "רמש": {
+  "root": "ר-ו-מ",
+  "basis": "weak",
+  "raw": "ר-ו-מ"
+ },
+ "וצפור": {
+  "root": "צ-פ-ר",
+  "basis": "verified",
+  "raw": "צ-פ-ר"
+ },
+ "כנף": {
+  "root": "כ-נ-פ",
+  "basis": "verified",
+  "raw": "כ-נ-פ"
+ },
+ "לאמים": {
+  "root": "ל-א-מ",
+  "basis": "verified",
+  "raw": "ל-א-מ"
+ },
+ "שרים": {
+  "root": "ש-ר-ר",
+  "basis": "weak",
+  "raw": "ש-ר-ר"
+ },
+ "שפטי": {
+  "root": "ש-פ-ט",
+  "basis": "verified",
+  "raw": "ש-פ-ט"
+ },
+ "בחורים": {
+  "root": "ב-ח-ר",
+  "basis": "verified",
+  "raw": "ב-ח-ר"
+ },
+ "וגם": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ג-מ-א"
+ },
+ "בתולות": {
+  "root": "ב-ת-ל",
+  "basis": "verified",
+  "raw": "ב-ת-ל"
+ },
+ "זקנים": {
+  "root": "ז-ק-נ",
+  "basis": "verified",
+  "raw": "ז-ק-נ"
+ },
+ "עם": {
+  "root": "ע-מ-מ",
+  "basis": "weak",
+  "raw": "ע-מ-מ"
+ },
+ "נערים": {
+  "root": "נ-ע-ר",
+  "basis": "verified",
+  "raw": "נ-ע-ר"
+ },
+ "נשגב": {
+  "root": "נ-ש-ג-ב",
+  "basis": "verified",
+  "raw": "נ-ש-ג-ב"
+ },
+ "לבדו": {
+  "root": "ל-ב-ד",
+  "basis": "verified",
+  "raw": "ל-ב-ד"
+ },
+ "וירם": {
+  "root": "י-ר-מ",
+  "basis": "verified",
+  "raw": "י-ר-מ"
+ },
+ "קרן": {
+  "root": "ק-ר-נ",
+  "basis": "verified",
+  "raw": "ק-ר-נ"
+ },
+ "קרבו": {
+  "root": "ק-ר-ב",
+  "basis": "verified",
+  "raw": "ק-ר-ב"
+ },
+ "שירו": {
+  "root": "ש-י-ר",
+  "basis": "verified",
+  "raw": "ש-י-ר"
+ },
+ "חדש": {
+  "root": "ח-ד-ש",
+  "basis": "verified",
+  "raw": "ח-ד-ש"
+ },
+ "בקהל": {
+  "root": "ק-ה-ל",
+  "basis": "verified",
+  "raw": "ק-ה-ל"
+ },
+ "חסידים": {
+  "root": "ח-ס-ד",
+  "basis": "verified",
+  "raw": "ח-ס-ד"
+ },
+ "ישמח": {
+  "root": "ש-מ-ח",
+  "basis": "verified",
+  "raw": "ש-מ-ח"
+ },
+ "בעשיו": {
+  "root": "ב-ש-ה",
+  "basis": "weak",
+  "raw": "ב-ש-ה"
+ },
+ "יגילו": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ג-ו-ל"
+ },
+ "במלכם": {
+  "root": "ב-מ-ל-כ",
+  "basis": "verified",
+  "raw": "ב-מ-ל-כ"
+ },
+ "במחול": {
+  "root": "מ-ח-ל",
+  "basis": "verified",
+  "raw": "מ-ח-ל"
+ },
+ "בתף": {
+  "root": "ב-ת-פ",
+  "basis": "verified",
+  "raw": "ב-ת-פ"
+ },
+ "וכנור": {
+  "root": "כ-נ-ר",
+  "basis": "verified",
+  "raw": "כ-נ-ר"
+ },
+ "יזמרו": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "בעמו": {
+  "root": "ב-ע-מ",
+  "basis": "verified",
+  "raw": "ב-ע-מ"
+ },
+ "יפאר": {
+  "root": "פ-א-ר",
+  "basis": "verified",
+  "raw": "פ-א-ר"
+ },
+ "בישועה": {
+  "root": "י-ש-ע",
+  "basis": "verified",
+  "raw": "י-ש-ע"
+ },
+ "יעלזו": {
+  "root": "ע-ל-ז",
+  "basis": "verified",
+  "raw": "ע-ל-ז"
+ },
+ "משכבותם": {
+  "root": "ש-כ-ב",
+  "basis": "verified",
+  "raw": "ש-כ-ב"
+ },
+ "רוממות": {
+  "root": "ר-ו-מ",
+  "basis": "verified",
+  "raw": "ר-ו-מ"
+ },
+ "בגרונם": {
+  "root": "ג-ר-נ",
+  "basis": "verified",
+  "raw": "ג-ר-נ"
+ },
+ "וחרב": {
+  "root": "ח-ר-ב",
+  "basis": "verified",
+  "raw": "ח-ר-ב"
+ },
+ "פיפיות": {
+  "root": "פ-י-פ",
+  "basis": "verified",
+  "raw": "פ-י-פ"
+ },
+ "בידם": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ד-ב"
+ },
+ "נקמה": {
+  "root": "נ-ק-מ",
+  "basis": "verified",
+  "raw": "נ-ק-מ"
+ },
+ "תוכחות": {
+  "root": "ת-כ-ח",
+  "basis": "verified",
+  "raw": "ת-כ-ח"
+ },
+ "בלאמים": {
+  "root": "ב-ל-מ",
+  "basis": "verified",
+  "raw": "ב-ל-מ"
+ },
+ "לאסר": {
+  "root": "א-ס-ר",
+  "basis": "verified",
+  "raw": "א-ס-ר"
+ },
+ "בזקים": {
+  "root": "ב-ז-ק",
+  "basis": "verified",
+  "raw": "ב-ז-ק"
+ },
+ "ונכבדיהם": {
+  "root": "נ-כ-ב",
+  "basis": "verified",
+  "raw": "נ-כ-ב"
+ },
+ "בכבלי": {
+  "root": "כ-ב-ל",
+  "basis": "verified",
+  "raw": "כ-ב-ל"
+ },
+ "ברזל": {
+  "root": "ב-ר-ז",
+  "basis": "verified",
+  "raw": "ב-ר-ז"
+ },
+ "בהם": {
+  "root": "ב-ה-מ",
+  "basis": "verified",
+  "raw": "ב-ה-מ"
+ },
+ "כתוב": {
+  "root": "כ-ת-ב",
+  "basis": "verified",
+  "raw": "כ-ת-ב"
+ },
+ "ברקיע": {
+  "root": "ר-ק-ע",
+  "basis": "verified",
+  "raw": "ר-ק-ע"
+ },
+ "כרב": {
+  "root": "כ-ר-ב",
+  "basis": "verified",
+  "raw": "כ-ר-ב"
+ },
+ "גדלו": {
+  "root": "ג-ד-ל",
+  "basis": "verified",
+  "raw": "ג-ד-ל"
+ },
+ "בתקע": {
+  "root": "ת-ק-ע",
+  "basis": "verified",
+  "raw": "ת-ק-ע"
+ },
+ "שופר": {
+  "root": "ש-פ-ר",
+  "basis": "verified",
+  "raw": "ש-פ-ר"
+ },
+ "בנבל": {
+  "root": "ב-נ-ל",
+  "basis": "verified",
+  "raw": "ב-נ-ל"
+ },
+ "ומחול": {
+  "root": "מ-ח-ל",
+  "basis": "verified",
+  "raw": "מ-ח-ל"
+ },
+ "במנים": {
+  "root": "מ-נ-ה",
+  "basis": "weak",
+  "raw": "מ-נ-ה"
+ },
+ "ועגב": {
+  "root": "ע-ג-ב",
+  "basis": "verified",
+  "raw": "ע-ג-ב"
+ },
+ "בצלצלי": {
+  "root": "צ-ל-צ-ל",
+  "basis": "verified",
+  "raw": "צ-ל-צ-ל"
+ },
+ "תרועה": {
+  "root": "ר-ו-ע",
+  "basis": "verified",
+  "raw": "ר-ו-ע"
+ },
+ "תהלל": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "אז": {
+  "root": "א-ז",
+  "basis": "verified",
+  "raw": "א-ז"
+ },
+ "ישיר": {
+  "root": "י-ש-ר",
+  "basis": "verified",
+  "raw": "י-ש-ר"
+ },
+ "השירה": {
+  "root": "ש-יר-ה",
+  "basis": "verified",
+  "raw": "ש-יר-ה"
+ },
+ "הזאת": {
+  "root": "ה-ז-ה",
+  "basis": "weak",
+  "raw": "ה-ז-ה"
+ },
+ "אשירה": {
+  "root": "א-ש-ר",
+  "basis": "verified",
+  "raw": "א-ש-ר"
+ },
+ "גאה": {
+  "root": "ג-א-ה",
+  "basis": "verified",
+  "raw": "ג-א-ה"
+ },
+ "סוס": {
+  "root": "ס-ו-ס",
+  "basis": "verified",
+  "raw": "ס-ו-ס"
+ },
+ "ורכבו": {
+  "root": "ר-כ-ב",
+  "basis": "verified",
+  "raw": "ר-כ-ב"
+ },
+ "רמה": {
+  "root": "ר-ו-מ",
+  "basis": "weak",
+  "raw": "ר-ו-מ"
+ },
+ "בים": {
+  "root": "י-מ-ה",
+  "basis": "weak",
+  "raw": "י-מ-ה"
+ },
+ "עזי": {
+  "root": "ע-ו-ז",
+  "basis": "weak",
+  "raw": "ע-ו-ז"
+ },
+ "וזמרת": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "לישועה": {
+  "root": "י-ש-ע",
+  "basis": "verified",
+  "raw": "י-ש-ע"
+ },
+ "זה": {
+  "root": "ז-ה",
+  "basis": "verified",
+  "raw": "ז-ה"
+ },
+ "אלי": {
+  "root": "א-ל-ה",
+  "basis": "weak",
+  "raw": "א-ל-ה"
+ },
+ "ואנוהו": {
+  "root": "א-נ-ה",
+  "basis": "verified",
+  "raw": "א-נ-ה"
+ },
+ "אבי": {
+  "root": "א-ב-ב",
+  "basis": "weak",
+  "raw": "א-ב-ב"
+ },
+ "וארממנהו": {
+  "root": "א-ר-מ",
+  "basis": "verified",
+  "raw": "א-ר-מ"
+ },
+ "מלחמה": {
+  "root": "מ-ל-ח-מ",
+  "basis": "verified",
+  "raw": "מ-ל-ח-מ"
+ },
+ "מרכבת": {
+  "root": "ר-כ-ב",
+  "basis": "verified",
+  "raw": "ר-כ-ב"
+ },
+ "פרעה": {
+  "root": "פ-ר-ע",
+  "basis": "verified",
+  "raw": "פ-ר-ע"
+ },
+ "וחילו": {
+  "root": "ח-י-ל",
+  "basis": "verified",
+  "raw": "ח-י-ל"
+ },
+ "ירה": {
+  "root": "י-ר-ה",
+  "basis": "verified",
+  "raw": "י-ר-ה"
+ },
+ "שלשיו": {
+  "root": "ש-ל-ש",
+  "basis": "verified",
+  "raw": "ש-ל-ש"
+ },
+ "טבעו": {
+  "root": "ט-ב-ע",
+  "basis": "verified",
+  "raw": "ט-ב-ע"
+ },
+ "סוף": {
+  "root": "ס-ו-פ",
+  "basis": "verified",
+  "raw": "ס-ו-פ"
+ },
+ "תהמת": {
+  "root": "ת-ה-מ",
+  "basis": "verified",
+  "raw": "ת-ה-מ"
+ },
+ "יכסימו": {
+  "root": "כ-ס-י",
+  "basis": "verified",
+  "raw": "כ-ס-י"
+ },
+ "ירדו": {
+  "root": "ר-ד-ה",
+  "basis": "weak",
+  "raw": "ר-ד-ה"
+ },
+ "במצולת": {
+  "root": "צ-ל-ל",
+  "basis": "weak",
+  "raw": "צ-ל-ל"
+ },
+ "כמו": {
+  "root": "כ-מ-ה",
+  "basis": "weak",
+  "raw": "כ-מ-ה"
+ },
+ "אבן": {
+  "root": "א-ב-נ",
+  "basis": "verified",
+  "raw": "א-ב-נ"
+ },
+ "ימינך": {
+  "root": "י-מ-נ",
+  "basis": "verified",
+  "raw": "י-מ-נ"
+ },
+ "נאדרי": {
+  "root": "נ-ד-ר",
+  "basis": "verified",
+  "raw": "נ-ד-ר"
+ },
+ "בכח": {
+  "root": "כ-ו-ח",
+  "basis": "weak",
+  "raw": "כ-ו-ח"
+ },
+ "תרעץ": {
+  "root": "ת-ר-ע",
+  "basis": "verified",
+  "raw": "ת-ר-ע"
+ },
+ "אויב": {
+  "root": "א-י-ב",
+  "basis": "verified",
+  "raw": "א-י-ב"
+ },
+ "וברב": {
+  "root": "ר-ב-ב",
+  "basis": "weak",
+  "raw": "ר-ב-ב"
+ },
+ "גאונך": {
+  "root": "ג-א-נ",
+  "basis": "verified",
+  "raw": "ג-א-נ"
+ },
+ "תהרס": {
+  "root": "ה-ר-ס",
+  "basis": "verified",
+  "raw": "ה-ר-ס"
+ },
+ "קמיך": {
+  "root": "ק-ו-מ",
+  "basis": "weak",
+  "raw": "ק-ו-מ"
+ },
+ "תשלח": {
+  "root": "ש-ל-ח",
+  "basis": "verified",
+  "raw": "ש-ל-ח"
+ },
+ "חרנך": {
+  "root": "ח-ר-נ",
+  "basis": "verified",
+  "raw": "ח-ר-נ"
+ },
+ "יאכלמו": {
+  "root": "א-כ-ל",
+  "basis": "verified",
+  "raw": "א-כ-ל"
+ },
+ "כקש": {
+  "root": "ק-ש-ש",
+  "basis": "weak",
+  "raw": "ק-ש-ש"
+ },
+ "וברוח": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ב-ר-כ"
+ },
+ "אפיך": {
+  "root": "א-פ-ה",
+  "basis": "weak",
+  "raw": "א-פ-ה"
+ },
+ "נערמו": {
+  "root": "ע-ר-מ",
+  "basis": "verified",
+  "raw": "ע-ר-מ"
+ },
+ "נצבו": {
+  "root": "נ-צ-ב",
+  "basis": "verified",
+  "raw": "נ-צ-ב"
+ },
+ "נד": {
+  "root": null,
+  "basis": "reject",
+  "raw": "נ-ד-ב"
+ },
+ "נזלים": {
+  "root": "נ-ז-ל",
+  "basis": "verified",
+  "raw": "נ-ז-ל"
+ },
+ "קפאו": {
+  "root": "ק-פ-א",
+  "basis": "verified",
+  "raw": "ק-פ-א"
+ },
+ "בלב": {
+  "root": "ב-ל-ב",
+  "basis": "verified",
+  "raw": "ב-ל-ב"
+ },
+ "ים": {
+  "root": "י-מ-מ",
+  "basis": "weak",
+  "raw": "י-מ-מ"
+ },
+ "אמר": {
+  "root": "א-מ-ר",
+  "basis": "verified",
+  "raw": "א-מ-ר"
+ },
+ "ארדף": {
+  "root": "ר-ד-פ",
+  "basis": "verified",
+  "raw": "ר-ד-פ"
+ },
+ "אשיג": {
+  "root": "א-ש-ג",
+  "basis": "verified",
+  "raw": "א-ש-ג"
+ },
+ "אחלק": {
+  "root": "ח-ל-ק",
+  "basis": "verified",
+  "raw": "ח-ל-ק"
+ },
+ "שלל": {
+  "root": "ש-ל-ל",
+  "basis": "verified",
+  "raw": "ש-ל-ל"
+ },
+ "תמלאמו": {
+  "root": "מ-ל-א",
+  "basis": "verified",
+  "raw": "מ-ל-א"
+ },
+ "אריק": {
+  "root": null,
+  "basis": "reject",
+  "raw": "א-ר-כ"
+ },
+ "חרבי": {
+  "root": "ח-ר-ב",
+  "basis": "verified",
+  "raw": "ח-ר-ב"
+ },
+ "תורישמו": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ר-ש"
+ },
+ "ידי": {
+  "root": "י-ד-י",
+  "basis": "verified",
+  "raw": "י-ד-י"
+ },
+ "נשפת": {
+  "root": "נ-ש-פ",
+  "basis": "verified",
+  "raw": "נ-ש-פ"
+ },
+ "ברוחך": {
+  "root": "ר-ו-ח",
+  "basis": "verified",
+  "raw": "ר-ו-ח"
+ },
+ "כסמו": {
+  "root": "כ-ס-מ",
+  "basis": "verified",
+  "raw": "כ-ס-מ"
+ },
+ "צללו": {
+  "root": "צ-ל-ל",
+  "basis": "verified",
+  "raw": "צ-ל-ל"
+ },
+ "כעופרת": {
+  "root": "ע-ו-פ",
+  "basis": "verified",
+  "raw": "ע-ו-פ"
+ },
+ "במים": {
+  "root": "מ-י-מ",
+  "basis": "verified",
+  "raw": "מ-י-מ"
+ },
+ "אדירים": {
+  "root": "א-ד-ר",
+  "basis": "verified",
+  "raw": "א-ד-ר"
+ },
+ "כמכה": {
+  "root": "כ-מ-כ",
+  "basis": "verified",
+  "raw": "כ-מ-כ"
+ },
+ "באלם": {
+  "root": "א-ל-מ",
+  "basis": "verified",
+  "raw": "א-ל-מ"
+ },
+ "נאדר": {
+  "root": "נ-ד-ר",
+  "basis": "verified",
+  "raw": "נ-ד-ר"
+ },
+ "בקדש": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "נורא": {
+  "root": "נ-ו-ר",
+  "basis": "verified",
+  "raw": "נ-ו-ר"
+ },
+ "פלא": {
+  "root": "פ-ל-א",
+  "basis": "verified",
+  "raw": "פ-ל-א"
+ },
+ "נטית": {
+  "root": "נ-ט-ה",
+  "basis": "weak",
+  "raw": "נ-ט-ה"
+ },
+ "תבלעמו": {
+  "root": "ב-ל-ע",
+  "basis": "verified",
+  "raw": "ב-ל-ע"
+ },
+ "נחית": {
+  "root": "נ-ח-ת",
+  "basis": "verified",
+  "raw": "נ-ח-ת"
+ },
+ "זו": {
+  "root": "ז-ו-ה",
+  "basis": "weak",
+  "raw": "ז-ו-ה"
+ },
+ "גאלת": {
+  "root": "ג-א-ל",
+  "basis": "verified",
+  "raw": "ג-א-ל"
+ },
+ "נהלת": {
+  "root": "נ-ה-ל",
+  "basis": "verified",
+  "raw": "נ-ה-ל"
+ },
+ "נוה": {
+  "root": "נ-ה-ה",
+  "basis": "weak",
+  "raw": "נ-ה-ה"
+ },
+ "קדשך": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "עמים": {
+  "root": "ע-מ-מ",
+  "basis": "verified",
+  "raw": "ע-מ-מ"
+ },
+ "ירגזון": {
+  "root": "ר-ג-ז",
+  "basis": "verified",
+  "raw": "ר-ג-ז"
+ },
+ "חיל": {
+  "root": "ח-י-ל",
+  "basis": "verified",
+  "raw": "ח-י-ל"
+ },
+ "אחז": {
+  "root": "א-ח-ז",
+  "basis": "verified",
+  "raw": "א-ח-ז"
+ },
+ "ישבי": {
+  "root": "י-ש-ב",
+  "basis": "verified",
+  "raw": "י-ש-ב"
+ },
+ "פלשת": {
+  "root": "פ-ל-ש",
+  "basis": "verified",
+  "raw": "פ-ל-ש"
+ },
+ "נבהלו": {
+  "root": "נ-ב-ה",
+  "basis": "verified",
+  "raw": "נ-ב-ה"
+ },
+ "אלופי": {
+  "root": "א-ל-פ",
+  "basis": "verified",
+  "raw": "א-ל-פ"
+ },
+ "אדום": {
+  "root": "א-ד-מ",
+  "basis": "verified",
+  "raw": "א-ד-מ"
+ },
+ "אילי": {
+  "root": "א-י-ל",
+  "basis": "verified",
+  "raw": "א-י-ל"
+ },
+ "מואב": {
+  "root": null,
+  "basis": "reject",
+  "raw": "נ-ס-כ"
+ },
+ "יאחזמו": {
+  "root": "א-ח-ז",
+  "basis": "verified",
+  "raw": "א-ח-ז"
+ },
+ "רעד": {
+  "root": "ר-ע-ד",
+  "basis": "verified",
+  "raw": "ר-ע-ד"
+ },
+ "נמגו": {
+  "root": "נ-מ-ג",
+  "basis": "verified",
+  "raw": "נ-מ-ג"
+ },
+ "כנען": {
+  "root": "כ-נ-נ",
+  "basis": "verified",
+  "raw": "כ-נ-נ"
+ },
+ "תפל": {
+  "root": "פ-ל-ל",
+  "basis": "weak",
+  "raw": "פ-ל-ל"
+ },
+ "אימתה": {
+  "root": "א-י-מ",
+  "basis": "verified",
+  "raw": "א-י-מ"
+ },
+ "ופחד": {
+  "root": "פ-ח-ד",
+  "basis": "verified",
+  "raw": "פ-ח-ד"
+ },
+ "בגדל": {
+  "root": "ב-ג-ד",
+  "basis": "verified",
+  "raw": "ב-ג-ד"
+ },
+ "זרועך": {
+  "root": "ז-ר-ע",
+  "basis": "verified",
+  "raw": "ז-ר-ע"
+ },
+ "ידמו": {
+  "root": "ד-מ-מ",
+  "basis": "weak",
+  "raw": "ד-מ-מ"
+ },
+ "כאבן": {
+  "root": "כ-א-ב",
+  "basis": "verified",
+  "raw": "כ-א-ב"
+ },
+ "יעבר": {
+  "root": "ע-ב-ר",
+  "basis": "verified",
+  "raw": "ע-ב-ר"
+ },
+ "קנית": {
+  "root": "ק-נ-ה",
+  "basis": "weak",
+  "raw": "ק-נ-ה"
+ },
+ "תבאמו": {
+  "root": "ב-א-ו",
+  "basis": "verified",
+  "raw": "ב-א-ו"
+ },
+ "ותטעמו": {
+  "root": "ט-ע-מ",
+  "basis": "verified",
+  "raw": "ט-ע-מ"
+ },
+ "בהר": {
+  "root": "ב-ו-ר",
+  "basis": "weak",
+  "raw": "ב-ו-ר"
+ },
+ "נחלתך": {
+  "root": "נ-ח-ל",
+  "basis": "verified",
+  "raw": "נ-ח-ל"
+ },
+ "מכון": {
+  "root": "כ-ו-נ",
+  "basis": "verified",
+  "raw": "כ-ו-נ"
+ },
+ "לשבתך": {
+  "root": "ש-ב-ת",
+  "basis": "verified",
+  "raw": "ש-ב-ת"
+ },
+ "פעלת": {
+  "root": "פ-ע-ל",
+  "basis": "verified",
+  "raw": "פ-ע-ל"
+ },
+ "מקדש": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "כוננו": {
+  "root": "כ-ו-נ",
+  "basis": "verified",
+  "raw": "כ-ו-נ"
+ },
+ "ידיך": {
+  "root": "י-ד-י",
+  "basis": "verified",
+  "raw": "י-ד-י"
+ },
+ "לעלם": {
+  "root": "ע-ל-מ",
+  "basis": "verified",
+  "raw": "ע-ל-מ"
+ },
+ "בא": {
+  "root": "ב-א",
+  "basis": "verified",
+  "raw": "ב-א"
+ },
+ "ברכבו": {
+  "root": "ב-ר-כ",
+  "basis": "verified",
+  "raw": "ב-ר-כ"
+ },
+ "ובפרשיו": {
+  "root": "פ-ר-ש",
+  "basis": "verified",
+  "raw": "פ-ר-ש"
+ },
+ "וישב": {
+  "root": "י-ש-ב",
+  "basis": "verified",
+  "raw": "י-ש-ב"
+ },
+ "עלהם": {
+  "root": "ע-ל-ה",
+  "basis": "verified",
+  "raw": "ע-ל-ה"
+ },
+ "הלכו": {
+  "root": "ה-ל-כ",
+  "basis": "verified",
+  "raw": "ה-ל-כ"
+ },
+ "ביבשה": {
+  "root": "י-ב-ש",
+  "basis": "verified",
+  "raw": "י-ב-ש"
+ },
+ "בתוך": {
+  "root": "ב-ת-כ",
+  "basis": "verified",
+  "raw": "ב-ת-כ"
+ },
+ "ויושע": {
+  "root": "ו-י-ש-ע",
+  "basis": "verified",
+  "raw": "ו-י-ש-ע"
+ },
+ "מיד": {
+  "root": "מ-י-ד",
+  "basis": "verified",
+  "raw": "מ-י-ד"
+ },
+ "וירא": {
+  "root": "ר-א-ה",
+  "basis": "weak",
+  "raw": "ר-א-ה"
+ },
+ "מת": {
+  "root": "מ-ת-ת",
+  "basis": "weak",
+  "raw": "מ-ת-ת"
+ },
+ "שפת": {
+  "root": "ש-פ-ת",
+  "basis": "verified",
+  "raw": "ש-פ-ת"
+ },
+ "היד": {
+  "root": "י-ד-ה",
+  "basis": "weak",
+  "raw": "י-ד-ה"
+ },
+ "וייראו": {
+  "root": "י-ר-א",
+  "basis": "verified",
+  "raw": "י-ר-א"
+ },
+ "ויאמינו": {
+  "root": "א-מ-נ",
+  "basis": "verified",
+  "raw": "א-מ-נ"
+ },
+ "ביהוה": {
+  "root": "ב-ו-ה",
+  "basis": "verified",
+  "raw": "ב-ו-ה"
+ },
+ "דויד": {
+  "root": "ד-ו-ד",
+  "basis": "verified",
+  "raw": "ד-ו-ד"
+ },
+ "הקהל": {
+  "root": "ק-ה-ל",
+  "basis": "verified",
+  "raw": "ק-ה-ל"
+ },
+ "אבינו": {
+  "root": "אָ-ב-ה",
+  "basis": "weak",
+  "raw": "אָ-ב-ה"
+ },
+ "והגבורה": {
+  "root": "ג-ב-ר",
+  "basis": "verified",
+  "raw": "ג-ב-ר"
+ },
+ "והתפארת": {
+  "root": "פ-א-ר",
+  "basis": "verified",
+  "raw": "פ-א-ר"
+ },
+ "והנצח": {
+  "root": "נ-צ-ח",
+  "basis": "verified",
+  "raw": "נ-צ-ח"
+ },
+ "וההוד": {
+  "root": "ה-ו-ד",
+  "basis": "verified",
+  "raw": "ה-ו-ד"
+ },
+ "הממלכה": {
+  "root": "מ-ל-כ",
+  "basis": "verified",
+  "raw": "מ-ל-כ"
+ },
+ "והמתנשא": {
+  "root": "נ-ש-א",
+  "basis": "verified",
+  "raw": "נ-ש-א"
+ },
+ "לראש": {
+  "root": "ר-א-ש",
+  "basis": "verified",
+  "raw": "ר-א-ש"
+ },
+ "והעשר": {
+  "root": "ו-ע-ש-ר",
+  "basis": "verified",
+  "raw": "ו-ע-ש-ר"
+ },
+ "מושל": {
+  "root": "מ-ש-ל",
+  "basis": "verified",
+  "raw": "מ-ש-ל"
+ },
+ "וגבורה": {
+  "root": "ג-ב-ר",
+  "basis": "verified",
+  "raw": "ג-ב-ר"
+ },
+ "לגדל": {
+  "root": "ג-ד-ל",
+  "basis": "verified",
+  "raw": "ג-ד-ל"
+ },
+ "ולחזק": {
+  "root": "ח-ז-ק",
+  "basis": "verified",
+  "raw": "ח-ז-ק"
+ },
+ "ועתה": {
+  "root": "ו-ת-ה",
+  "basis": "verified",
+  "raw": "ו-ת-ה"
+ },
+ "מודים": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ד-ה"
+ },
+ "לשם": {
+  "root": "ל-ש-מ",
+  "basis": "verified",
+  "raw": "ל-ש-מ"
+ },
+ "תפארתך": {
+  "root": "פ-א-ר",
+  "basis": "verified",
+  "raw": "פ-א-ר"
+ },
+ "קראו": {
+  "root": "ק-ר-א",
+  "basis": "verified",
+  "raw": "ק-ר-א"
+ },
+ "בשמו": {
+  "root": "ש-מ-ה",
+  "basis": "weak",
+  "raw": "ש-מ-ה"
+ },
+ "הודיעו": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ד-ע"
+ },
+ "בעמים": {
+  "root": "ב-ע-מ",
+  "basis": "verified",
+  "raw": "ב-ע-מ"
+ },
+ "עלילתיו": {
+  "root": "ע-ל-ל",
+  "basis": "verified",
+  "raw": "ע-ל-ל"
+ },
+ "שיחו": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ש-ו-ח"
+ },
+ "נפלאתיו": {
+  "root": "פ-ל-א",
+  "basis": "verified",
+  "raw": "פ-ל-א"
+ },
+ "התהללו": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "בשם": {
+  "root": "ב-ש-מ",
+  "basis": "verified",
+  "raw": "ב-ש-מ"
+ },
+ "מבקשי": {
+  "root": "ב-ק-ש",
+  "basis": "verified",
+  "raw": "ב-ק-ש"
+ },
+ "דרשו": {
+  "root": "ד-ר-ש",
+  "basis": "verified",
+  "raw": "ד-ר-ש"
+ },
+ "בקשו": {
+  "root": "ב-ק-ש",
+  "basis": "verified",
+  "raw": "ב-ק-ש"
+ },
+ "תמיד": {
+  "root": "ת-מ-י-ד",
+  "basis": "verified",
+  "raw": "ת-מ-י-ד"
+ },
+ "מפתיו": {
+  "root": "פ-ת-ה",
+  "basis": "weak",
+  "raw": "פ-ת-ה"
+ },
+ "ומשפטי": {
+  "root": "ו-ש-פ-ט",
+  "basis": "verified",
+  "raw": "ו-ש-פ-ט"
+ },
+ "פיהו": {
+  "root": "פ-י-ה",
+  "basis": "verified",
+  "raw": "פ-י-ה"
+ },
+ "זרע": {
+  "root": "ז-ר-ע",
+  "basis": "verified",
+  "raw": "ז-ר-ע"
+ },
+ "בחיריו": {
+  "root": "ב-ח-ר",
+  "basis": "verified",
+  "raw": "ב-ח-ר"
+ },
+ "משפטיו": {
+  "root": "ש-פ-ט",
+  "basis": "verified",
+  "raw": "ש-פ-ט"
+ },
+ "בריתו": {
+  "root": "ב-ר-ת",
+  "basis": "verified",
+  "raw": "ב-ר-ת"
+ },
+ "לאלף": {
+  "root": "א-ל-פ",
+  "basis": "verified",
+  "raw": "א-ל-פ"
+ },
+ "כרת": {
+  "root": "כ-ר-ת",
+  "basis": "verified",
+  "raw": "כ-ר-ת"
+ },
+ "אברהם": {
+  "root": "א-ב-ר",
+  "basis": "verified",
+  "raw": "א-ב-ר"
+ },
+ "ושבועתו": {
+  "root": "ש-ב-ע",
+  "basis": "verified",
+  "raw": "ש-ב-ע"
+ },
+ "ליצחק": {
+  "root": "י-צ-ח",
+  "basis": "verified",
+  "raw": "י-צ-ח"
+ },
+ "ויעמידה": {
+  "root": "ע-מ-ד",
+  "basis": "verified",
+  "raw": "ע-מ-ד"
+ },
+ "לחק": {
+  "root": "ח-ק-ק",
+  "basis": "weak",
+  "raw": "ח-ק-ק"
+ },
+ "ברית": {
+  "root": "ב-ר-ת",
+  "basis": "verified",
+  "raw": "ב-ר-ת"
+ },
+ "אתן": {
+  "root": "א-ת-נ",
+  "basis": "verified",
+  "raw": "א-ת-נ"
+ },
+ "חבל": {
+  "root": "ח-ב-ל",
+  "basis": "verified",
+  "raw": "ח-ב-ל"
+ },
+ "נחלתכם": {
+  "root": "נ-ח-ל",
+  "basis": "verified",
+  "raw": "נ-ח-ל"
+ },
+ "בהיותכם": {
+  "root": "ה-י-ה",
+  "basis": "weak",
+  "raw": "ה-י-ה"
+ },
+ "מתי": {
+  "root": "מ-ת-נ",
+  "basis": "weak",
+  "raw": "מ-ת-נ"
+ },
+ "כמעט": {
+  "root": null,
+  "basis": "reject",
+  "raw": "כ-ס-ה"
+ },
+ "וגרים": {
+  "root": "ג-ו-ר",
+  "basis": "weak",
+  "raw": "ג-ו-ר"
+ },
+ "בה": {
+  "root": "ב-ה",
+  "basis": "verified",
+  "raw": "ב-ה"
+ },
+ "ויתהלכו": {
+  "root": "ה-ל-כ",
+  "basis": "verified",
+  "raw": "ה-ל-כ"
+ },
+ "ומממלכה": {
+  "root": "מ-ל-כ",
+  "basis": "verified",
+  "raw": "מ-ל-כ"
+ },
+ "אחר": {
+  "root": "אַחַר",
+  "basis": "verified",
+  "raw": "אַחַר"
+ },
+ "הניח": {
+  "root": "נ-ח",
+  "basis": "verified",
+  "raw": "נ-ח"
+ },
+ "לעשקם": {
+  "root": "ע-ש-ק",
+  "basis": "verified",
+  "raw": "ע-ש-ק"
+ },
+ "ויוכח": {
+  "root": "י-כ-ח",
+  "basis": "verified",
+  "raw": "י-כ-ח"
+ },
+ "תגעו": {
+  "root": "נ-ג-ע",
+  "basis": "weak",
+  "raw": "נ-ג-ע"
+ },
+ "במשיחי": {
+  "root": "מ-ש-ח",
+  "basis": "verified",
+  "raw": "מ-ש-ח"
+ },
+ "ובנביאי": {
+  "root": "נ-ב-א",
+  "basis": "verified",
+  "raw": "נ-ב-א"
+ },
+ "תרעו": {
+  "root": "ת-ר-ע",
+  "basis": "verified",
+  "raw": "ת-ר-ע"
+ },
+ "ישועתו": {
+  "root": "י-ש-ע",
+  "basis": "verified",
+  "raw": "י-ש-ע"
+ },
+ "ספרו": {
+  "root": "ס-פ-ר",
+  "basis": "verified",
+  "raw": "ס-פ-ר"
+ },
+ "ונורא": {
+  "root": "נ-ו-ר",
+  "basis": "verified",
+  "raw": "נ-ו-ר"
+ },
+ "אלילים": {
+  "root": "א-ל-ל",
+  "basis": "verified",
+  "raw": "א-ל-ל"
+ },
+ "ויהוה": {
+  "root": "י-ה-ו-ה",
+  "basis": "verified",
+  "raw": "י-ה-ו-ה"
+ },
+ "הוד": {
+  "root": "ה-ו-ד",
+  "basis": "verified",
+  "raw": "ה-ו-ד"
+ },
+ "וחדוה": {
+  "root": "ח-ד-ו",
+  "basis": "verified",
+  "raw": "ח-ד-ו"
+ },
+ "במקמו": {
+  "root": "מ-ק-ו-מ",
+  "basis": "weak",
+  "raw": "מ-ק-ו-מ"
+ },
+ "הבו": {
+  "root": "ה-ב-ו",
+  "basis": "verified",
+  "raw": "ה-ב-ו"
+ },
+ "משפחות": {
+  "root": null,
+  "basis": "reject",
+  "raw": "פ-ש-פ"
+ },
+ "ועז": {
+  "root": "ע-ו-ז",
+  "basis": "weak",
+  "raw": "ע-ו-ז"
+ },
+ "שאו": {
+  "root": "ש-א-ו",
+  "basis": "verified",
+  "raw": "ש-א-ו"
+ },
+ "מנחה": {
+  "root": "מ-נ-ח",
+  "basis": "verified",
+  "raw": "מ-נ-ח"
+ },
+ "ובאו": {
+  "root": "ב-א-ו",
+  "basis": "verified",
+  "raw": "ב-א-ו"
+ },
+ "השתחוו": {
+  "root": "ש-ת-ח",
+  "basis": "verified",
+  "raw": "ש-ת-ח"
+ },
+ "קדש": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "חילו": {
+  "root": "ח-י-ל",
+  "basis": "verified",
+  "raw": "ח-י-ל"
+ },
+ "תכון": {
+  "root": "כ-ו-נ",
+  "basis": "verified",
+  "raw": "כ-ו-נ"
+ },
+ "תמוט": {
+  "root": "מ-ו-ט",
+  "basis": "verified",
+  "raw": "מ-ו-ט"
+ },
+ "ישמחו": {
+  "root": "ש-מ-ח",
+  "basis": "verified",
+  "raw": "ש-מ-ח"
+ },
+ "ותגל": {
+  "root": "ו-ג-ל",
+  "basis": "verified",
+  "raw": "ו-ג-ל"
+ },
+ "ירעם": {
+  "root": "ר-ע-מ",
+  "basis": "verified",
+  "raw": "ר-ע-מ"
+ },
+ "ומלואו": {
+  "root": "מ-ל-א",
+  "basis": "verified",
+  "raw": "מ-ל-א"
+ },
+ "יעלץ": {
+  "root": "ע-ו-צ",
+  "basis": "weak",
+  "raw": "ע-ו-צ"
+ },
+ "השדה": {
+  "root": "ש-ד-ה",
+  "basis": "verified",
+  "raw": "ש-ד-ה"
+ },
+ "עצי": {
+  "root": "ע-צ-ה",
+  "basis": "weak",
+  "raw": "ע-צ-ה"
+ },
+ "היער": {
+  "root": "י-ע-ר",
+  "basis": "verified",
+  "raw": "י-ע-ר"
+ },
+ "לשפוט": {
+  "root": "ש-פ-ט",
+  "basis": "verified",
+  "raw": "ש-פ-ט"
+ },
+ "ואמרו": {
+  "root": "א-מ-ר",
+  "basis": "verified",
+  "raw": "א-מ-ר"
+ },
+ "הושיענו": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ש-ע"
+ },
+ "ישענו": {
+  "root": "י-ש-ע",
+  "basis": "verified",
+  "raw": "י-ש-ע"
+ },
+ "וקבצנו": {
+  "root": "ק-ב-צ",
+  "basis": "verified",
+  "raw": "ק-ב-צ"
+ },
+ "והצילנו": {
+  "root": "צ-ל-ל",
+  "basis": "weak",
+  "raw": "צ-ל-ל"
+ },
+ "להדות": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ה-ו-ד"
+ },
+ "להשתבח": {
+  "root": "ש-ת-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ת-ב-ח"
+ },
+ "העלם": {
+  "root": "ע-ל-מ",
+  "basis": "verified",
+  "raw": "ע-ל-מ"
+ },
+ "אמן": {
+  "root": "א-מ-נ",
+  "basis": "verified",
+  "raw": "א-מ-נ"
+ },
+ "והלל": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "לבדך": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ח-ד"
+ },
+ "עשית": {
+  "root": "ע-ש-ה",
+  "basis": "weak",
+  "raw": "ע-ש-ה"
+ },
+ "צבאם": {
+  "root": "צ-ב-א",
+  "basis": "verified",
+  "raw": "צ-ב-א"
+ },
+ "עליה": {
+  "root": "ע-ל-ה",
+  "basis": "verified",
+  "raw": "ע-ל-ה"
+ },
+ "הימים": {
+  "root": "י-ו-מ",
+  "basis": "weak",
+  "raw": "י-ו-מ"
+ },
+ "מחיה": {
+  "root": "ח-י-ה",
+  "basis": "verified",
+  "raw": "ח-י-ה"
+ },
+ "וצבא": {
+  "root": "צ-ב-א",
+  "basis": "verified",
+  "raw": "צ-ב-א"
+ },
+ "באברם": {
+  "root": "א-ב-ר",
+  "basis": "verified",
+  "raw": "א-ב-ר"
+ },
+ "והוצאתו": {
+  "root": "י-צ-א",
+  "basis": "weak",
+  "raw": "י-צ-א"
+ },
+ "מאור": {
+  "root": "א-ו-ר",
+  "basis": "verified",
+  "raw": "א-ו-ר"
+ },
+ "ושמת": {
+  "root": "ש-ו-מ",
+  "basis": "weak",
+  "raw": "ש-ו-מ"
+ },
+ "ומצאת": {
+  "root": "מ-צ-א",
+  "basis": "verified",
+  "raw": "מ-צ-א"
+ },
+ "לבבו": {
+  "root": "ל-ב-ב",
+  "basis": "verified",
+  "raw": "ל-ב-ב"
+ },
+ "נאמן": {
+  "root": "נ-מ-נ",
+  "basis": "verified",
+  "raw": "נ-מ-נ"
+ },
+ "הברית": {
+  "root": "ב-ר-ת",
+  "basis": "verified",
+  "raw": "ב-ר-ת"
+ },
+ "הכנעני": {
+  "root": null,
+  "basis": "reject",
+  "raw": "כ-נ-ס"
+ },
+ "החתי": {
+  "root": "ח-ת-ת",
+  "basis": "weak",
+  "raw": "ח-ת-ת"
+ },
+ "האמרי": {
+  "root": "א-מ-ר",
+  "basis": "verified",
+  "raw": "א-מ-ר"
+ },
+ "והפרזי": {
+  "root": "פ-ר-ז",
+  "basis": "verified",
+  "raw": "פ-ר-ז"
+ },
+ "והיבוסי": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ב-ש"
+ },
+ "והגרגשי": {
+  "root": "ג-ר-ג-ש",
+  "basis": "verified",
+  "raw": "ג-ר-ג-ש"
+ },
+ "לזרעו": {
+  "root": "ז-ר-ע",
+  "basis": "verified",
+  "raw": "ז-ר-ע"
+ },
+ "ותקם": {
+  "root": "ק-ו-מ",
+  "basis": "weak",
+  "raw": "ק-ו-מ"
+ },
+ "ותרא": {
+  "root": "ר-א-ה",
+  "basis": "weak",
+  "raw": "ר-א-ה"
+ },
+ "עני": {
+  "root": "ע-נ-י",
+  "basis": "verified",
+  "raw": "ע-נ-י"
+ },
+ "אבתינו": {
+  "root": "אָב-ת-נ",
+  "basis": "verified",
+  "raw": "אָב-ת-נ"
+ },
+ "זעקתם": {
+  "root": "ז-ק-ק",
+  "basis": "weak",
+  "raw": "ז-ק-ק"
+ },
+ "אתת": {
+  "root": "א-ת-ת",
+  "basis": "verified",
+  "raw": "א-ת-ת"
+ },
+ "ומפתים": {
+  "root": "פ-ת-ה",
+  "basis": "weak",
+  "raw": "פ-ת-ה"
+ },
+ "בפרעה": {
+  "root": "פ-ר-ע",
+  "basis": "verified",
+  "raw": "פ-ר-ע"
+ },
+ "ארצו": {
+  "root": "א-ר-צ",
+  "basis": "verified",
+  "raw": "א-ר-צ"
+ },
+ "ידעת": {
+  "root": "י-ד-ע",
+  "basis": "verified",
+  "raw": "י-ד-ע"
+ },
+ "הזידו": {
+  "root": "ז-ד-ה",
+  "basis": "weak",
+  "raw": "ז-ד-ה"
+ },
+ "ותעש": {
+  "root": "ו-ע-ש",
+  "basis": "verified",
+  "raw": "ו-ע-ש"
+ },
+ "והים": {
+  "root": "ו-ה-י",
+  "basis": "verified",
+  "raw": "ו-ה-י"
+ },
+ "בקעת": {
+  "root": "ב-ק-ע",
+  "basis": "verified",
+  "raw": "ב-ק-ע"
+ },
+ "ויעברו": {
+  "root": "ע-ב-ר",
+  "basis": "verified",
+  "raw": "ע-ב-ר"
+ },
+ "רדפיהם": {
+  "root": "ר-ד-פ",
+  "basis": "verified",
+  "raw": "ר-ד-פ"
+ },
+ "השלכת": {
+  "root": "ש-ל-כ",
+  "basis": "verified",
+  "raw": "ש-ל-כ"
+ },
+ "עזים": {
+  "root": "ע-ז-ז",
+  "basis": "weak",
+  "raw": "ע-ז-ז"
+ },
+ "ואמן": {
+  "root": "א-מ-נ",
+  "basis": "verified",
+  "raw": "א-מ-נ"
+ },
+ "שאמר": {
+  "root": "ש-א-מ-ר",
+  "basis": "verified",
+  "raw": "ש-א-מ-ר"
+ },
+ "עושה": {
+  "root": "ע-ש-ה",
+  "basis": "verified",
+  "raw": "ע-ש-ה"
+ },
+ "אומר": {
+  "root": "אָמ-ר",
+  "basis": "verified",
+  "raw": "אָמ-ר"
+ },
+ "ועושה": {
+  "root": "ע-ש-ה",
+  "basis": "verified",
+  "raw": "ע-ש-ה"
+ },
+ "גוזר": {
+  "root": "ג-ז-ר",
+  "basis": "verified",
+  "raw": "ג-ז-ר"
+ },
+ "ומקים": {
+  "root": "ק-ו-מ",
+  "basis": "weak",
+  "raw": "ק-ו-מ"
+ },
+ "מרחם": {
+  "root": "ר-ח-מ",
+  "basis": "verified",
+  "raw": "ר-ח-מ"
+ },
+ "הבריות": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ב-ר-א"
+ },
+ "משלם": {
+  "root": "ש-ל-מ",
+  "basis": "verified",
+  "raw": "ש-ל-מ"
+ },
+ "שכר": {
+  "root": "ש-כ-ר",
+  "basis": "verified",
+  "raw": "ש-כ-ר"
+ },
+ "וקים": {
+  "root": "ק-ו-מ",
+  "basis": "weak",
+  "raw": "ק-ו-מ"
+ },
+ "לנצח": {
+  "root": "נ-צ-ח",
+  "basis": "verified",
+  "raw": "נ-צ-ח"
+ },
+ "פודה": {
+  "root": "פ-ד-ה",
+  "basis": "verified",
+  "raw": "פ-ד-ה"
+ },
+ "ומציל": {
+  "root": "מ-צ-ל",
+  "basis": "verified",
+  "raw": "מ-צ-ל"
+ },
+ "האל": {
+  "root": "א-ל-ה",
+  "basis": "weak",
+  "raw": "א-ל-ה"
+ },
+ "האב": {
+  "root": "א-ב-ב",
+  "basis": "weak",
+  "raw": "א-ב-ב"
+ },
+ "הרחמן": {
+  "root": "ר-ח-מ",
+  "basis": "verified",
+  "raw": "ר-ח-מ"
+ },
+ "המהלל": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "בפי": {
+  "root": "ב-פ-ה",
+  "basis": "weak",
+  "raw": "ב-פ-ה"
+ },
+ "משבח": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "ומפאר": {
+  "root": "פ-א-ר",
+  "basis": "verified",
+  "raw": "פ-א-ר"
+ },
+ "ובשירי": {
+  "root": "ב-ש-ר",
+  "basis": "verified",
+  "raw": "ב-ש-ר"
+ },
+ "דוד": {
+  "root": "ד-ו-ד",
+  "basis": "verified",
+  "raw": "ד-ו-ד"
+ },
+ "נהללך": {
+  "root": "ה-ל-כ",
+  "basis": "verified",
+  "raw": "ה-ל-כ"
+ },
+ "בשבחות": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "ובזמירות": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "נגדלך": {
+  "root": "ג-ד-ל",
+  "basis": "verified",
+  "raw": "ג-ד-ל"
+ },
+ "ונשבחך": {
+  "root": "ו-נ-ש-ב-ח",
+  "basis": "verified",
+  "raw": "ו-נ-ש-ב-ח"
+ },
+ "ונפארך": {
+  "root": "ו-נ-פ-א",
+  "basis": "verified",
+  "raw": "ו-נ-פ-א"
+ },
+ "ונזכיר": {
+  "root": "ז-כ-ר",
+  "basis": "verified",
+  "raw": "ז-כ-ר"
+ },
+ "ונמליכך": {
+  "root": "מ-ל-כ",
+  "basis": "verified",
+  "raw": "מ-ל-כ"
+ },
+ "יחיד": {
+  "root": "י-ח-ד",
+  "basis": "verified",
+  "raw": "י-ח-ד"
+ },
+ "מהלל": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "בתשבחות": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "ישתבח": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "נאה": {
+  "root": "נ-א-ה",
+  "basis": "verified",
+  "raw": "נ-א-ה"
+ },
+ "ושבחה": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "הלל": {
+  "root": "ה-ל-ל",
+  "basis": "verified",
+  "raw": "ה-ל-ל"
+ },
+ "וזמרה": {
+  "root": "ז-מ-ר",
+  "basis": "verified",
+  "raw": "ז-מ-ר"
+ },
+ "וממשלה": {
+  "root": "מ-ש-ל",
+  "basis": "verified",
+  "raw": "מ-ש-ל"
+ },
+ "נצח": {
+  "root": "נ-צ-ח",
+  "basis": "verified",
+  "raw": "נ-צ-ח"
+ },
+ "ותפארת": {
+  "root": "ו-פ-א-ר",
+  "basis": "verified",
+  "raw": "ו-פ-א-ר"
+ },
+ "קדשה": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "ברכות": {
+  "root": "ב-ר-כ",
+  "basis": "verified",
+  "raw": "ב-ר-כ"
+ },
+ "והודאות": {
+  "root": "ו-ד-י",
+  "basis": "weak",
+  "raw": "ו-ד-י"
+ },
+ "ההודאות": {
+  "root": "ה-ו-ד",
+  "basis": "verified",
+  "raw": "ה-ו-ד"
+ },
+ "הנפלאות": {
+  "root": "פ-ל-א",
+  "basis": "verified",
+  "raw": "פ-ל-א"
+ },
+ "הבוחר": {
+  "root": "ב-ח-ר",
+  "basis": "verified",
+  "raw": "ב-ח-ר"
+ },
+ "בשירי": {
+  "root": "ש-י-ר",
+  "basis": "verified",
+  "raw": "ש-י-ר"
+ },
+ "יהי": {
+  "root": "ה-י-ה",
+  "basis": "weak",
+  "raw": "ה-י-ה"
+ },
+ "ממזרח": {
+  "root": "מ-ז-ר",
+  "basis": "verified",
+  "raw": "מ-ז-ר"
+ },
+ "מבואו": {
+  "root": "ב-א-ו",
+  "basis": "verified",
+  "raw": "ב-א-ו"
+ },
+ "רם": {
+  "root": "ר-ו-מ",
+  "basis": "weak",
+  "raw": "ר-ו-מ"
+ },
+ "הכין": {
+  "root": "ה-כ-נ",
+  "basis": "verified",
+  "raw": "ה-כ-נ"
+ },
+ "משלה": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ש-ל-ט"
+ },
+ "מארצו": {
+  "root": "א-ר-צ",
+  "basis": "verified",
+  "raw": "א-ר-צ"
+ },
+ "הפיר": {
+  "root": "פ-ו-ר",
+  "basis": "weak",
+  "raw": "פ-ו-ר"
+ },
+ "עצת": {
+  "root": "ע-צ-ת",
+  "basis": "verified",
+  "raw": "ע-צ-ת"
+ },
+ "הניא": {
+  "root": "ה-נ-י",
+  "basis": "verified",
+  "raw": "ה-נ-י"
+ },
+ "מחשבות": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ש-ו-ב"
+ },
+ "רבות": {
+  "root": "ר-ב-ה",
+  "basis": "weak",
+  "raw": "ר-ב-ה"
+ },
+ "ועצת": {
+  "root": "ע-צ-ת",
+  "basis": "verified",
+  "raw": "ע-צ-ת"
+ },
+ "תקום": {
+  "root": "ק-ו-מ",
+  "basis": "verified",
+  "raw": "ק-ו-מ"
+ },
+ "תעמד": {
+  "root": "ע-מ-ד",
+  "basis": "verified",
+  "raw": "ע-מ-ד"
+ },
+ "לבו": {
+  "root": "ל-ב-ב",
+  "basis": "weak",
+  "raw": "ל-ב-ב"
+ },
+ "ויעמד": {
+  "root": "ע-מ-ד",
+  "basis": "verified",
+  "raw": "ע-מ-ד"
+ },
+ "בציון": {
+  "root": "צ-ו-י",
+  "basis": "weak",
+  "raw": "צ-ו-י"
+ },
+ "אוה": {
+  "root": null,
+  "basis": "reject",
+  "raw": "א-ה-ב"
+ },
+ "למושב": {
+  "root": "י-ש-ב",
+  "basis": "weak",
+  "raw": "י-ש-ב"
+ },
+ "לסגלתו": {
+  "root": "ס-ג-ל",
+  "basis": "verified",
+  "raw": "ס-ג-ל"
+ },
+ "יטש": {
+  "root": "נ-ט-ש",
+  "basis": "weak",
+  "raw": "נ-ט-ש"
+ },
+ "ונחלתו": {
+  "root": "נ-ח-ל",
+  "basis": "verified",
+  "raw": "נ-ח-ל"
+ },
+ "יעזב": {
+  "root": "ע-ז-ב",
+  "basis": "verified",
+  "raw": "ע-ז-ב"
+ },
+ "רחום": {
+  "root": "ר-ח-מ",
+  "basis": "verified",
+  "raw": "ר-ח-מ"
+ },
+ "יכפר": {
+  "root": "כ-פ-ר",
+  "basis": "verified",
+  "raw": "כ-פ-ר"
+ },
+ "עון": {
+  "root": "ע-ו-נ",
+  "basis": "verified",
+  "raw": "ע-ו-נ"
+ },
+ "ישחית": {
+  "root": "ש-ח-ת",
+  "basis": "verified",
+  "raw": "ש-ח-ת"
+ },
+ "והרבה": {
+  "root": "ו-ר-ב",
+  "basis": "verified",
+  "raw": "ו-ר-ב"
+ },
+ "להשיב": {
+  "root": "ש-ו-ב",
+  "basis": "weak",
+  "raw": "ש-ו-ב"
+ },
+ "אפו": {
+  "root": "א-פ-ה",
+  "basis": "weak",
+  "raw": "א-פ-ה"
+ },
+ "יעיר": {
+  "root": "ע-ו-ר",
+  "basis": "weak",
+  "raw": "ע-ו-ר"
+ },
+ "חמתו": {
+  "root": "ח-מ-ת",
+  "basis": "verified",
+  "raw": "ח-מ-ת"
+ },
+ "הושיעה": {
+  "root": null,
+  "basis": "reject",
+  "raw": "י-ש-ע"
+ },
+ "יעננו": {
+  "root": "ע-נ-נ",
+  "basis": "verified",
+  "raw": "ע-נ-נ"
+ },
+ "קראנו": {
+  "root": "ק-ר-א",
+  "basis": "verified",
+  "raw": "ק-ר-א"
+ },
+ "מציון": {
+  "root": "צ-י-ו",
+  "basis": "verified",
+  "raw": "צ-י-ו"
+ },
+ "שכן": {
+  "root": "ש-כ-נ",
+  "basis": "verified",
+  "raw": "ש-כ-נ"
+ },
+ "ירושלם": {
+  "root": "י-ר-ש",
+  "basis": "verified",
+  "raw": "י-ר-ש"
+ },
+ "נפלאות": {
+  "root": "פ-ל-א",
+  "basis": "verified",
+  "raw": "פ-ל-א"
+ },
+ "וימלא": {
+  "root": "מ-ל-א",
+  "basis": "verified",
+  "raw": "מ-ל-א"
+ },
+ "אבל": {
+  "root": null,
+  "basis": "reject",
+  "raw": "אַ-ב-ר"
+ },
+ "יתגדל": {
+  "root": "ג-ד-ל",
+  "basis": "verified",
+  "raw": "ג-ד-ל"
+ },
+ "ויתקדש": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "שמה": {
+  "root": "ש-ו-מ",
+  "basis": "weak",
+  "raw": "ש-ו-מ"
+ },
+ "רבא": {
+  "root": "ר-ב-ב",
+  "basis": "weak",
+  "raw": "ר-ב-ב"
+ },
+ "קהל": {
+  "root": "ק-ה-ל",
+  "basis": "verified",
+  "raw": "ק-ה-ל"
+ },
+ "בעלמא": {
+  "root": "ב-ל-מ",
+  "basis": "verified",
+  "raw": "ב-ל-מ"
+ },
+ "די": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ד-ו-א"
+ },
+ "ברא": {
+  "root": "ב-ר-א",
+  "basis": "verified",
+  "raw": "ב-ר-א"
+ },
+ "כרעותה": {
+  "root": "כ-ר-ע",
+  "basis": "verified",
+  "raw": "כ-ר-ע"
+ },
+ "וימליך": {
+  "root": "מ-ל-כ",
+  "basis": "verified",
+  "raw": "מ-ל-כ"
+ },
+ "בחייכון": {
+  "root": "ח-י-ה",
+  "basis": "weak",
+  "raw": "ח-י-ה"
+ },
+ "וביומיכון": {
+  "root": "י-ו-מ",
+  "basis": "verified",
+  "raw": "י-ו-מ"
+ },
+ "ובחיי": {
+  "root": "ב-ח-י",
+  "basis": "verified",
+  "raw": "ב-ח-י"
+ },
+ "דכל": {
+  "root": "ד-כ-ל",
+  "basis": "verified",
+  "raw": "ד-כ-ל"
+ },
+ "בעגלא": {
+  "root": "ע-ג-ל",
+  "basis": "verified",
+  "raw": "ע-ג-ל"
+ },
+ "קריב": {
+  "root": "ק-ר-ב",
+  "basis": "verified",
+  "raw": "ק-ר-ב"
+ },
+ "ואבל": {
+  "root": "ו-א-ב",
+  "basis": "verified",
+  "raw": "ו-א-ב"
+ },
+ "יהא": {
+  "root": null,
+  "basis": "reject",
+  "raw": "ה-י-ה"
+ },
+ "ולעלמי": {
+  "root": "ע-ל-מ",
+  "basis": "verified",
+  "raw": "ע-ל-מ"
+ },
+ "עלמיא": {
+  "root": "ע-ל-מ",
+  "basis": "verified",
+  "raw": "ע-ל-מ"
+ },
+ "יתברך": {
+  "root": "ב-ר-כ",
+  "basis": "verified",
+  "raw": "ב-ר-כ"
+ },
+ "וישתבח": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "ויתפאר": {
+  "root": "פ-א-ר",
+  "basis": "verified",
+  "raw": "פ-א-ר"
+ },
+ "ויתרומם": {
+  "root": "רו-מ-מ",
+  "basis": "verified",
+  "raw": "רו-מ-מ"
+ },
+ "ויתנשא": {
+  "root": "נ-ש-א",
+  "basis": "verified",
+  "raw": "נ-ש-א"
+ },
+ "ויתהדר": {
+  "root": "ה-ד-ר",
+  "basis": "verified",
+  "raw": "ה-ד-ר"
+ },
+ "ויתעלה": {
+  "root": "ע-ל-ה",
+  "basis": "verified",
+  "raw": "ע-ל-ה"
+ },
+ "ויתהלל": {
+  "root": "ו-ת-ה-ל-ל",
+  "basis": "verified",
+  "raw": "ו-ת-ה-ל-ל"
+ },
+ "דקדשא": {
+  "root": "ק-ד-ש",
+  "basis": "verified",
+  "raw": "ק-ד-ש"
+ },
+ "בריך": {
+  "root": "ב-ר-כ",
+  "basis": "verified",
+  "raw": "ב-ר-כ"
+ },
+ "לעלא": {
+  "root": "ע-ל-ה",
+  "basis": "weak",
+  "raw": "ע-ל-ה"
+ },
+ "ברכתא": {
+  "root": "ב-ר-כ",
+  "basis": "verified",
+  "raw": "ב-ר-כ"
+ },
+ "בעשי”ת": {
+  "root": "ב-ע-ש",
+  "basis": "verified",
+  "raw": "ב-ע-ש"
+ },
+ "ושירתא": {
+  "root": "ש-י-ר",
+  "basis": "verified",
+  "raw": "ש-י-ר"
+ },
+ "תשבחתא": {
+  "root": "ש-ב-ח",
+  "basis": "verified",
+  "raw": "ש-ב-ח"
+ },
+ "ונחמתא": {
+  "root": "נ-ח-מ",
+  "basis": "verified",
+  "raw": "נ-ח-מ"
+ },
+ "דאמירן": {
+  "root": "א-מ-ר",
+  "basis": "verified",
+  "raw": "א-מ-ר"
+ },
+ "שלמא": {
+  "root": "ש-ל-מ",
+  "basis": "verified",
+  "raw": "ש-ל-מ"
+ },
+ "שמיא": {
+  "root": "ש-מ-י",
+  "basis": "verified",
+  "raw": "ש-מ-י"
+ },
+ "וחיים": {
+  "root": "ח-י-ה",
+  "basis": "weak",
+  "raw": "ח-י-ה"
+ },
+ "במרומיו": {
+  "root": "ר-ו-מ",
+  "basis": "verified",
+  "raw": "ר-ו-מ"
+ }
+}
