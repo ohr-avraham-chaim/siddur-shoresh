@@ -1,0 +1,19 @@
+# Siddur Shoresh
+> Root-linked interlinear siddur. Every word of the daily tefillos carries its Hebrew
+> root (shoresh); every root lists every prayer it appears in.
+
+32 prayers, 2,821 words, 574 Hebrew roots.
+Live: https://siddur-shoresh.vercel.app
+
+## Data
+- data.json — prayers[], roots[], stats. Word records: {hebrew, translation, verse, shoresh}.
+- scripts/ — per-tefillah builders; data.json is reproducible from them.
+- docs/SHORESH_SYSTEM.md — the root model.
+
+## Provenance
+Hebrew: liturgical text. Glosses and root analysis: original to this project.
+No third-party published translation is redistributed.
+Hebrew is authoritative; the English is a learning aid, not halacha.
+
+## Licence
+Code MIT. Torah content CC-BY-NC-SA 4.0.

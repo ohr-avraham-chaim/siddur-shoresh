@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Siddur Shoresh - Interactive Prayer Learning</title>
+  <style>
+    :root {
+      --accent: #0A84FF;
+      --accent-gradient: linear-gradient(135deg, #0A84FF 0%, #5856D6 100%);
+      --bg: #FAFAFA;
+      --card: #FFFFFF;
+      --text: #1D1D1F;
+      --text-secondary: #86868B;
+      --border: rgba(0,0,0,0.06);
+      --shadow: 0 2px 8px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.06);
+      --shadow-lg: 0 8px 32px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04);
+      --radius: 16px;
+      --radius-sm: 10px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100dvh;
+      padding: 20px;
+      padding-bottom: 100px;
+    }
+
+    /* Header */
+    .header {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+    .header h1 {
+      font-size: 28px;
+      font-weight: 700;
+      background: var(--accent-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .header .subtitle {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+    .stats-row {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-top: 12px;
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+    .stat { text-align: center; }
+    .stat-num {
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    /* Prayer Selector */
+    .prayer-selector {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 16px;
+      margin-bottom: 20px;
+    }
+    .prayer-selector label {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      display: block;
+      margin-bottom: 8px;
+    }
+    .prayer-selector select {
+      width: 100%;
+      padding: 12px 16px;
+      font-size: 16px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--bg);
+      color: var(--text);
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%2386868B' d='M6 8L2 4h8z'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: left 16px center;
+    }
+
+    /* Prayer Content */
+    .prayer-card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 24px;
+      margin-bottom: 20px;
+    }
+    .prayer-title {
+      font-size: 22px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .prayer-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-bottom: 20px;
+    }
+    .prayer-text {
+      font-size: 22px;
+      line-height: 2.2;
+      direction: rtl;
+      text-align: right;
+    }
+    .word {
+      display: inline;
+      cursor: pointer;
+      padding: 4px 2px;
+      border-radius: 6px;
+      transition: all 0.15s ease;
+    }
+    .word:hover {
+      background: rgba(10, 132, 255, 0.1);
+    }
+    .word.selected {
+      background: var(--accent);
+      color: white;
+      padding: 4px 8px;
+    }
+    .word.learned {
+      color: #34C759;
+    }
+    .verse-break {
+      display: block;
+      height: 16px;
+    }
+
+    /* Word Detail Panel */
+    .word-panel {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--card);
+      border-radius: 24px 24px 0 0;
+      box-shadow: 0 -4px 32px rgba(0,0,0,0.12);
+      padding: 24px;
+      padding-bottom: max(24px, env(safe-area-inset-bottom));
+      transform: translateY(100%);
+      transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+      z-index: 100;
+      max-height: 70vh;
+      overflow-y: auto;
+    }
+    .word-panel.visible {
+      transform: translateY(0);
+    }
+    .panel-handle {
+      width: 36px;
+      height: 5px;
+      background: var(--border);
+      border-radius: 3px;
+      margin: 0 auto 16px;
+    }
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 16px;
+    }
+    .panel-word {
+      font-size: 36px;
+      font-weight: 700;
+    }
+    .panel-close {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: var(--bg);
+      border: none;
+      font-size: 18px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .panel-translation {
+      font-size: 18px;
+      color: var(--text-secondary);
+      margin-bottom: 20px;
+    }
+    .root-box {
+      background: var(--bg);
+      border-radius: var(--radius-sm);
+      padding: 16px;
+      margin-bottom: 16px;
+    }
+    .root-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .root-letters {
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--accent);
+      direction: rtl;
+    }
+    .root-meaning {
+      font-size: 16px;
+      color: var(--text);
+    }
+    .root-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+    .appears-in {
+      margin-top: 16px;
+    }
+    .appears-in h4 {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    .appears-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .appears-chip {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .appears-chip:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .learn-btn {
+      width: 100%;
+      padding: 14px;
+      background: var(--accent-gradient);
+      color: white;
+      border: none;
+      border-radius: var(--radius-sm);
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      margin-top: 16px;
+      transition: opacity 0.15s ease;
+    }
+    .learn-btn:hover {
+      opacity: 0.9;
+    }
+    .learn-btn.learned {
+      background: #34C759;
+    }
+
+    /* FAB Bar */
+    .fab-bar {
+      position: fixed;
+      bottom: 28px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(255,255,255,0.9);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      padding: 8px;
+      border-radius: 100px;
+      box-shadow: var(--shadow-lg);
+      display: flex;
+      gap: 8px;
+      z-index: 50;
+    }
+    .fab-btn {
+      padding: 12px 20px;
+      border-radius: 100px;
+      border: none;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .fab-btn.primary {
+      background: var(--accent-gradient);
+      color: white;
+    }
+    .fab-btn.secondary {
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    /* Roots Modal */
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      backdrop-filter: blur(4px);
+      z-index: 200;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.25s ease;
+    }
+    .modal.visible {
+      opacity: 1;
+      visibility: visible;
+    }
+    .modal-content {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: var(--card);
+      border-radius: 24px 24px 0 0;
+      max-height: 85vh;
+      display: flex;
+      flex-direction: column;
+      transform: translateY(100%);
+      transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+    }
+    .modal.visible .modal-content {
+      transform: translateY(0);
+    }
+    .modal-header {
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .modal-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+    .modal-search {
+      width: 100%;
+      padding: 12px 16px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      font-size: 16px;
+      background: var(--bg);
+    }
+    .modal-body {
+      flex: 1;
+      overflow-y: auto;
+      padding: 16px 24px;
+      padding-bottom: max(24px, env(safe-area-inset-bottom));
+    }
+    .root-item {
+      display: flex;
+      align-items: center;
+      padding: 14px 0;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+    }
+    .root-item:last-child {
+      border-bottom: none;
+    }
+    .root-item-letters {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--accent);
+      width: 80px;
+      direction: rtl;
+    }
+    .root-item-info {
+      flex: 1;
+    }
+    .root-item-meaning {
+      font-size: 15px;
+      color: var(--text);
+    }
+    .root-item-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    /* Dedication */
+    .dedication {
+      text-align: center;
+      padding: 24px;
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+    .dedication .hebrew {
+      font-size: 15px;
+      margin-bottom: 4px;
+    }
+
+    /* Loading */
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-secondary);
+    }
+
+    @media (min-width: 768px) {
+      body { padding: 40px; max-width: 800px; margin: 0 auto; }
+      .prayer-text { font-size: 26px; }
+      .word-panel { max-width: 500px; left: 50%; right: auto; transform: translateX(-50%) translateY(100%); border-radius: 24px 24px 0 0; }
+      .word-panel.visible { transform: translateX(-50%) translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>סידור שורש</h1>
+    <p class="subtitle">Interactive Prayer Learning</p>
+    <div class="stats-row">
+      <div class="stat"><div class="stat-num" id="statPrayers">-</div>Prayers</div>
+      <div class="stat"><div class="stat-num" id="statWords">-</div>Words</div>
+      <div class="stat"><div class="stat-num" id="statRoots">-</div>Roots</div>
+    </div>
+  </header>
+
+  <div class="prayer-selector">
+    <label>Select Prayer</label>
+    <select id="prayerSelect" onchange="loadPrayer(this.value)">
+      <option value="">Loading prayers...</option>
+    </select>
+  </div>
+
+  <div id="prayerCard" class="prayer-card" style="display:none;">
+    <div class="prayer-title" id="prayerTitle"></div>
+    <div class="prayer-meta" id="prayerMeta"></div>
+    <div class="prayer-text" id="prayerText"></div>
+  </div>
+
+  <div class="loading" id="loading">Loading prayer data...</div>
+
+  <div class="dedication">
+    <div class="hebrew">לעילוי נשמת אברהם חיים בן דוד</div>
+    <div>In loving memory of Avraham Chaim ben David</div>
+  </div>
+
+  <!-- Word Detail Panel -->
+  <div class="word-panel" id="wordPanel">
+    <div class="panel-handle"></div>
+    <div class="panel-header">
+      <div>
+        <div class="panel-word" id="panelWord"></div>
+        <div class="panel-translation" id="panelTranslation"></div>
+      </div>
+      <button class="panel-close" onclick="closePanel()">&times;</button>
+    </div>
+    <div class="root-box">
+      <div class="root-header">
+        <div class="root-letters" id="panelRoot"></div>
+        <div>
+          <div class="root-meaning" id="panelMeaning"></div>
+          <div class="root-meta" id="panelMeta"></div>
+        </div>
+      </div>
+    </div>
+    <div class="appears-in" id="appearsIn">
+      <h4>Also appears in</h4>
+      <div class="appears-list" id="appearsList"></div>
+    </div>
+    <button class="learn-btn" id="learnBtn" onclick="toggleLearned()">Mark as Learned</button>
+  </div>
+
+  <!-- Roots Modal -->
+  <div class="modal" id="rootsModal" onclick="closeModal(event)">
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div class="modal-title">All Roots (574)</div>
+        <input type="text" class="modal-search" placeholder="Search roots..." oninput="filterRoots(this.value)">
+      </div>
+      <div class="modal-body" id="rootsList"></div>
+    </div>
+  </div>
+
+  <!-- FAB Bar -->
+  <div class="fab-bar" id="fabBar">
+    <button class="fab-btn secondary" onclick="openRootsModal()">שורשים</button>
+    <button class="fab-btn primary" onclick="showProgress()">
+      <span id="progressCount">0</span> Learned
+    </button>
+  </div>
+
+  <script>
+    let DATA = null;
+    let currentPrayer = null;
+    let currentWord = null;
+    let learned = JSON.parse(localStorage.getItem('siddur-learned') || '{}');
+
+    async function init() {
+      try {
+        const res = await fetch('data.json');
+        DATA = await res.json();
+
+        document.getElementById('statPrayers').textContent = DATA.stats.total_prayers;
+        document.getElementById('statWords').textContent = DATA.stats.total_words.toLocaleString();
+        document.getElementById('statRoots').textContent = DATA.stats.total_roots;
+
+        const select = document.getElementById('prayerSelect');
+        select.innerHTML = DATA.prayers.map(p =>
+          `<option value="${p.id}">${p.name.hebrew || ''} - ${p.name.english || p.id}</option>`
+        ).join('');
+
+        document.getElementById('loading').style.display = 'none';
+
+        // Load first prayer
+        loadPrayer(DATA.prayers[0].id);
+
+        updateProgressCount();
+        renderRootsList(DATA.roots);
+      } catch (err) {
+        document.getElementById('loading').textContent = 'Error loading data: ' + err.message;
+      }
+    }
+
+    function loadPrayer(id) {
+      const prayer = DATA.prayers.find(p => p.id === id);
+      if (!prayer) return;
+
+      currentPrayer = prayer;
+
+      document.getElementById('prayerCard').style.display = 'block';
+      document.getElementById('prayerTitle').textContent = `${prayer.name.hebrew || ''} ${prayer.name.english || ''}`;
+      document.getElementById('prayerMeta').textContent = `${prayer.word_count} words`;
+
+      let html = '';
+      let lastVerse = 0;
+
+      prayer.words.forEach(w => {
+        if (w.verse !== lastVerse && lastVerse !== 0) {
+          html += '<span class="verse-break"></span>';
+        }
+        lastVerse = w.verse;
+
+        const isLearned = learned[w.shoresh?.root];
+        html += `<span class="word ${isLearned ? 'learned' : ''}" data-id="${w.id}" onclick="selectWord('${w.id}')">${w.hebrew} </span>`;
+      });
+
+      document.getElementById('prayerText').innerHTML = html;
+      closePanel();
+    }
+
+    function selectWord(id) {
+      const word = currentPrayer.words.find(w => w.id === id);
+      if (!word) return;
+
+      currentWord = word;
+
+      // Update selection
+      document.querySelectorAll('.word.selected').forEach(el => el.classList.remove('selected'));
+      document.querySelector(`.word[data-id="${id}"]`)?.classList.add('selected');
+
+      // Update panel
+      document.getElementById('panelWord').textContent = word.hebrew;
+      document.getElementById('panelTranslation').textContent = word.translation || 'No translation';
+
+      const shoresh = word.shoresh || {};
+      document.getElementById('panelRoot').textContent = shoresh.root || 'N/A';
+      document.getElementById('panelMeaning').textContent = shoresh.meaning || '';
+      document.getElementById('panelMeta').textContent = shoresh.category ? `${shoresh.word_type || ''} • ${shoresh.category}` : (shoresh.word_type || '');
+
+      // Find other prayers with this root
+      const rootData = DATA.roots.find(r => r.root === shoresh.root);
+      const appearsList = document.getElementById('appearsList');
+      const appearsIn = document.getElementById('appearsIn');
+
+      if (rootData && rootData.prayers.length > 1) {
+        appearsIn.style.display = 'block';
+        appearsList.innerHTML = rootData.prayers
+          .filter(p => p !== currentPrayer.name.english)
+          .slice(0, 5)
+          .map(p => `<span class="appears-chip" onclick="jumpToPrayer('${p}')">${p}</span>`)
+          .join('');
+      } else {
+        appearsIn.style.display = 'none';
+      }
+
+      // Update learn button
+      const btn = document.getElementById('learnBtn');
+      if (learned[shoresh.root]) {
+        btn.textContent = '✓ Learned';
+        btn.classList.add('learned');
+      } else {
+        btn.textContent = 'Mark as Learned';
+        btn.classList.remove('learned');
+      }
+
+      document.getElementById('wordPanel').classList.add('visible');
+    }
+
+    function closePanel() {
+      document.getElementById('wordPanel').classList.remove('visible');
+      document.querySelectorAll('.word.selected').forEach(el => el.classList.remove('selected'));
+      currentWord = null;
+    }
+
+    function toggleLearned() {
+      if (!currentWord?.shoresh?.root) return;
+
+      const root = currentWord.shoresh.root;
+      if (learned[root]) {
+        delete learned[root];
+      } else {
+        learned[root] = true;
+      }
+
+      localStorage.setItem('siddur-learned', JSON.stringify(learned));
+      updateProgressCount();
+
+      // Update button
+      const btn = document.getElementById('learnBtn');
+      if (learned[root]) {
+        btn.textContent = '✓ Learned';
+        btn.classList.add('learned');
+      } else {
+        btn.textContent = 'Mark as Learned';
+        btn.classList.remove('learned');
+      }
+
+      // Update word styling
+      document.querySelectorAll('.word').forEach(el => {
+        const w = currentPrayer.words.find(w => w.id === el.dataset.id);
+        if (w?.shoresh?.root === root) {
+          el.classList.toggle('learned', learned[root]);
+        }
+      });
+    }
+
+    function updateProgressCount() {
+      const count = Object.keys(learned).length;
+      document.getElementById('progressCount').textContent = count;
+    }
+
+    function jumpToPrayer(name) {
+      const prayer = DATA.prayers.find(p => p.name.english === name);
+      if (prayer) {
+        document.getElementById('prayerSelect').value = prayer.id;
+        loadPrayer(prayer.id);
+        closePanel();
+      }
+    }
+
+    function openRootsModal() {
+      document.getElementById('rootsModal').classList.add('visible');
+    }
+
+    function closeModal(e) {
+      if (e.target.classList.contains('modal')) {
+        document.getElementById('rootsModal').classList.remove('visible');
+      }
+    }
+
+    function renderRootsList(roots) {
+      const html = roots.map(r => `
+        <div class="root-item" onclick="searchRoot('${r.root}')">
+          <div class="root-item-letters">${r.root}</div>
+          <div class="root-item-info">
+            <div class="root-item-meaning">${r.meaning || ''}</div>
+            <div class="root-item-count">${r.count}x across ${r.prayers.length} prayers</div>
+          </div>
+        </div>
+      `).join('');
+      document.getElementById('rootsList').innerHTML = html;
+    }
+
+    function filterRoots(query) {
+      const q = query.toLowerCase();
+      const filtered = DATA.roots.filter(r =>
+        r.root.includes(query) ||
+        (r.meaning && r.meaning.toLowerCase().includes(q))
+      );
+      renderRootsList(filtered);
+    }
+
+    function searchRoot(root) {
+      document.getElementById('rootsModal').classList.remove('visible');
+
+      // Find first prayer with this root
+      const rootData = DATA.roots.find(r => r.root === root);
+      if (rootData && rootData.prayers.length > 0) {
+        const prayerName = rootData.prayers[0];
+        const prayer = DATA.prayers.find(p => p.name.english === prayerName);
+        if (prayer) {
+          document.getElementById('prayerSelect').value = prayer.id;
+          loadPrayer(prayer.id);
+
+          // Find and select first word with this root
+          setTimeout(() => {
+            const word = currentPrayer.words.find(w => w.shoresh?.root === root);
+            if (word) {
+              selectWord(word.id);
+              document.querySelector(`.word[data-id="${word.id}"]`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+          }, 100);
+        }
+      }
+    }
+
+    function showProgress() {
+      const count = Object.keys(learned).length;
+      const total = DATA.stats.total_roots;
+      const pct = Math.round((count / total) * 100);
+      alert(`You've learned ${count} of ${total} roots (${pct}%)\n\nTop 50 roots = ~60% understanding\nTop 100 roots = ~80% understanding`);
+    }
+
+    // Swipe down to close panel
+    let touchStartY = 0;
+    document.getElementById('wordPanel').addEventListener('touchstart', e => {
+      touchStartY = e.touches[0].clientY;
+    });
+    document.getElementById('wordPanel').addEventListener('touchmove', e => {
+      const deltaY = e.touches[0].clientY - touchStartY;
+      if (deltaY > 50) closePanel();
+    });
+
+    init();
+  </script>
+</body>
+</html>
