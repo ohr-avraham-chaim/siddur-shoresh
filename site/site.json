@@ -73,57 +73,57 @@
   "psalm_30": {
    "en": "Psalm 30",
    "he": "מִזְמוֹר שִׁיר חֲנֻכַּת הַבַּיִת",
-   "words": 87
+   "words": 95
   },
   "psalm_100": {
    "en": "Psalm 100 — Mizmor LeTodah",
    "he": "מִזְמוֹר לְתוֹדָה",
-   "words": 37
+   "words": 39
   },
   "psalm_146": {
    "en": "Psalm 146",
    "he": "הַלְלוּיָהּ",
-   "words": 74
+   "words": 81
   },
   "psalm_147": {
    "en": "Psalm 147",
    "he": "הַלְלוּיָהּ",
-   "words": 124
+   "words": 132
   },
   "psalm_148": {
    "en": "Psalm 148",
    "he": "הַלְלוּיָהּ",
-   "words": 87
+   "words": 96
   },
   "psalm_149": {
    "en": "Psalm 149",
    "he": "הַלְלוּיָהּ",
-   "words": 56
+   "words": 61
   },
   "psalm_150": {
    "en": "Psalm 150",
    "he": "הַלְלוּיָהּ",
-   "words": 33
+   "words": 36
   },
   "shirat_hayam": {
    "en": "Shirat HaYam — Az Yashir",
    "he": "אָז יָשִׁיר",
-   "words": 157
+   "words": 185
   },
   "vayoshia": {
    "en": "VaYosha",
    "he": "וַיּוֹשַׁע",
-   "words": 28
+   "words": 29
   },
   "vayevarech_david": {
    "en": "VaYevarech David",
    "he": "וַיְבָרֶךְ דָּוִיד",
-   "words": 51
+   "words": 53
   },
   "hodu": {
    "en": "Hodu LaHashem",
    "he": "הוֹדוּ לַיהוה",
-   "words": 175
+   "words": 201
   },
   "ata_hu_hashem": {
    "en": "Atah Hu Hashem",
@@ -133,7 +133,7 @@
   "baruch_hashem_leolam": {
    "en": "Baruch Hashem L'Olam",
    "he": "בָּרוּךְ יהוה לְעוֹלָם",
-   "words": 4
+   "words": 6
   },
   "baruch_sheamar": {
    "en": "Baruch She'amar",
@@ -158,21 +158,21 @@
   "kaddish": {
    "en": "Kaddish Yatom",
    "he": "קַדִּישׁ יָתוֹם",
-   "words": 98
+   "words": 104
   }
  },
  "roots": {
+  "א-ל-ה": {
+   "meaning": "God, deity",
+   "count": 67,
+   "rank": 1,
+   "slug": "a-l-h"
+  },
   "א-ת-ת": {
    "meaning": "you (masculine singular)",
    "count": 66,
-   "rank": 1,
-   "slug": "a-th-th"
-  },
-  "א-ל-ה": {
-   "meaning": "God, deity",
-   "count": 65,
    "rank": 2,
-   "slug": "a-l-h"
+   "slug": "a-th-th"
   },
   "ב-ר-כ": {
    "meaning": "blessing, knee",
@@ -188,13 +188,13 @@
   },
   "מ-ל-כ": {
    "meaning": "kingship, ruling",
-   "count": 56,
+   "count": 58,
    "rank": 5,
    "slug": "m-l-k"
   },
   "כ-ל-ל": {
    "meaning": "all, every",
-   "count": 54,
+   "count": 56,
    "rank": 6,
    "slug": "k-l-l"
   },
@@ -212,7 +212,7 @@
   },
   "י-ש-ר": {
    "meaning": "straight, Israel",
-   "count": 25,
+   "count": 26,
    "rank": 9,
    "slug": "y-sh-r"
   },
@@ -224,79 +224,79 @@
   },
   "א-ל": {
    "meaning": "to, toward",
-   "count": 22,
+   "count": 23,
    "rank": 11,
    "slug": "a-l"
   },
   "א-ש-ר": {
    "meaning": "who, which, that",
-   "count": 21,
+   "count": 22,
    "rank": 12,
    "slug": "a-sh-r"
+  },
+  "ה-ל-ל": {
+   "meaning": "praise, glory",
+   "count": 22,
+   "rank": 13,
+   "slug": "h-l-l"
   },
   "נ-ת-נ": {
    "meaning": "give",
    "count": 21,
-   "rank": 13,
+   "rank": 14,
    "slug": "n-th-n"
+  },
+  "א-ר-ץ": {
+   "meaning": "earth, land",
+   "count": 21,
+   "rank": 15,
+   "slug": "a-r-tz"
   },
   "ש-מ-מ": {
    "meaning": "name",
    "count": 21,
-   "rank": 14,
+   "rank": 16,
    "slug": "sh-m-m"
   },
   "ע-ש-ה": {
    "meaning": "do, make",
    "count": 20,
-   "rank": 15,
+   "rank": 17,
    "slug": "o-sh-h"
-  },
-  "א-ר-ץ": {
-   "meaning": "earth, land",
-   "count": 20,
-   "rank": 16,
-   "slug": "a-r-tz"
   },
   "ה-ו-א": {
    "meaning": "he, that",
    "count": 20,
-   "rank": 17,
+   "rank": 18,
    "slug": "h-v-a"
   },
   "ד-ב-ר": {
    "meaning": "word, speak",
-   "count": 18,
-   "rank": 18,
+   "count": 19,
+   "rank": 19,
    "slug": "d-b-r"
+  },
+  "ל-א": {
+   "meaning": "not",
+   "count": 18,
+   "rank": 20,
+   "slug": "l-a"
   },
   "כ-י": {
    "meaning": "that, because",
    "count": 18,
-   "rank": 19,
+   "rank": 21,
    "slug": "k-y"
   },
   "כ-ב-ד": {
    "meaning": "weight, glory, honor",
    "count": 17,
-   "rank": 20,
-   "slug": "k-b-d"
-  },
-  "ל-א": {
-   "meaning": "not",
-   "count": 17,
-   "rank": 21,
-   "slug": "l-a"
-  },
-  "ה-ל-ל": {
-   "meaning": "praise, glory",
-   "count": 17,
    "rank": 22,
-   "slug": "h-l-l"
+   "slug": "k-b-d"
   },
   "א-מ-ר": {
    "meaning": "say, speak",
-   "count": 15,
+   "count": 16,
    "rank": 23,
    "slug": "a-m-r"
   },
@@ -320,27 +320,27 @@
   },
   "פ-נ-נ": {
    "meaning": "face, before",
-   "count": 11,
+   "count": 12,
    "rank": 27,
    "slug": "p-n-n"
   },
-  "ע-מ-מ": {
-   "meaning": "nation, people",
-   "count": 11,
-   "rank": 28,
-   "slug": "o-m-m"
-  },
   "ח-ס-ד": {
    "meaning": "kindness, loyalty",
-   "count": 11,
-   "rank": 29,
+   "count": 12,
+   "rank": 28,
    "slug": "ch-s-d"
   },
   "ע-ד-ד": {
    "meaning": "perpetuity, eternity",
+   "count": 12,
+   "rank": 29,
+   "slug": "o-d-d"
+  },
+  "ע-מ-מ": {
+   "meaning": "nation, people",
    "count": 11,
    "rank": 30,
-   "slug": "o-d-d"
+   "slug": "o-m-m"
   },
   "צ-ו-ה": {
    "meaning": "command",
@@ -372,335 +372,335 @@
    "rank": 35,
    "slug": "d-v-r"
   },
+  "ש-מ-י": {
+   "meaning": "heavens, sky",
+   "count": 10,
+   "rank": 36,
+   "slug": "sh-m-y"
+  },
+  "ק-ד-ש": {
+   "meaning": "holy, sanctify",
+   "count": 9,
+   "rank": 37,
+   "slug": "q-d-sh"
+  },
+  "ע-ב-ד": {
+   "meaning": "slave, servant",
+   "count": 9,
+   "rank": 38,
+   "slug": "o-b-d"
+  },
   "ע-י-נ": {
    "meaning": "eye",
    "count": 9,
-   "rank": 36,
+   "rank": 39,
    "slug": "o-y-n"
   },
   "ט-ו-ב": {
    "meaning": "good",
    "count": 9,
-   "rank": 37,
+   "rank": 40,
    "slug": "t-v-b"
   },
-  "ש-מ-י": {
-   "meaning": "heavens, sky",
+  "ב-נ-י": {
+   "meaning": "building, son",
    "count": 9,
-   "rank": 38,
-   "slug": "sh-m-y"
-  },
-  "ק-ד-ש": {
-   "meaning": "holy, sanctify",
-   "count": 8,
-   "rank": 39,
-   "slug": "q-d-sh"
+   "rank": 41,
+   "slug": "b-n-y"
   },
   "א-ד-מ": {
    "meaning": "human, man, earth",
    "count": 8,
-   "rank": 40,
+   "rank": 42,
    "slug": "a-d-m"
   },
   "ב-ב-ב": {
    "meaning": "in, with",
    "count": 8,
-   "rank": 41,
+   "rank": 43,
    "slug": "b-b-b"
   },
   "ג-ו-י": {
    "meaning": "nation, gentile",
    "count": 8,
-   "rank": 42,
+   "rank": 44,
    "slug": "g-v-y"
   },
   "ש-ו-מ": {
    "meaning": "place, put, grant",
    "count": 8,
-   "rank": 43,
+   "rank": 45,
    "slug": "sh-v-m"
+  },
+  "י-ה-ה": {
+   "meaning": "God, Yah",
+   "count": 8,
+   "rank": 46,
+   "slug": "y-h-h"
   },
   "פ-נ-ה": {
    "meaning": "face, turning",
    "count": 8,
-   "rank": 44,
+   "rank": 47,
    "slug": "p-n-h"
   },
   "ב-י-נ": {
    "meaning": "between, understanding",
    "count": 7,
-   "rank": 45,
+   "rank": 48,
    "slug": "b-y-n"
-  },
-  "ע-ב-ד": {
-   "meaning": "slave, servant",
-   "count": 7,
-   "rank": 46,
-   "slug": "o-b-d"
   },
   "ז-כ-ר": {
    "meaning": "remembering, memorial",
    "count": 7,
-   "rank": 47,
+   "rank": 49,
    "slug": "z-k-r"
-  },
-  "ב-נ-י": {
-   "meaning": "building, son",
-   "count": 7,
-   "rank": 48,
-   "slug": "b-n-y"
   },
   "ל-ב-ב": {
    "meaning": "heart, inner self",
    "count": 7,
-   "rank": 49,
+   "rank": 50,
    "slug": "l-b-b"
   },
   "י-צ-ר": {
    "meaning": "form, create",
    "count": 6,
-   "rank": 50,
+   "rank": 51,
    "slug": "y-tz-r"
   },
   "א-ח-ד": {
    "meaning": "one, unity",
    "count": 6,
-   "rank": 51,
+   "rank": 52,
    "slug": "a-ch-d"
   },
   "ג-ב-ר": {
    "meaning": "man, warrior",
    "count": 6,
-   "rank": 52,
+   "rank": 53,
    "slug": "g-b-r"
   },
   "ב-נ-נ": {
    "meaning": "in us",
    "count": 6,
-   "rank": 53,
+   "rank": 54,
    "slug": "b-n-n"
   },
   "ש-ל-מ": {
    "meaning": "peace, wholeness",
    "count": 6,
-   "rank": 54,
+   "rank": 55,
    "slug": "sh-l-m"
   },
   "א-י-נ": {
    "meaning": "there is not",
    "count": 6,
-   "rank": 55,
+   "rank": 56,
    "slug": "a-y-n"
+  },
+  "ע-ז-ז": {
+   "meaning": "strength, might",
+   "count": 6,
+   "rank": 57,
+   "slug": "o-z-z"
   },
   "ש-מ-ע": {
    "meaning": "hearing, listening",
    "count": 6,
-   "rank": 56,
+   "rank": 58,
    "slug": "sh-m-o"
   },
   "י-ד-ע": {
    "meaning": "know",
    "count": 5,
-   "rank": 57,
+   "rank": 59,
    "slug": "y-d-o"
   },
   "ה-מ-מ": {
    "meaning": "they, them",
    "count": 5,
-   "rank": 58,
+   "rank": 60,
    "slug": "h-m-m"
   },
   "נ-ש-מ": {
    "meaning": "soul, breath",
    "count": 5,
-   "rank": 59,
+   "rank": 61,
    "slug": "n-sh-m"
   },
   "א-נ-ח": {
    "meaning": "we, us",
    "count": 5,
-   "rank": 60,
+   "rank": 62,
    "slug": "a-n-ch"
   },
   "י-צ-א": {
    "meaning": "go out, offspring",
    "count": 5,
-   "rank": 61,
+   "rank": 63,
    "slug": "y-tz-a"
   },
   "ל-מ-ד": {
    "meaning": "learn, teach",
    "count": 5,
-   "rank": 62,
+   "rank": 64,
    "slug": "l-m-d"
+  },
+  "ב-ח-ר": {
+   "meaning": "choose, select",
+   "count": 5,
+   "rank": 65,
+   "slug": "b-ch-r"
   },
   "י-ש-ב": {
    "meaning": "sitting, dwelling",
    "count": 5,
-   "rank": 63,
+   "rank": 66,
    "slug": "y-sh-b"
   },
   "ל-ו": {
    "meaning": "for them",
    "count": 5,
-   "rank": 64,
+   "rank": 67,
    "slug": "l-v"
-  },
-  "ע-ז-ז": {
-   "meaning": "strength, might",
-   "count": 5,
-   "rank": 65,
-   "slug": "o-z-z"
   },
   "ע-ת-ת": {
    "meaning": "time, season",
    "count": 5,
-   "rank": 66,
+   "rank": 68,
    "slug": "o-th-th"
   },
   "א-מ-ת": {
    "meaning": "truth, reliability",
    "count": 5,
-   "rank": 67,
+   "rank": 69,
    "slug": "a-m-th"
   },
   "ק-ו-מ": {
    "meaning": "stand, exist",
    "count": 4,
-   "rank": 68,
+   "rank": 70,
    "slug": "q-v-m"
+  },
+  "ב-ש-ר": {
+   "meaning": "flesh, meat",
+   "count": 4,
+   "rank": 71,
+   "slug": "b-sh-r"
   },
   "ש-מ-ר": {
    "meaning": "guard, keep",
    "count": 4,
-   "rank": 69,
+   "rank": 72,
    "slug": "sh-m-r"
   },
   "ב-ו-א": {
    "meaning": "come, enter",
    "count": 4,
-   "rank": 70,
+   "rank": 73,
    "slug": "b-v-a"
   },
   "א-נ-י": {
    "meaning": "I",
    "count": 4,
-   "rank": 71,
+   "rank": 74,
    "slug": "a-n-y"
   },
   "א-ב-ב": {
    "meaning": "father",
    "count": 4,
-   "rank": 72,
+   "rank": 75,
    "slug": "a-b-b"
-  },
-  "ב-ח-ר": {
-   "meaning": "choose, select",
-   "count": 4,
-   "rank": 73,
-   "slug": "b-ch-r"
   },
   "ר-א-ה": {
    "meaning": "see, appear",
    "count": 4,
-   "rank": 74,
+   "rank": 76,
    "slug": "r-a-h"
   },
   "ג-מ-ל": {
    "meaning": "give, bestow, repay",
    "count": 4,
-   "rank": 75,
+   "rank": 77,
    "slug": "g-m-l"
   },
   "א-י-ש": {
    "meaning": "man, husband",
    "count": 4,
-   "rank": 76,
+   "rank": 78,
    "slug": "a-y-sh"
   },
   "ע-ו-ד": {
    "meaning": "more, again, still",
    "count": 4,
-   "rank": 77,
+   "rank": 79,
    "slug": "o-v-d"
   },
   "ר-ו-מ": {
    "meaning": "raising, exalting",
    "count": 4,
-   "rank": 78,
+   "rank": 80,
    "slug": "r-v-m"
   },
   "ה-ד-ר": {
    "meaning": "splendor, honor",
    "count": 4,
-   "rank": 79,
+   "rank": 81,
    "slug": "h-d-r"
   },
   "צ-ד-ק": {
    "meaning": "righteousness",
    "count": 4,
-   "rank": 80,
+   "rank": 82,
    "slug": "tz-d-q"
   },
   "ש-ב-ע": {
    "meaning": "satisfying, seven",
    "count": 4,
-   "rank": 81,
+   "rank": 83,
    "slug": "sh-b-o"
   },
   "ח-י-ה": {
    "meaning": "living, life",
    "count": 4,
-   "rank": 82,
+   "rank": 84,
    "slug": "ch-y-h"
   },
   "ק-ר-א": {
    "meaning": "calling, reading",
    "count": 4,
-   "rank": 83,
+   "rank": 85,
    "slug": "q-r-a"
   },
   "ר-ש-ע": {
    "meaning": "wickedness",
    "count": 4,
-   "rank": 84,
+   "rank": 86,
    "slug": "r-sh-o"
-  },
-  "י-ה-ה": {
-   "meaning": "God, Yah",
-   "count": 4,
-   "rank": 85,
-   "slug": "y-h-h"
   },
   "ש-ח-ה": {
    "meaning": "bow, prostrate",
    "count": 4,
-   "rank": 86,
+   "rank": 87,
    "slug": "sh-ch-h"
   },
   "מ-צ-ר": {
    "meaning": "Egypt, narrowness",
    "count": 4,
-   "rank": 87,
+   "rank": 88,
    "slug": "m-tz-r"
   },
   "כ-ת-ב": {
    "meaning": "write",
    "count": 4,
-   "rank": 88,
+   "rank": 89,
    "slug": "k-th-b"
   },
   "א-ח-ר": {
    "meaning": "after, other",
    "count": 4,
-   "rank": 89,
-   "slug": "a-ch-r"
-  },
-  "ב-ש-ר": {
-   "meaning": "flesh, meat",
-   "count": 3,
    "rank": 90,
-   "slug": "b-sh-r"
+   "slug": "a-ch-r"
   },
   "ק-ר-ב": {
    "meaning": "near, midst",
@@ -792,1013 +792,1013 @@
    "rank": 105,
    "slug": "r-ch-m"
   },
+  "מ-א-ד": {
+   "meaning": "very, exceedingly",
+   "count": 3,
+   "rank": 106,
+   "slug": "m-a-d"
+  },
   "י-ר-א": {
    "meaning": "fear, awe",
    "count": 3,
-   "rank": 106,
+   "rank": 107,
    "slug": "y-r-a"
   },
   "ר-נ-נ": {
    "meaning": "singing, rejoicing",
    "count": 3,
-   "rank": 107,
+   "rank": 108,
    "slug": "r-n-n"
   },
   "ד-ר-כ": {
    "meaning": "way, path",
    "count": 3,
-   "rank": 108,
+   "rank": 109,
    "slug": "d-r-k"
   },
   "א-ה-ב": {
    "meaning": "loving",
    "count": 3,
-   "rank": 109,
+   "rank": 110,
    "slug": "a-h-b"
   },
   "מ-ט-ר": {
    "meaning": "rain",
    "count": 3,
-   "rank": 110,
+   "rank": 111,
    "slug": "m-t-r"
   },
   "כ-ר-ת": {
    "meaning": "cutting, destroying",
    "count": 3,
-   "rank": 111,
+   "rank": 112,
    "slug": "k-r-th"
+  },
+  "מ-ע-נ": {
+   "meaning": "purpose, intent",
+   "count": 3,
+   "rank": 113,
+   "slug": "m-o-n"
   },
   "מ-נ": {
    "meaning": "from",
    "count": 3,
-   "rank": 112,
+   "rank": 114,
    "slug": "m-n"
   },
   "נ-פ-ש": {
    "meaning": "soul, life",
    "count": 3,
-   "rank": 113,
+   "rank": 115,
    "slug": "n-p-sh"
   },
   "מ-ה-ר": {
    "meaning": "haste, quickly",
    "count": 3,
-   "rank": 114,
+   "rank": 116,
    "slug": "m-h-r"
   },
   "צ-י-צ": {
    "meaning": "fringe, blossom",
    "count": 3,
-   "rank": 115,
+   "rank": 117,
    "slug": "tz-y-tz"
   },
   "ת-ו-ר": {
    "meaning": "searching, spying",
    "count": 3,
-   "rank": 116,
+   "rank": 118,
    "slug": "th-v-r"
   },
   "כ-ר-ע": {
    "meaning": "kneeling, bowing",
    "count": 3,
-   "rank": 117,
+   "rank": 119,
    "slug": "k-r-o"
   },
   "נ-ט-ל": {
    "meaning": "lift, take, wash",
    "count": 2,
-   "rank": 118,
+   "rank": 120,
    "slug": "n-t-l"
   },
   "ב-ר-א": {
    "meaning": "create (ex nihilo)",
    "count": 2,
-   "rank": 119,
+   "rank": 121,
    "slug": "b-r-a"
   },
   "נ-ק-ב": {
    "meaning": "hole, opening",
    "count": 2,
-   "rank": 120,
+   "rank": 122,
    "slug": "n-q-b"
   },
   "ח-ל-ל": {
    "meaning": "hollow, empty",
    "count": 2,
-   "rank": 121,
+   "rank": 123,
    "slug": "ch-l-l"
   },
   "כ-ס-א": {
    "meaning": "throne, seat",
    "count": 2,
-   "rank": 122,
+   "rank": 124,
    "slug": "k-s-a"
   },
   "א-מ-מ": {
    "meaning": "if, when (conditional)",
    "count": 2,
-   "rank": 123,
+   "rank": 125,
    "slug": "a-m-m"
   },
   "פ-ת-ח": {
    "meaning": "open",
    "count": 2,
-   "rank": 124,
+   "rank": 126,
    "slug": "p-th-ch"
   },
   "פ-ל-א": {
    "meaning": "wonder, miracle",
    "count": 2,
-   "rank": 125,
+   "rank": 127,
    "slug": "p-l-a"
   },
   "ע-ת-ד": {
    "meaning": "ready, destined",
    "count": 2,
-   "rank": 126,
+   "rank": 128,
    "slug": "o-th-d"
   },
   "ח-ז-ר": {
    "meaning": "return",
    "count": 2,
-   "rank": 127,
+   "rank": 129,
    "slug": "ch-z-r"
   },
   "ז-מ-נ": {
    "meaning": "time, season",
    "count": 2,
-   "rank": 128,
+   "rank": 130,
    "slug": "z-m-n"
   },
   "מ-ו-ת": {
    "meaning": "death, die",
    "count": 2,
-   "rank": 129,
+   "rank": 131,
    "slug": "m-v-th"
   },
   "א-ש-ה": {
    "meaning": "woman, wife",
    "count": 2,
-   "rank": 130,
+   "rank": 132,
    "slug": "a-sh-h"
   },
   "ע-ו-ר": {
    "meaning": "blind",
    "count": 2,
-   "rank": 131,
+   "rank": 133,
    "slug": "o-v-r"
   },
   "נ-ת-ר": {
    "meaning": "loosen, permit",
    "count": 2,
-   "rank": 132,
+   "rank": 134,
    "slug": "n-th-r"
   },
   "א-ס-ר": {
    "meaning": "bind, imprison",
    "count": 2,
-   "rank": 133,
+   "rank": 135,
    "slug": "a-s-r"
   },
   "ז-ק-פ": {
    "meaning": "raise, straighten",
    "count": 2,
-   "rank": 134,
+   "rank": 136,
    "slug": "z-q-p"
   },
   "מ-י-ם": {
    "meaning": "water",
    "count": 2,
-   "rank": 135,
+   "rank": 137,
    "slug": "m-y-m"
   },
   "כ-ו-נ": {
    "meaning": "establish, prepare",
    "count": 2,
-   "rank": 136,
+   "rank": 138,
    "slug": "k-v-n"
   },
   "פ-א-ר": {
    "meaning": "glory, beauty",
    "count": 2,
-   "rank": 137,
+   "rank": 139,
    "slug": "p-a-r"
   },
   "כ-ח-ח": {
    "meaning": "strength, power",
    "count": 2,
-   "rank": 138,
+   "rank": 140,
    "slug": "k-ch-ch"
   },
   "ע-ר-ב": {
    "meaning": "sweet, pleasant, evening",
    "count": 2,
-   "rank": 139,
+   "rank": 141,
    "slug": "o-r-b"
   },
   "כ-כ-ה": {
    "meaning": "thus, so",
    "count": 2,
-   "rank": 140,
+   "rank": 142,
    "slug": "k-k-h"
   },
   "ז-ה-ה": {
    "meaning": "this",
    "count": 2,
-   "rank": 141,
+   "rank": 143,
    "slug": "z-h-h"
   },
   "כ-נ-ס": {
    "meaning": "enter, gather",
    "count": 2,
-   "rank": 142,
+   "rank": 144,
    "slug": "k-n-s"
   },
   "פ-ל-ל": {
    "meaning": "pray, judge",
    "count": 2,
-   "rank": 143,
+   "rank": 145,
    "slug": "p-l-l"
   },
   "ח-ב-ר": {
    "meaning": "join, friend",
    "count": 2,
-   "rank": 144,
+   "rank": 146,
    "slug": "ch-b-r"
   },
   "נ-ג-ד": {
    "meaning": "opposite, before",
    "count": 2,
-   "rank": 145,
+   "rank": 147,
    "slug": "n-g-d"
   },
   "ד-ב-ק": {
    "meaning": "cling, attach",
    "count": 2,
-   "rank": 146,
+   "rank": 148,
    "slug": "d-b-q"
   },
   "ד-ו-ד": {
    "meaning": "David",
    "count": 2,
-   "rank": 147,
+   "rank": 149,
    "slug": "d-v-d"
-  },
-  "מ-א-ד": {
-   "meaning": "very, exceedingly",
-   "count": 2,
-   "rank": 148,
-   "slug": "m-a-d"
   },
   "ש-ב-ח": {
    "meaning": "praising, commending",
    "count": 2,
-   "rank": 149,
+   "rank": 150,
    "slug": "sh-b-ch"
   },
   "א-נ-פ": {
    "meaning": "nose, anger",
    "count": 2,
-   "rank": 150,
+   "rank": 151,
    "slug": "a-n-p"
   },
   "נ-פ-ל": {
    "meaning": "falling",
    "count": 2,
-   "rank": 151,
+   "rank": 152,
    "slug": "n-p-l"
   },
   "י-ש-ע": {
    "meaning": "saving, rescuing",
    "count": 2,
-   "rank": 152,
+   "rank": 153,
    "slug": "y-sh-o"
   },
   "ר-א-ש": {
    "meaning": "head, beginning",
    "count": 2,
-   "rank": 153,
+   "rank": 154,
    "slug": "r-a-sh"
   },
   "ל-ש-נ": {
    "meaning": "tongue, language",
    "count": 2,
-   "rank": 154,
+   "rank": 155,
    "slug": "l-sh-n"
   },
   "ת-ב-ל": {
    "meaning": "world, earth",
    "count": 2,
-   "rank": 155,
+   "rank": 156,
    "slug": "th-b-l"
+  },
+  "כ-נ-נ": {
+   "meaning": "thus, so",
+   "count": 2,
+   "rank": 157,
+   "slug": "k-n-n"
   },
   "ש-ד-י": {
    "meaning": "Almighty",
    "count": 2,
-   "rank": 156,
+   "rank": 158,
    "slug": "sh-d-y"
   },
   "א-נ-כ": {
    "meaning": "I",
    "count": 2,
-   "rank": 157,
+   "rank": 159,
    "slug": "a-n-k"
   },
   "ה-ל-כ": {
    "meaning": "walk, go",
    "count": 2,
-   "rank": 158,
+   "rank": 160,
    "slug": "h-l-k"
   },
   "ש-כ-ב": {
    "meaning": "lie down",
    "count": 2,
-   "rank": 159,
+   "rank": 161,
    "slug": "sh-k-b"
   },
   "ק-ש-ר": {
    "meaning": "bind, tie",
    "count": 2,
-   "rank": 160,
+   "rank": 162,
    "slug": "q-sh-r"
   },
   "א-ו-ת": {
    "meaning": "sign, letter",
    "count": 2,
-   "rank": 161,
+   "rank": 163,
    "slug": "a-v-th"
   },
   "ט-ו-פ": {
    "meaning": "bands, frontlets",
    "count": 2,
-   "rank": 162,
+   "rank": 164,
    "slug": "t-v-p"
   },
   "ז-ו-ז": {
    "meaning": "doorpost, moving",
    "count": 2,
-   "rank": 163,
+   "rank": 165,
    "slug": "z-v-z"
-  },
-  "מ-ע-נ": {
-   "meaning": "purpose, intent",
-   "count": 2,
-   "rank": 164,
-   "slug": "m-o-n"
   },
   "כ-נ-פ": {
    "meaning": "corner, wing",
    "count": 2,
-   "rank": 165,
+   "rank": 166,
    "slug": "k-n-p"
   },
   "י-ק-ר": {
    "meaning": "honor, precious",
    "count": 2,
-   "rank": 166,
+   "rank": 167,
    "slug": "y-q-r"
   },
   "מ-ע-ל": {
    "meaning": "above, upward",
    "count": 2,
-   "rank": 167,
+   "rank": 168,
    "slug": "m-o-l"
   },
   "ח-כ-מ": {
    "meaning": "wisdom",
    "count": 1,
-   "rank": 168,
+   "rank": 169,
    "slug": "ch-k-m"
   },
   "ג-ל-ה": {
    "meaning": "reveal, uncover",
    "count": 1,
-   "rank": 169,
+   "rank": 170,
    "slug": "g-l-h"
   },
   "א-ו-ו": {
    "meaning": "or",
    "count": 1,
-   "rank": 170,
+   "rank": 171,
    "slug": "a-v-v"
   },
   "ס-ת-מ": {
    "meaning": "close, block",
    "count": 1,
-   "rank": 171,
+   "rank": 172,
    "slug": "s-th-m"
   },
   "א-י-י": {
    "meaning": "not, non-",
    "count": 1,
-   "rank": 172,
+   "rank": 173,
    "slug": "a-y-y"
   },
   "פ-ש-ר": {
    "meaning": "possible, permit",
    "count": 1,
-   "rank": 173,
+   "rank": 174,
    "slug": "p-sh-r"
   },
   "ע-מ-ד": {
    "meaning": "stand",
    "count": 1,
-   "rank": 174,
+   "rank": 175,
    "slug": "o-m-d"
   },
   "א-פ-ל": {
    "meaning": "even, also",
    "count": 1,
-   "rank": 175,
+   "rank": 176,
    "slug": "a-p-l"
   },
   "ש-ע-ה": {
    "meaning": "hour, time",
    "count": 1,
-   "rank": 176,
+   "rank": 177,
    "slug": "sh-o-h"
   },
   "ר-פ-א": {
    "meaning": "heal, cure",
    "count": 1,
-   "rank": 177,
+   "rank": 178,
    "slug": "r-p-a"
   },
   "ט-ה-ר": {
    "meaning": "pure, clean",
    "count": 1,
-   "rank": 178,
+   "rank": 179,
    "slug": "t-h-r"
   },
   "ה-י-א": {
    "meaning": "she, it",
    "count": 1,
-   "rank": 179,
+   "rank": 180,
    "slug": "h-y-a"
   },
   "נ-פ-ח": {
    "meaning": "blow, breathe",
    "count": 1,
-   "rank": 180,
+   "rank": 181,
    "slug": "n-p-ch"
   },
   "מ-נ-נ": {
    "meaning": "from",
    "count": 1,
-   "rank": 181,
+   "rank": 182,
    "slug": "m-n-n"
   },
   "פ-ג-ר": {
    "meaning": "corpse, body",
    "count": 1,
-   "rank": 182,
+   "rank": 183,
    "slug": "p-g-r"
   },
   "ש-כ-ו": {
    "meaning": "rooster, understanding",
    "count": 1,
-   "rank": 183,
+   "rank": 184,
    "slug": "sh-k-v"
   },
   "ב-ח-ן": {
    "meaning": "test, distinguish",
    "count": 1,
-   "rank": 184,
+   "rank": 185,
    "slug": "b-ch-n"
   },
   "ל-י-ל": {
    "meaning": "night",
    "count": 1,
-   "rank": 185,
+   "rank": 186,
    "slug": "l-y-l"
   },
   "פ-ק-ח": {
    "meaning": "open (eyes)",
    "count": 1,
-   "rank": 186,
+   "rank": 187,
    "slug": "p-q-ch"
   },
   "ל-ב-ש": {
    "meaning": "wear, clothe",
    "count": 1,
-   "rank": 187,
+   "rank": 188,
    "slug": "l-b-sh"
   },
   "ע-ר-מ": {
    "meaning": "naked, bare",
    "count": 1,
-   "rank": 188,
+   "rank": 189,
    "slug": "o-r-m"
   },
   "ר-ק-ע": {
    "meaning": "spread, stamp",
    "count": 1,
-   "rank": 189,
+   "rank": 190,
    "slug": "r-q-o"
   },
   "צ-ר-כ": {
    "meaning": "need",
    "count": 1,
-   "rank": 190,
+   "rank": 191,
    "slug": "tz-r-k"
   },
   "צ-ע-ד": {
    "meaning": "step, pace",
    "count": 1,
-   "rank": 191,
+   "rank": 192,
    "slug": "tz-o-d"
   },
   "א-ז-ר": {
    "meaning": "gird, strengthen",
    "count": 1,
-   "rank": 192,
+   "rank": 193,
    "slug": "a-z-r"
   },
   "ע-ט-ר": {
    "meaning": "crown, surround",
    "count": 1,
-   "rank": 193,
+   "rank": 194,
    "slug": "o-t-r"
   },
   "י-ע-פ": {
    "meaning": "weary, tired",
    "count": 1,
-   "rank": 194,
+   "rank": 195,
    "slug": "y-o-p"
   },
   "י-ש-נ": {
    "meaning": "sleep",
    "count": 1,
-   "rank": 195,
+   "rank": 196,
    "slug": "y-sh-n"
   },
   "נ-ו-מ": {
    "meaning": "slumber, drowsiness",
    "count": 1,
-   "rank": 196,
+   "rank": 197,
    "slug": "n-v-m"
   },
   "ע-פ-פ": {
    "meaning": "eyelid",
    "count": 1,
-   "rank": 197,
+   "rank": 198,
    "slug": "o-p-p"
   },
   "ע-ס-ק": {
    "meaning": "engage, be busy with",
    "count": 1,
-   "rank": 198,
+   "rank": 199,
    "slug": "o-s-q"
   },
   "נ-א-א": {
    "meaning": "please, I pray",
    "count": 1,
-   "rank": 199,
+   "rank": 200,
    "slug": "n-a-a"
   },
   "א-ה-ר": {
    "meaning": "Aaron (proper name)",
    "count": 1,
-   "rank": 200,
+   "rank": 201,
    "slug": "a-h-r"
   },
   "א-ו-ר": {
    "meaning": "light",
    "count": 1,
-   "rank": 201,
+   "rank": 202,
    "slug": "a-v-r"
   },
   "נ-ש-א": {
    "meaning": "lift, carry, bear",
    "count": 1,
-   "rank": 202,
+   "rank": 203,
    "slug": "n-sh-a"
   },
   "פ-א-ה": {
    "meaning": "corner, edge",
    "count": 1,
-   "rank": 203,
+   "rank": 204,
    "slug": "p-a-h"
   },
   "ב-כ-ר": {
    "meaning": "firstborn, first fruits",
    "count": 1,
-   "rank": 204,
+   "rank": 205,
    "slug": "b-k-r"
   },
   "פ-ר-ה": {
    "meaning": "fruit, produce",
    "count": 1,
-   "rank": 205,
+   "rank": 206,
    "slug": "p-r-h"
   },
   "ק-ר-נ": {
    "meaning": "horn, principal",
    "count": 1,
-   "rank": 206,
+   "rank": 207,
    "slug": "q-r-n"
   },
   "ה-נ-נ": {
    "meaning": "behold, they",
    "count": 1,
-   "rank": 207,
+   "rank": 208,
    "slug": "h-n-n"
   },
   "ש-כ-מ": {
    "meaning": "rise early",
    "count": 1,
-   "rank": 208,
+   "rank": 209,
    "slug": "sh-k-m"
   },
   "ד-ר-ש": {
    "meaning": "seek, study",
    "count": 1,
-   "rank": 209,
+   "rank": 210,
    "slug": "d-r-sh"
   },
   "ש-ח-ר": {
    "meaning": "dawn, morning",
    "count": 1,
-   "rank": 210,
+   "rank": 211,
    "slug": "sh-ch-r"
   },
   "א-ר-ח": {
    "meaning": "path, guest",
    "count": 1,
-   "rank": 211,
+   "rank": 212,
    "slug": "a-r-ch"
   },
   "ב-ק-ר": {
    "meaning": "visit, examine",
    "count": 1,
-   "rank": 212,
+   "rank": 213,
    "slug": "b-q-r"
   },
   "ח-ל-ה": {
    "meaning": "sick, weak",
    "count": 1,
-   "rank": 213,
+   "rank": 214,
    "slug": "ch-l-h"
   },
   "כ-ל-ה": {
    "meaning": "bride, complete",
    "count": 1,
-   "rank": 214,
+   "rank": 215,
    "slug": "k-l-h"
   },
   "ל-ו-ה": {
    "meaning": "accompany, escort",
    "count": 1,
-   "rank": 215,
+   "rank": 216,
    "slug": "l-v-h"
   },
   "ר-ג-ל": {
    "meaning": "foot, accustom",
    "count": 1,
-   "rank": 216,
+   "rank": 217,
    "slug": "r-g-l"
   },
   "ח-ט-א": {
    "meaning": "sin, miss",
    "count": 1,
-   "rank": 217,
+   "rank": 218,
    "slug": "ch-t-a"
   },
   "ע-ו-נ": {
    "meaning": "iniquity, guilt",
    "count": 1,
-   "rank": 218,
+   "rank": 219,
    "slug": "o-v-n"
   },
   "נ-ס-ה": {
    "meaning": "test, try",
    "count": 1,
-   "rank": 219,
+   "rank": 220,
    "slug": "n-s-h"
   },
   "ב-ז-ה": {
    "meaning": "despise, disgrace",
    "count": 1,
-   "rank": 220,
+   "rank": 221,
    "slug": "b-z-h"
   },
   "ש-ל-ט": {
    "meaning": "rule, have power",
    "count": 1,
-   "rank": 221,
+   "rank": 222,
    "slug": "sh-l-t"
   },
   "ר-ח-ק": {
    "meaning": "far, distance",
    "count": 1,
-   "rank": 222,
+   "rank": 223,
    "slug": "r-ch-q"
   },
   "כ-פ-ה": {
    "meaning": "subdue, compel",
    "count": 1,
-   "rank": 223,
+   "rank": 224,
    "slug": "k-p-h"
   },
   "ס-ל-ה": {
    "meaning": "selah, pause",
    "count": 1,
-   "rank": 224,
+   "rank": 225,
    "slug": "s-l-h"
   },
   "ח-ק-ר": {
    "meaning": "searching, investigating",
    "count": 1,
-   "rank": 225,
+   "rank": 226,
    "slug": "ch-q-r"
   },
   "ה-ו-ד": {
    "meaning": "splendor, majesty",
    "count": 1,
-   "rank": 226,
+   "rank": 227,
    "slug": "h-v-d"
   },
   "ש-י-ח": {
    "meaning": "speaking, meditating",
    "count": 1,
-   "rank": 227,
+   "rank": 228,
    "slug": "sh-y-ch"
   },
   "ס-פ-ר": {
    "meaning": "counting, telling",
    "count": 1,
-   "rank": 228,
+   "rank": 229,
    "slug": "s-p-r"
   },
   "נ-ב-ע": {
    "meaning": "flowing, uttering",
    "count": 1,
-   "rank": 229,
+   "rank": 230,
    "slug": "n-b-o"
   },
   "א-ר-כ": {
    "meaning": "length, patience",
    "count": 1,
-   "rank": 230,
+   "rank": 231,
    "slug": "a-r-k"
   },
   "מ-ש-ל": {
    "meaning": "ruling, governance",
    "count": 1,
-   "rank": 231,
+   "rank": 232,
    "slug": "m-sh-l"
   },
   "ס-מ-כ": {
    "meaning": "supporting, leaning",
    "count": 1,
-   "rank": 232,
+   "rank": 233,
    "slug": "s-m-k"
   },
   "ש-ב-ר": {
    "meaning": "hoping, waiting",
    "count": 1,
-   "rank": 233,
+   "rank": 234,
    "slug": "sh-b-r"
   },
   "ל-ה-מ": {
    "meaning": "to them",
    "count": 1,
-   "rank": 234,
+   "rank": 235,
    "slug": "l-h-m"
   },
   "ש-ו-ע": {
    "meaning": "crying out, salvation",
    "count": 1,
-   "rank": 235,
+   "rank": 236,
    "slug": "sh-v-o"
   },
   "ש-מ-ד": {
    "meaning": "destroying, annihilating",
    "count": 1,
-   "rank": 236,
+   "rank": 237,
    "slug": "sh-m-d"
   },
   "ל-ח-ש": {
    "meaning": "whispering",
    "count": 1,
-   "rank": 237,
+   "rank": 238,
    "slug": "l-ch-sh"
   },
   "ש-נ-נ": {
    "meaning": "sharpen, teach",
    "count": 1,
-   "rank": 238,
+   "rank": 239,
    "slug": "sh-n-n"
   },
   "א-מ": {
    "meaning": "if, whether",
    "count": 1,
-   "rank": 239,
+   "rank": 240,
    "slug": "a-m"
   },
   "ל-ק-ש": {
    "meaning": "late rain",
    "count": 1,
-   "rank": 240,
+   "rank": 241,
    "slug": "l-q-sh"
   },
   "א-ס-פ": {
    "meaning": "gather, collect",
    "count": 1,
-   "rank": 241,
+   "rank": 242,
    "slug": "a-s-p"
   },
   "ד-ג-נ": {
    "meaning": "grain",
    "count": 1,
-   "rank": 242,
+   "rank": 243,
    "slug": "d-g-n"
   },
   "י-ר-ש": {
    "meaning": "wine, new wine",
    "count": 1,
-   "rank": 243,
+   "rank": 244,
    "slug": "y-r-sh"
   },
   "צ-ה-ר": {
    "meaning": "oil, brightness",
    "count": 1,
-   "rank": 244,
+   "rank": 245,
    "slug": "tz-h-r"
   },
   "ע-ש-ב": {
    "meaning": "grass, herb",
    "count": 1,
-   "rank": 245,
+   "rank": 246,
    "slug": "o-sh-b"
   },
   "ש-ד-ד": {
    "meaning": "field",
    "count": 1,
-   "rank": 246,
+   "rank": 247,
    "slug": "sh-d-d"
   },
   "ב-ה-מ": {
    "meaning": "beast, cattle",
    "count": 1,
-   "rank": 247,
+   "rank": 248,
    "slug": "b-h-m"
   },
   "פ-ת-ה": {
    "meaning": "deceive, seduce",
    "count": 1,
-   "rank": 248,
+   "rank": 249,
    "slug": "p-th-h"
   },
   "ס-ו-ר": {
    "meaning": "turn aside, depart",
    "count": 1,
-   "rank": 249,
+   "rank": 250,
    "slug": "s-v-r"
   },
   "ח-ר-ה": {
    "meaning": "burning, anger",
    "count": 1,
-   "rank": 250,
+   "rank": 251,
    "slug": "ch-r-h"
   },
   "ע-צ-ר": {
    "meaning": "restraining, stopping",
    "count": 1,
-   "rank": 251,
+   "rank": 252,
    "slug": "o-tz-r"
   },
   "י-ב-ל": {
    "meaning": "produce, flowing",
    "count": 1,
-   "rank": 252,
+   "rank": 253,
    "slug": "y-b-l"
   },
   "א-ב-ד": {
    "meaning": "perish, be lost",
    "count": 1,
-   "rank": 253,
+   "rank": 254,
    "slug": "a-b-d"
   },
   "א-ב": {
    "meaning": "father",
    "count": 1,
-   "rank": 254,
+   "rank": 255,
    "slug": "a-b"
   },
   "ב-ג-ד": {
    "meaning": "garment, betraying",
    "count": 1,
-   "rank": 255,
+   "rank": 256,
    "slug": "b-g-d"
   },
   "פ-ת-ל": {
    "meaning": "thread, cord",
    "count": 1,
-   "rank": 256,
+   "rank": 257,
    "slug": "p-th-l"
   },
   "ז-נ-ה": {
    "meaning": "prostitution, straying",
    "count": 1,
-   "rank": 257,
+   "rank": 258,
    "slug": "z-n-h"
   },
   "ש-פ-ח": {
    "meaning": "family, clan",
    "count": 1,
-   "rank": 258,
+   "rank": 259,
    "slug": "sh-p-ch"
   },
   "ח-ל-ק": {
    "meaning": "portion, dividing",
    "count": 1,
-   "rank": 259,
+   "rank": 260,
    "slug": "ch-l-q"
   },
   "כ-מ-ה": {
    "meaning": "like, as",
    "count": 1,
-   "rank": 260,
+   "rank": 261,
    "slug": "k-m-h"
   },
   "ג-ר-ל": {
    "meaning": "lot, fate",
    "count": 1,
-   "rank": 261,
+   "rank": 262,
    "slug": "g-r-l"
   },
   "ה-מ-נ": {
    "meaning": "multitude, crowd",
    "count": 1,
-   "rank": 262,
+   "rank": 263,
    "slug": "h-m-n"
   },
   "ה-ב-ל": {
    "meaning": "vanity, breath",
    "count": 1,
-   "rank": 263,
+   "rank": 264,
    "slug": "h-b-l"
   },
   "ר-י-ק": {
    "meaning": "emptiness, vain",
    "count": 1,
-   "rank": 264,
+   "rank": 265,
    "slug": "r-y-q"
   },
   "נ-ט-ה": {
    "meaning": "stretching, bending",
    "count": 1,
-   "rank": 265,
+   "rank": 266,
    "slug": "n-t-h"
   },
   "י-ס-ד": {
    "meaning": "founding, establishing",
    "count": 1,
-   "rank": 266,
+   "rank": 267,
    "slug": "y-s-d"
   },
   "ש-כ-נ": {
    "meaning": "dwelling, presence",
    "count": 1,
-   "rank": 267,
+   "rank": 268,
    "slug": "sh-k-n"
   },
   "ג-ב-ה": {
    "meaning": "height, high",
    "count": 1,
-   "rank": 268,
+   "rank": 269,
    "slug": "g-b-h"
   },
   "א-פ-ס": {
    "meaning": "end, nothing",
    "count": 1,
-   "rank": 269,
+   "rank": 270,
    "slug": "a-p-s"
   },
   "ז-ו-ל": {
    "meaning": "except, besides",
    "count": 1,
-   "rank": 270,
+   "rank": 271,
    "slug": "z-v-l"
   },
   "ש-ו-ב": {
    "meaning": "returning, restoring",
    "count": 1,
-   "rank": 271,
+   "rank": 272,
    "slug": "sh-v-b"
   },
   "ת-ח-ת": {
    "meaning": "under, below",
    "count": 1,
-   "rank": 272,
-   "slug": "th-ch-th"
-  },
-  "כ-נ-נ": {
-   "meaning": "thus, so",
-   "count": 1,
    "rank": 273,
-   "slug": "k-n-n"
+   "slug": "th-ch-th"
   },
   "ק-ו-ה": {
    "meaning": "hoping, waiting",
@@ -1842,73 +1842,73 @@
    "shema",
    247,
    100,
-   69.8358413132695
+   69.57971981320881
   ],
   [
    "aleinu",
    173,
    56,
-   82.76333789329685
+   82.45496997998666
   ],
   [
    "ashrei",
    173,
    36,
-   90.62927496580028
+   90.79386257505003
   ],
   [
    "eilu_devarim_2",
    46,
    23,
-   93.84404924760602
+   93.92928619079386
   ],
   [
    "birkot_hashachar",
    141,
    22,
-   95.89603283173734
+   95.93062041360908
   ],
   [
    "elohai_neshama",
    48,
    11,
-   97.2640218878249
+   97.26484322881922
   ],
   [
    "asher_yatzar",
    46,
    13,
-   98.35841313269493
+   98.33222148098733
   ],
   [
    "yehi_ratzon",
    68,
    10,
-   99.24760601915185
+   99.19946631087392
   ],
   [
    "birkat_hatorah_3_asher_bachar",
    20,
    1,
-   99.52120383036936
+   99.53302201467645
   ],
   [
    "birkat_kohanim",
    33,
    3,
-   99.72640218878249
+   99.73315543695797
   ],
   [
    "eilu_devarim_1",
    12,
    2,
-   99.86320109439124
+   99.86657771847898
   ],
   [
    "birkat_hatorah_1_laasok",
    13,
    1,
-   99.93160054719563
+   99.9332888592395
   ],
   [
    "birkat_hatorah_2_vhaarev",
@@ -1930,7 +1930,7 @@
   ],
   [
    "hodu",
-   47,
+   60,
    0,
    100.0
   ],
@@ -1948,31 +1948,31 @@
   ],
   [
    "psalm_146",
-   26,
+   27,
    0,
    100.0
   ],
   [
    "psalm_147",
-   29,
+   34,
    0,
    100.0
   ],
   [
    "psalm_148",
-   16,
+   20,
    0,
    100.0
   ],
   [
    "psalm_149",
-   11,
+   13,
    0,
    100.0
   ],
   [
    "psalm_150",
-   7,
+   8,
    0,
    100.0
   ],
@@ -1984,7 +1984,7 @@
   ],
   [
    "vayevarech_david",
-   25,
+   26,
    0,
    100.0
   ],
@@ -1996,13 +1996,13 @@
   ],
   [
    "vayoshia",
-   10,
+   11,
    0,
    100.0
   ],
   [
    "shirat_hayam",
-   14,
+   21,
    0,
    100.0
   ],
@@ -2014,7 +2014,7 @@
   ],
   [
    "psalm_30",
-   20,
+   22,
    0,
    100.0
   ],
@@ -2034,23 +2034,23 @@
  "curve": [
   [
    10,
-   33.447332421340626
+   33.088725817211476
   ],
   [
    25,
-   52.25718194254446
+   52.168112074716475
   ],
   [
    50,
-   67.51025991792066
+   67.77851901267512
   ],
   [
    100,
-   82.0109439124487
+   82.25483655770513
   ],
   [
    200,
-   94.59644322845418
+   94.72981987991994
   ],
   [
    279,

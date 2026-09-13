@@ -10,7 +10,7 @@ explicitly unresolved rather than guessed.
 
 Writes data/hebrew.json   {pid: {ref, version, license, segments[], words[]}}
 """
-import urllib.parse, urllib.request, json, re, os, collections
+import urllib.parse, urllib.request, json, re, os, collections, html as _html
 from pathlib import Path
 
 A   = "https://www.sefaria.org/api"
@@ -72,7 +72,8 @@ def fetch(ref):
         o = []
         for i in (x or []): o += flat(i)
         return o
-    segs = [re.sub("<[^>]+>", "", h).strip() for h in flat(d.get("he"))]
+    segs = [_html.unescape(re.sub("<[^>]+>", " ", h)) for h in flat(d.get("he"))]
+    segs = [re.sub(r"[\u00a0\s]+", " ", s).strip() for s in segs]
     segs = [s for s in segs if s]
     # a Siddur node prefixes halachic instruction, unvocalised. Drop it.
     voc = [s for s in segs if vocalised(s)]
