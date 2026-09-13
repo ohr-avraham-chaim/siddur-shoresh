@@ -1,0 +1,65 @@
+<title>Psalm 91 · Siddur Shoresh</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"><style>
+:root{--paper:#FDFCF8;--ink:#1B1A17;--ink-soft:#57544D;--ink-faint:#948F85;
+--rule:#E7E3D8;--rule-soft:#F1EEE5;--tech:#2B4C7E;--tech-wash:#E9EEF5;}
+*{box-sizing:border-box}html{color-scheme:light}
+body{background:var(--paper);color:var(--ink);font-family:"IBM Plex Sans",system-ui,sans-serif;
+margin:0;padding:clamp(22px,5vw,58px) clamp(16px,5vw,38px) 88px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.sheet{max-width:880px;margin:0 auto}
+a{color:inherit;text-decoration:none}
+a.lnk{color:var(--tech);border-bottom:1px solid transparent}
+a.lnk:hover{border-bottom-color:var(--tech)}
+.crumb{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);
+font-weight:600;margin:0 0 26px;display:flex;gap:9px;flex-wrap:wrap}
+.crumb a{color:var(--ink-soft)} .crumb a:hover{color:var(--tech)} .crumb i{color:var(--rule);font-style:normal}
+.root{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;font-size:clamp(48px,10vw,86px);
+font-weight:700;line-height:.95;letter-spacing:.06em;margin:0}
+.gloss{font-family:"Frank Ruhl Libre",Georgia,serif;font-size:clamp(18px,2.5vw,23px);
+color:var(--ink-soft);margin:6px 0 0}
+.stats{font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--ink-soft);
+margin:22px 0 0;padding:14px 0 0;border-top:1px solid var(--rule);display:flex;gap:24px;
+flex-wrap:wrap;font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink);font-weight:500}
+h2{font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint);
+font-weight:600;margin:52px 0 4px}
+.sub{font-size:13.5px;color:var(--ink-soft);margin:0 0 20px;max-width:60ch}
+.fp-row{display:grid;grid-template-columns:186px 1fr 34px;gap:14px;align-items:center;
+padding:7px 0;border-bottom:1px solid var(--rule-soft)}
+.fp-row:last-child{border-bottom:none}
+.fp-name{font-size:13.5px;color:var(--ink-soft)} .fp-name.none{color:var(--ink-faint)}
+.fp-track{display:block;height:14px;background:var(--rule-soft);border-radius:1px}
+.tick{width:7px;height:16px;background:var(--tech);border-radius:1px}
+.tick.ghost{background:var(--rule);height:5px;align-self:center}
+.fp-n{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--ink-soft);
+text-align:right;font-variant-numeric:tabular-nums}
+.fp-n.zero{color:var(--rule)}
+.form{display:grid;grid-template-columns:minmax(120px,auto) 1fr 150px;gap:18px;align-items:baseline;
+padding:12px 0;border-bottom:1px solid var(--rule-soft)}
+.f-he{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;font-size:25px;font-weight:500;line-height:1.35}
+.f-en{font-size:14.5px} .f-where{font-size:12.5px}
+.nb{display:flex;gap:9px;flex-wrap:wrap}
+.nbi{display:flex;align-items:baseline;gap:9px;padding:10px 15px;background:var(--tech-wash);border-radius:2px}
+.nb-r{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;font-size:19px;font-weight:500}
+.nb-m{font-size:12.5px;color:var(--ink-soft)} .nb-n{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-faint)}
+.tefillah{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;text-align:right;
+font-size:clamp(21px,3vw,27px);line-height:2.15;margin:6px 0 0}
+.tefillah a{border-bottom:1px solid var(--rule)}
+.tefillah a:hover{border-bottom-color:var(--tech);color:var(--tech)}
+.tefillah a.norr{border-bottom:none;color:var(--ink-faint)}
+.route{display:grid;grid-template-columns:26px 1fr 76px 84px;gap:12px;align-items:baseline;
+padding:10px 0;border-bottom:1px solid var(--rule-soft);font-size:14px}
+.route i{font-family:"IBM Plex Mono",monospace;color:var(--ink-faint);font-style:normal;font-size:12px}
+.route b{font-weight:400}
+.route .n{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--ink-soft);
+text-align:right;font-variant-numeric:tabular-nums}
+.route .c{font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--tech);
+text-align:right;font-variant-numeric:tabular-nums}
+.unlock{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.ul{padding:9px 14px;background:var(--tech-wash);border-radius:2px;font-size:13px}
+.ul b{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--tech);font-weight:500}
+footer{margin-top:60px;padding-top:17px;border-top:1px solid var(--rule);
+font-size:11.5px;color:var(--ink-faint);line-height:1.65}
+@media(max-width:660px){.form{grid-template-columns:1fr;gap:2px}.fp-row{grid-template-columns:118px 1fr 30px;gap:9px}
+.route{grid-template-columns:22px 1fr 66px;gap:8px}.route .c{grid-column:3;text-align:right}}
+
+.bar{display:block;height:14px;background:var(--tech);border-radius:1px}
+</style><div class="sheet"><p class="crumb"><a href="../index.html">Siddur Shoresh</a><i>/</i>Shabbat<i>/</i>Psalm 91</p><p class="root" dir="rtl" style="font-size:clamp(26px,5vw,44px)">Psalm 91</p><p class="gloss">Shabbat &gt; Shacharit &gt; Pesukei Dezimra</p><p class="stats"><span><b>117</b> words</span><span><b>90</b> roots</span><span><b>97%</b> rooted</span></p><h2>The text</h2><p class="sub">Every word links to its root. Grey words have none resolved.</p><p class="tefillah" dir="rtl"><a href="../root/y-sh-b.html" title="י-ש-ב">ישֵׁב</a> <a href="../root/s-th-r.html" title="ס-ת-ר">בְּסֵתֶר</a> <a href="../root/o-l-h.html" title="ע-ל-ה">עֶלְיון.</a> <a href="../root/tz-l-l.html" title="צ-ל-ל">בְּצֵל</a> <a href="../root/sh-d-y.html" title="ש-ד-י">שַׁדַּי</a> <a href="../root/th-v-n.html" title="ת-ו-נ">יִתְלונָן:</a> <a href="../root/a-m-r.html" title="א-מ-ר">אמַר</a> <a href="../root/l-h.html" title="ל-ה">לה&#x27;</a> <a href="../root/ch-s-h.html" title="ח-ס-ה">מַחְסִי</a> <a href="../root/tz-v-d.html" title="צ-ו-ד">וּמְצוּדָתִי.</a> <a href="../root/a-l-h.html" title="א-ל-ה">אֱלהַי</a> <a href="../root/b-t-ch.html" title="ב-ט-ח">אֶבְטַח</a> <a href="../root/b-b-b.html" title="ב-ב-ב">בּו:</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/h-v-a.html" title="ה-ו-א">הוּא</a> <a href="../root/n-tz-l.html" title="נ-צ-ל">יַצִּילְךָ</a> <a class="norr">מִפַּח</a> <a href="../root/q-v-sh.html" title="ק-ו-ש">יָקוּשׁ.</a> <a href="../root/m-d-b-r.html" title="מ-ד-ב-ר">מִדֶּבֶר</a> <a href="../root/h-v-th.html" title="ה-ו-ת">הַוּות:</a> <a class="norr">בְּאֶבְרָתו</a> <a href="../root/s-k-k.html" title="ס-כ-כ">יָסֶךְ</a> <a href="../root/l.html" title="ל">לָךְ.</a> <a href="../root/th-ch-th.html" title="ת-ח-ת">וְתַחַת</a> <a href="../root/k-n-p.html" title="כ-נ-פ">כְּנָפָיו</a> <a href="../root/ch-s-h.html" title="ח-ס-ה">תֶּחְסֶה.</a> <a href="../root/tz-n-h.html" title="צ-נ-ה">צִנָּה</a> <a href="../root/s-ch-r.html" title="ס-ח-ר">וְסוחֵרָה</a> <a href="../root/a-m-th.html" title="א-מ-ת">אֲמִתּו:</a> <a href="../root/l-a.html" title="ל-א">לא</a> <a href="../root/y-r-a.html" title="י-ר-א">תִירָא</a> <a href="../root/p-ch-d.html" title="פ-ח-ד">מִפַּחַד</a> <a href="../root/l-y-l.html" title="ל-י-ל">לָיְלָה.</a> <a href="../root/m-ch-tz.html" title="מ-ח-צ">מֵחֵץ</a> <a href="../root/o-v-p.html" title="ע-ו-פ">יָעוּף</a> <a href="../root/y-v-m.html" title="י-ו-מ">יומָם:</a> <a href="../root/m-d-b-r.html" title="מ-ד-ב-ר">מִדֶּבֶר</a> <a href="../root/b-a-l.html" title="ב-א-ל">בָּאפֶל</a> <a href="../root/h-l-k.html" title="ה-ל-כ">יַהֲלךְ.</a> <a href="../root/q-t-b.html" title="ק-ט-ב">מִקֶּטֶב</a> <a href="../root/sh-v-d.html" title="ש-ו-ד">יָשׁוּד</a> <a href="../root/tz-h-r.html" title="צ-ה-ר">צָהֳרָיִם:</a> <a href="../root/n-p-l.html" title="נ-פ-ל">יִפּל</a> <a href="../root/tz-d-d.html" title="צ-ד-ד">מִצִּדְּךָ</a> <a href="../root/a-l-p.html" title="א-ל-פ">אֶלֶף</a> <a href="../root/r-b-b.html" title="ר-ב-ב">וּרְבָבָה</a> <a href="../root/y-m-n.html" title="י-מ-נ">מִימִינֶךָ.</a> <a href="../root/a-l.html" title="א-ל">אֵלֶיךָ</a> <a href="../root/l-a.html" title="ל-א">לא</a> <a href="../root/n-g-sh.html" title="נ-ג-ש">יִגָּשׁ:</a> <a href="../root/r-q-q.html" title="ר-ק-ק">רַק</a> <a href="../root/o-y-n.html" title="ע-י-נ">בְּעֵינֶיךָ</a> <a href="../root/h-b-t.html" title="ה-ב-ט">תַבִּיט.</a> <a href="../root/sh-l-m.html" title="ש-ל-מ">וְשִׁלֻּמַת</a> <a href="../root/r-sh-o.html" title="ר-ש-ע">רְשָׁעִים</a> <a href="../root/r-a-h.html" title="ר-א-ה">תִּרְאֶה:</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/a-th-th.html" title="א-ת-ת">אַתָּה</a> <a class="norr">ה&#x27;</a> <a href="../root/ch-s-h.html" title="ח-ס-ה">מַחְסִי.</a> <a href="../root/o-l-h.html" title="ע-ל-ה">עֶלְיון</a> <a href="../root/sh-v-m.html" title="ש-ו-מ">שמְתָּ</a> <a href="../root/o-n-h.html" title="ע-נ-ה">מְעונֶךָ:</a> <a href="../root/l-a.html" title="ל-א">לא</a> <a href="../root/th-a-n.html" title="ת-א-נ">תְאֻנֶּה</a> <a href="../root/a-l.html" title="א-ל">אֵלֶיךָ</a> <a href="../root/r-o-h.html" title="ר-ע-ה">רָעָה.</a> <a href="../root/n-g-o.html" title="נ-ג-ע">וְנֶגַע</a> <a href="../root/l-a.html" title="ל-א">לא</a> <a href="../root/q-r-b.html" title="ק-ר-ב">יִקְרַב</a> <a href="../root/b-v-a.html" title="ב-ו-א">בְּאָהֳלֶךָ:</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/m-l-k.html" title="מ-ל-כ">מַלְאָכָיו</a> <a href="../root/tz-v-h.html" title="צ-ו-ה">יְצַוֶּה</a> <a href="../root/l.html" title="ל">לָּךְ.</a> <a href="../root/sh-m-r.html" title="ש-מ-ר">לִשְׁמָרְךָ</a> <a href="../root/k-l-l.html" title="כ-ל-ל">בְּכָל</a> <a href="../root/d-r-k.html" title="ד-ר-כ">דְּרָכֶיךָ:</a> <a href="../root/o-l-l.html" title="ע-ל-ל">עַל</a> <a href="../root/k-p-n.html" title="כ-פ-נ">כַּפַּיִם</a> <a class="norr">יִשּאוּנְךָ.</a> <a href="../root/p-n-n.html" title="פ-נ-נ">פֶּן</a> <a href="../root/g-v-p.html" title="ג-ו-פ">תִּגּוף</a> <a href="../root/b-a-b.html" title="ב-א-ב">בָּאֶבֶן</a> <a href="../root/r-g-l.html" title="ר-ג-ל">רַגְלֶךָ:</a> <a href="../root/o-l-l.html" title="ע-ל-ל">עַל</a> <a href="../root/sh-ch-l.html" title="ש-ח-ל">שַׁחַל</a> <a href="../root/p-th-n.html" title="פ-ת-נ">וָפֶתֶן</a> <a href="../root/d-r-k.html" title="ד-ר-כ">תִּדְרוךְ.</a> <a href="../root/th-r-m.html" title="ת-ר-מ">תִּרְמוס</a> <a href="../root/k-p-r.html" title="כ-פ-ר">כְּפִיר</a> <a href="../root/th-n-n.html" title="ת-נ-נ">וְתַנִּין:</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/b-b-b.html" title="ב-ב-ב">בִי</a> <a href="../root/ch-sh-q.html" title="ח-ש-ק">חָשַׁק</a> <a href="../root/p-l-t.html" title="פ-ל-ט">וַאֲפַלְּטֵהוּ.</a> <a href="../root/a-sh-g.html" title="א-ש-ג">אֲשגְּבֵהוּ</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/y-d-o.html" title="י-ד-ע">יָדַע</a> <a href="../root/sh-m-h.html" title="ש-מ-ה">שְׁמִי:</a> <a href="../root/q-r-a.html" title="ק-ר-א">יִקְרָאֵנִי</a> <a href="../root/o-n-h.html" title="ע-נ-ה">וְאֶעֱנֵהוּ.</a> <a href="../root/o-m-m.html" title="ע-מ-מ">עִמּו</a> <a href="../root/a-n-k.html" title="א-נ-כ">אָנכִי</a> <a href="../root/tz-r-r.html" title="צ-ר-ר">בְצָרָה.</a> <a href="../root/ch-l-tz.html" title="ח-ל-צ">אֲחַלְּצֵהוּ</a> <a href="../root/k-b-d.html" title="כ-ב-ד">וַאֲכַבְּדֵהוּ:</a> <a href="../root/a-r-k.html" title="א-ר-כ">ארֶךְ</a> <a href="../root/y-m-m.html" title="י-מ-מ">יָמִים</a> <a href="../root/sh-b-o.html" title="ש-ב-ע">אַשבִּיעֵהוּ.</a> <a href="../root/r-a-h.html" title="ר-א-ה">וְאַרְאֵהוּ</a> <a href="../root/y-sh-o.html" title="י-ש-ע">בִּישׁוּעָתִי:</a> <a href="../root/a-r-k.html" title="א-ר-כ">ארֶךְ</a> <a href="../root/y-m-m.html" title="י-מ-מ">יָמִים</a> <a href="../root/sh-b-o.html" title="ש-ב-ע">אַשבִּיעֵהוּ.</a> <a href="../root/r-a-h.html" title="ר-א-ה">וְאַרְאֵהוּ</a> <a href="../root/y-sh-o.html" title="י-ש-ע">בִּישׁוּעָתִי:</a></p><h2>Its roots</h2><div class="nb"><a class="nbi" href="../root/k-y.html"><span class="nb-r" dir="rtl">כ-י</span><span class="nb-n">5</span></a><a class="nbi" href="../root/l-a.html"><span class="nb-r" dir="rtl">ל-א</span><span class="nb-n">4</span></a><a class="nbi" href="../root/ch-s-h.html"><span class="nb-r" dir="rtl">ח-ס-ה</span><span class="nb-n">3</span></a><a class="nbi" href="../root/r-a-h.html"><span class="nb-r" dir="rtl">ר-א-ה</span><span class="nb-n">3</span></a><a class="nbi" href="../root/o-l-h.html"><span class="nb-r" dir="rtl">ע-ל-ה</span><span class="nb-n">2</span></a><a class="nbi" href="../root/b-b-b.html"><span class="nb-r" dir="rtl">ב-ב-ב</span><span class="nb-n">2</span></a><a class="nbi" href="../root/m-d-b-r.html"><span class="nb-r" dir="rtl">מ-ד-ב-ר</span><span class="nb-n">2</span></a><a class="nbi" href="../root/l.html"><span class="nb-r" dir="rtl">ל</span><span class="nb-n">2</span></a><a class="nbi" href="../root/a-l.html"><span class="nb-r" dir="rtl">א-ל</span><span class="nb-n">2</span></a><a class="nbi" href="../root/o-n-h.html"><span class="nb-r" dir="rtl">ע-נ-ה</span><span class="nb-n">2</span></a></div><footer>The whole of Siddur Ashkenaz, walked from Sefaria — Weekday, Shabbat, Festivals, Berachot, Kaddish. Hebrew: Metsudah 1981 and Tanach, CC-BY. Every word records how its root was found; words with none render grey. Nothing is guessed.</footer></div>

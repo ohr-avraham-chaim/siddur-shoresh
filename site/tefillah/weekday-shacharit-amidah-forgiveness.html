@@ -1,0 +1,65 @@
+<title>Forgiveness · Siddur Shoresh</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"><style>
+:root{--paper:#FDFCF8;--ink:#1B1A17;--ink-soft:#57544D;--ink-faint:#948F85;
+--rule:#E7E3D8;--rule-soft:#F1EEE5;--tech:#2B4C7E;--tech-wash:#E9EEF5;}
+*{box-sizing:border-box}html{color-scheme:light}
+body{background:var(--paper);color:var(--ink);font-family:"IBM Plex Sans",system-ui,sans-serif;
+margin:0;padding:clamp(22px,5vw,58px) clamp(16px,5vw,38px) 88px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.sheet{max-width:880px;margin:0 auto}
+a{color:inherit;text-decoration:none}
+a.lnk{color:var(--tech);border-bottom:1px solid transparent}
+a.lnk:hover{border-bottom-color:var(--tech)}
+.crumb{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-faint);
+font-weight:600;margin:0 0 26px;display:flex;gap:9px;flex-wrap:wrap}
+.crumb a{color:var(--ink-soft)} .crumb a:hover{color:var(--tech)} .crumb i{color:var(--rule);font-style:normal}
+.root{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;font-size:clamp(48px,10vw,86px);
+font-weight:700;line-height:.95;letter-spacing:.06em;margin:0}
+.gloss{font-family:"Frank Ruhl Libre",Georgia,serif;font-size:clamp(18px,2.5vw,23px);
+color:var(--ink-soft);margin:6px 0 0}
+.stats{font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--ink-soft);
+margin:22px 0 0;padding:14px 0 0;border-top:1px solid var(--rule);display:flex;gap:24px;
+flex-wrap:wrap;font-variant-numeric:tabular-nums}
+.stats b{color:var(--ink);font-weight:500}
+h2{font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-faint);
+font-weight:600;margin:52px 0 4px}
+.sub{font-size:13.5px;color:var(--ink-soft);margin:0 0 20px;max-width:60ch}
+.fp-row{display:grid;grid-template-columns:186px 1fr 34px;gap:14px;align-items:center;
+padding:7px 0;border-bottom:1px solid var(--rule-soft)}
+.fp-row:last-child{border-bottom:none}
+.fp-name{font-size:13.5px;color:var(--ink-soft)} .fp-name.none{color:var(--ink-faint)}
+.fp-track{display:block;height:14px;background:var(--rule-soft);border-radius:1px}
+.tick{width:7px;height:16px;background:var(--tech);border-radius:1px}
+.tick.ghost{background:var(--rule);height:5px;align-self:center}
+.fp-n{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--ink-soft);
+text-align:right;font-variant-numeric:tabular-nums}
+.fp-n.zero{color:var(--rule)}
+.form{display:grid;grid-template-columns:minmax(120px,auto) 1fr 150px;gap:18px;align-items:baseline;
+padding:12px 0;border-bottom:1px solid var(--rule-soft)}
+.f-he{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;font-size:25px;font-weight:500;line-height:1.35}
+.f-en{font-size:14.5px} .f-where{font-size:12.5px}
+.nb{display:flex;gap:9px;flex-wrap:wrap}
+.nbi{display:flex;align-items:baseline;gap:9px;padding:10px 15px;background:var(--tech-wash);border-radius:2px}
+.nb-r{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;font-size:19px;font-weight:500}
+.nb-m{font-size:12.5px;color:var(--ink-soft)} .nb-n{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--ink-faint)}
+.tefillah{font-family:"Frank Ruhl Libre",Georgia,serif;direction:rtl;text-align:right;
+font-size:clamp(21px,3vw,27px);line-height:2.15;margin:6px 0 0}
+.tefillah a{border-bottom:1px solid var(--rule)}
+.tefillah a:hover{border-bottom-color:var(--tech);color:var(--tech)}
+.tefillah a.norr{border-bottom:none;color:var(--ink-faint)}
+.route{display:grid;grid-template-columns:26px 1fr 76px 84px;gap:12px;align-items:baseline;
+padding:10px 0;border-bottom:1px solid var(--rule-soft);font-size:14px}
+.route i{font-family:"IBM Plex Mono",monospace;color:var(--ink-faint);font-style:normal;font-size:12px}
+.route b{font-weight:400}
+.route .n{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--ink-soft);
+text-align:right;font-variant-numeric:tabular-nums}
+.route .c{font-family:"IBM Plex Mono",monospace;font-size:12.5px;color:var(--tech);
+text-align:right;font-variant-numeric:tabular-nums}
+.unlock{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
+.ul{padding:9px 14px;background:var(--tech-wash);border-radius:2px;font-size:13px}
+.ul b{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--tech);font-weight:500}
+footer{margin-top:60px;padding-top:17px;border-top:1px solid var(--rule);
+font-size:11.5px;color:var(--ink-faint);line-height:1.65}
+@media(max-width:660px){.form{grid-template-columns:1fr;gap:2px}.fp-row{grid-template-columns:118px 1fr 30px;gap:9px}
+.route{grid-template-columns:22px 1fr 66px;gap:8px}.route .c{grid-column:3;text-align:right}}
+
+.bar{display:block;height:14px;background:var(--tech);border-radius:1px}
+</style><div class="sheet"><p class="crumb"><a href="../index.html">Siddur Shoresh</a><i>/</i>Weekday<i>/</i>Forgiveness</p><p class="root" dir="rtl" style="font-size:clamp(26px,5vw,44px)">Forgiveness</p><p class="gloss">Weekday &gt; Shacharit &gt; Amidah</p><p class="stats"><span><b>20</b> words</span><span><b>14</b> roots</span><span><b>100%</b> rooted</span></p><h2>The text</h2><p class="sub">Every word links to its root. Grey words have none resolved.</p><p class="tefillah" dir="rtl"><a href="../root/s-l-ch.html" title="ס-ל-ח">סְלַח</a> <a href="../root/l.html" title="ל">לָֽנוּ</a> <a href="../root/a-b-h.html" title="א-ב-ה">אָבִֽינוּ</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/ch-t-a.html" title="ח-ט-א">חָטָֽאנוּ</a> <a href="../root/m-ch-l.html" title="מ-ח-ל">מְחַל</a> <a href="../root/l.html" title="ל">לָֽנוּ</a> <a href="../root/m-l-k.html" title="מ-ל-כ">מַלְכֵּֽנוּ</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/p-sh-o.html" title="פ-ש-ע">פָשָֽׁעְנוּ</a> <a href="../root/k-y.html" title="כ-י">כִּי</a> <a href="../root/ch-v-l.html" title="ח-ו-ל">מוֹחֵל</a> <a href="../root/s-l-ch.html" title="ס-ל-ח">וְסוֹלֵֽחַ</a> <a href="../root/a-th-th.html" title="א-ת-ת">אָֽתָּה:</a> <a href="../root/b-r-k.html" title="ב-ר-כ">בָּרוּךְ</a> <a href="../root/a-th-th.html" title="א-ת-ת">אַתָּה</a> <a href="../root/h-y-h.html" title="ה-י-ה">יְהֹוָה</a> <a href="../root/ch-n-n.html" title="ח-נ-נ">חַנּוּן</a> <a href="../root/r-b-h.html" title="ר-ב-ה">הַמַּרְבֶּה</a> <a href="../root/s-l-ch.html" title="ס-ל-ח">לִסְלֽוֹחַ:</a></p><h2>Its roots</h2><div class="nb"><a class="nbi" href="../root/s-l-ch.html"><span class="nb-r" dir="rtl">ס-ל-ח</span><span class="nb-n">3</span></a><a class="nbi" href="../root/k-y.html"><span class="nb-r" dir="rtl">כ-י</span><span class="nb-n">3</span></a><a class="nbi" href="../root/l.html"><span class="nb-r" dir="rtl">ל</span><span class="nb-n">2</span></a><a class="nbi" href="../root/a-th-th.html"><span class="nb-r" dir="rtl">א-ת-ת</span><span class="nb-n">2</span></a><a class="nbi" href="../root/a-b-h.html"><span class="nb-r" dir="rtl">א-ב-ה</span><span class="nb-n">1</span></a><a class="nbi" href="../root/ch-t-a.html"><span class="nb-r" dir="rtl">ח-ט-א</span><span class="nb-n">1</span></a><a class="nbi" href="../root/m-ch-l.html"><span class="nb-r" dir="rtl">מ-ח-ל</span><span class="nb-n">1</span></a><a class="nbi" href="../root/m-l-k.html"><span class="nb-r" dir="rtl">מ-ל-כ</span><span class="nb-n">1</span></a><a class="nbi" href="../root/p-sh-o.html"><span class="nb-r" dir="rtl">פ-ש-ע</span><span class="nb-n">1</span></a><a class="nbi" href="../root/ch-v-l.html"><span class="nb-r" dir="rtl">ח-ו-ל</span><span class="nb-n">1</span></a></div><footer>The whole of Siddur Ashkenaz, walked from Sefaria — Weekday, Shabbat, Festivals, Berachot, Kaddish. Hebrew: Metsudah 1981 and Tanach, CC-BY. Every word records how its root was found; words with none render grey. Nothing is guessed.</footer></div>
