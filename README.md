@@ -7,7 +7,8 @@ morning you need it again.
 Roots do. Learn **מ-ל-כ** once and you own every *melech*, *malchus* and *yimloch* in
 the siddur — and the siddur will show you where they all are.
 
-**→ [siddur-shoresh.vercel.app](https://siddur-shoresh.vercel.app)** — no install, no account.
+**→ [sefergraph.com/siddur](https://sefergraph.com/siddur/index.html)** — no install. Sign-in
+required for now (2026-09-20); see [RETIRED.md](RETIRED.md).
 
 ## What it is
 
